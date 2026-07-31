@@ -7,13 +7,15 @@ hasCJKLanguage: true
 enableRobotsTXT: true
 disableFastRender: true
 
-[markup.goldmark.renderer]
-unsafe: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
-[params]
-BookSection = "docs"
-disableBreadcrumb: false
-disableChapterBreadcrumb: true
-BookSearch: true
-BookPublic: true
-BookMenuFormat: "full"
+params:
+  BookSection: "docs"
+  disableBreadcrumb: false
+  disableChapterBreadcrumb: true
+  BookSearch: true
+  BookPublic: true
+  BookMenuFormat: "full"
