@@ -32,6 +32,7 @@ Gray's Anatomy for Students - 3rd Edition
 - 骨盆與會陰 - Pelvis & Perineum: https://b101108063-ops.github.io/grays_anatomy/docs/pelvis/
 - 骨盆骨骼（Bony Pelvis）: https://b101108063-ops.github.io/grays_anatomy/docs/pelvis/01-bony-pelvis/
 - 骨盆肌肉（Pelvic Muscles）: https://b101108063-ops.github.io/grays_anatomy/docs/pelvis/02-pelvic-muscles/
+- 女性骨盆內臟（Female Pelvic Viscera）: https://b101108063-ops.github.io/grays_anatomy/docs/pelvis/03-pelvic-viscera-female/
 - 下肢 - Lower Limb: https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/
 - 上肢 - Upper Limb: https://b101108063-ops.github.io/grays_anatomy/docs/upper-limb/
 - 頭頸部 - Head & Neck: https://b101108063-ops.github.io/grays_anatomy/docs/head-neck/
@@ -42,6 +43,7 @@ Gray's Anatomy for Students - 3rd Edition
 - 鼻腔與口腔（Nasal & Oral Cavity）: https://b101108063-ops.github.io/grays_anatomy/docs/head-neck/05-nasal-oral-cavity/
 - 頸部筋膜與間隙（Fascia & Spaces of Neck）: https://b101108063-ops.github.io/grays_anatomy/docs/head-neck/06-neck-fascia-spaces/
 - 甲狀腺與甲狀旁腺（Thyroid & Parathyroid）: https://b101108063-ops.github.io/grays_anatomy/docs/head-neck/07-thyroid-parathyroid/
+- 咽與喉（Pharynx & Larynx）: https://b101108063-ops.github.io/grays_anatomy/docs/head-neck/08-pharynx-larynx/
 - 附錄 - Appendix: https://b101108063-ops.github.io/grays_anatomy/docs/appendix/
 
 
