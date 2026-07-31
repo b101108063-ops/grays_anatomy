@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="{{ default .Site.Language.Name .Site.Language.Locale }}" dir="{{ default "ltr" .Site.Language.Direction }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }} - Gray's Anatomy for Students</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --bg-secondary: #161b22;
+      --bg-content: #ffffff;
+      --text: #c9d1d9;
+      --text-heading: #e6edf3;
+      --accent: #58a6ff;
+      --accent-hover: #79c0ff;
+      --border: #30363d;
+      --link: #58a6ff;
+      --link-hover: #79c0ff;
+      --table-header: #21262d;
+      --table-alt: #161b22;
+      --clinical-green: #2ea043;
+      --font-ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      --font-content: "Georgia", "Noto Serif TC", serif;
+      --reading-width: 720px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: var(--font-ui);
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    /* Navigation */
+    .nav-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 56px;
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 24px;
+      z-index: 100;
+    }
+    .nav-title {
+      font-size: 1.1em;
+      font-weight: 600;
+      color: var(--text-heading);
+    }
+    .nav-title span { color: var(--accent); }
+    .nav-links {
+      margin-left: auto;
+      display: flex;
+      gap: 24px;
+    }
+    .nav-links a {
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.9em;
+    }
+    .nav-links a:hover { color: var(--accent); }
+
+    /* Main layout */
+    .layout {
+      display: flex;
+      margin-top: 56px;
+      min-height: calc(100vh - 56px);
+    }
+
+    /* Sidebar - Region selector */
+    .sidebar {
+      width: 260px;
+      position: fixed;
+      top: 56px;
+      left: 0;
+      bottom: 0;
+      background: var(--bg-secondary);
+      border-right: 1px solid var(--border);
+      overflow-y: auto;
+      padding: 20px 0;
+      flex-shrink: 0;
+    }
+    .sidebar-section {
+      padding: 8px 0;
+    }
+    .sidebar-section-title {
+      padding: 6px 20px;
+      font-size: 0.75em;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #8b949e;
+      font-weight: 600;
+    }
+    .sidebar a {
+      display: block;
+      padding: 8px 20px;
+      color: var(--text);
+      text-decoration: none;
+      font-size: 0.88em;
+      border-left: 3px solid transparent;
+    }
+    .sidebar a:hover {
+      background: var(--bg);
+      border-left-color: var(--accent);
+      color: var(--accent);
+    }
+    .sidebar a.active {
+      background: var(--bg);
+      border-left-color: var(--accent);
+      color: var(--accent);
+    }
+    .sidebar .sub a {
+      padding-left: 36px;
+      font-size: 0.82em;
+    }
+
+    /* Content */
+    .content {
+      flex: 1;
+      margin-left: 260px;
+      padding: 40px 60px;
+      max-width: calc(var(--reading-width) + 400px);
+    }
+
+    /* Reading area - narrower for comfortable reading */
+    .reading-area {
+      max-width: var(--reading-width);
+      margin: 0 auto;
+    }
+
+    /* Typography */
+    .content h1 {
+      font-size: 2em;
+      color: var(--text-heading);
+      margin-bottom: 12px;
+      font-family: var(--font-ui);
+    }
+    .content h2 {
+      font-size: 1.4em;
+      color: var(--text-heading);
+      margin: 36px 0 16px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid var(--border);
+    }
+    .content h3 {
+      font-size: 1.15em;
+      color: var(--text-heading);
+      margin: 24px 0 12px;
+    }
+    .content p {
+      margin-bottom: 16px;
+      font-family: var(--font-content);
+      font-size: 1.05em;
+      color: #d0d7de;
+    }
+    .content ul, .content ol {
+      margin: 16px 0 16px 24px;
+    }
+    .content li {
+      margin-bottom: 8px;
+      font-family: var(--font-content);
+      color: #d0d7de;
+    }
+    .content strong {
+      color: var(--text-heading);
+    }
+
+    /* Clinical boxes */
+    .clinical-box {
+      background: #0d1f0d;
+      border: 1px solid #2ea043;
+      border-left: 4px solid var(--clinical-green);
+      border-radius: 6px;
+      padding: 16px 20px;
+      margin: 20px 0;
+    }
+    .clinical-box-title {
+      color: var(--clinical-green);
+      font-weight: 700;
+      font-size: 0.85em;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 10px;
+    }
+    .clinical-box p {
+      font-size: 0.95em;
+      margin-bottom: 8px;
+      color: #b0d4a8;
+    }
+    .clinical-box p:last-child { margin-bottom: 0; }
+
+    /* Tables */
+    .table-wrapper {
+      overflow-x: auto;
+      display: block;
+      margin: 20px 0;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88em;
+      background: var(--bg-secondary);
+    }
+    th {
+      background: var(--table-header);
+      color: var(--text-heading);
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 2px solid var(--border);
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    td {
+      padding: 8px 14px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    tr:nth-child(2n) td { background: var(--table-alt); }
+    tr:last-child td { border-bottom: none; }
+
+    /* Images with lightbox */
+    .figure {
+      margin: 24px 0;
+    }
+    .figure img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      cursor: zoom-in;
+      transition: opacity 0.2s;
+    }
+    .figure img:hover { opacity: 0.9; }
+    .figure-caption {
+      font-size: 0.82em;
+      color: #8b949e;
+      margin-top: 8px;
+      font-style: italic;
+    }
+
+    /* Chapter navigation */
+    .chapter-nav {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      gap: 16px;
+    }
+    .chapter-nav a {
+      flex: 1;
+      padding: 14px 18px;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      text-decoration: none;
+      color: var(--text);
+      font-size: 0.9em;
+    }
+    .chapter-nav a:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .chapter-nav .next { text-align: right; }
+    .chapter-nav span { display: block; font-size: 0.75em; color: #8b949e; margin-bottom: 4px; }
+
+    /* Region landing */
+    .region-header {
+      margin-bottom: 40px;
+    }
+    .region-header h1 {
+      font-size: 2.2em;
+      margin-bottom: 12px;
+    }
+    .region-header .region-desc {
+      font-size: 1.1em;
+      color: #8b949e;
+      margin-bottom: 20px;
+    }
+    .region-chapters {
+      display: grid;
+      gap: 12px;
+    }
+    .region-chapter {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 16px 20px;
+      text-decoration: none;
+      color: var(--text);
+      display: block;
+      transition: border-color 0.2s;
+    }
+    .region-chapter:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .region-chapter .ch-num {
+      font-size: 0.75em;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 4px;
+    }
+    .region-chapter .ch-title {
+      font-size: 1em;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .region-chapter .ch-pages {
+      font-size: 0.8em;
+      color: #8b949e;
+    }
+
+    /* Learning objectives */
+    .objectives-box {
+      background: #0d1a2d;
+      border: 1px solid var(--accent);
+      border-radius: 8px;
+      padding: 20px 24px;
+      margin: 24px 0;
+    }
+    .objectives-box h3 {
+      color: var(--accent);
+      font-size: 1em;
+      margin: 0 0 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .objectives-box ul {
+      margin: 0;
+      list-style: none;
+    }
+    .objectives-box li {
+      padding: 6px 0;
+      padding-left: 20px;
+      position: relative;
+    }
+    .objectives-box li::before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      color: var(--accent);
+    }
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      .sidebar { display: none; }
+      .content { margin-left: 0; padding: 24px 20px; }
+      .nav-links { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav-bar">
+    <div class="nav-title"><span>Gray's</span> Anatomy for Students</div>
+    <div class="nav-links">
+      <a href="/grays_anatomy/">首頁</a>
+      <a href="/grays_anatomy/docs/body/">全身</a>
+      <a href="/grays_anatomy/docs/head-neck/">頭頸</a>
+      <a href="/grays_anatomy/docs/back/">背部</a>
+      <a href="/grays_anatomy/docs/thorax/">胸腔</a>
+      <a href="/grays_anatomy/docs/abdomen/">腹部</a>
+      <a href="/grays_anatomy/docs/pelvis/">骨盆</a>
+      <a href="/grays_anatomy/docs/upper-limb/">上肢</a>
+      <a href="/grays_anatomy/docs/lower-limb/">下肢</a>
+      <a href="/grays_anatomy/docs/appendix/">附錄</a>
+    </div>
+  </nav>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">人體分區</div>
+        <a href="/grays_anatomy/docs/body/">全身概覽</a>
+        <div class="sub">
+          <a href="/grays_anatomy/docs/body/">What is Anatomy?</a>
+          <a href="/grays_anatomy/docs/body/#imaging"> Imaging</a>
+          <a href="/grays_anatomy/docs/body/#systems"> Body Systems</a>
+        </div>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">區域章節</div>
+        <a href="/grays_anatomy/docs/back/">1 Back</a>
+        <a href="/grays_anatomy/docs/thorax/">2 Thorax</a>
+        <a href="/grays_anatomy/docs/abdomen/">3 Abdomen</a>
+        <a href="/grays_anatomy/docs/pelvis/">4 Pelvis & Perineum</a>
+        <a href="/grays_anatomy/docs/lower-limb/">5 Lower Limb</a>
+        <a href="/grays_anatomy/docs/upper-limb/">6 Upper Limb</a>
+        <a href="/grays_anatomy/docs/head-neck/">7 Head & Neck</a>
+      </div>
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">附錄</div>
+        <a href="/grays_anatomy/docs/appendix/">Appendix</a>
+      </div>
+    </aside>
+
+    <main class="content">
+      <div class="reading-area">
+        {{ .Content }}
+      </div>
+    </main>
+  </div>
+</body>
+</html>
