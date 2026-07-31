@@ -31,7 +31,9 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: |
+          hugo mod tidy
+          hugo --minify
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
