@@ -1,47 +1,13 @@
-name: Deploy Hugo site to GitHub Pages
-
-on:
-  push:
-    branches: [main]
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: '0.158.0'
-          extended: true
-
-      - name: Build
-        run: |
-          hugo
-          # Write correct homepage HTML directly
-          cat > public/index.html << 'HOMEPAGE_EOF'
-<!DOCTYPE html>
+#!/usr/bin/env python3
+"""Overwrite Hugo's homepage output with correct card grid HTML."""
+correct_html = """<!DOCTYPE html>
 <html lang="zh-tw">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Gray's Anatomy for Students</title>
 <style>
-:root{--bg:#0d1117;--sidebar-bg:#161b22;--card-border:#30363d;--text:#e6edf3;--text-muted:#8b949e;--accent:#58a6ff;--accent-green:#3fb950}
+:root{--bg:#0d1117;--sidebar-bg:#161b22;--card-border:#30363d;--text:#e6edf3;--text-muted:#8b949e;--accent:#58a6ff}
 *{box-sizing:border-box;margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;min-height:100vh}
 .site-header{background:linear-gradient(135deg,#1a2332 0%,#0d1117 100%);border-bottom:1px solid var(--card-border);padding:40px 24px 32px;text-align:center}
@@ -51,7 +17,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 .container{max-width:960px;margin:0 auto;padding:40px 20px 60px}
 .section-title{font-size:0.72rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--text-muted);margin-bottom:18px;padding-left:4px}
 .chapter-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
-.chapter-card{display:block;background:var(--sidebar-bg);border:1px solid var(--card-border);border-radius:10px;padding:18px 20px 20px;text-decoration:none;transition:border-color 0.2s,transform 0.2s,box-shadow 0.2s;position:relative;overflow:hidden}
+.chapter-card{display:block;background:var(--sidebar-bg);border:1px solid var(--card-border);border-radius:10px;padding:18px 20px 20px;text-decoration:none;transition:border-color 0.2s,transform 0.2s,box-shadow 0.2s;position:relative}
 .chapter-card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent);opacity:0;transition:opacity 0.2s}
 .chapter-card:hover{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,0.35)}
 .chapter-card:hover::before{opacity:1}
@@ -77,12 +43,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 <div class="chapter-grid">
 <a href="/grays_anatomy/docs/body/" class="chapter-card"><div class="ch-num">第1章</div><div class="ch-title">全身概覽</div><div class="ch-title-en">The Body</div><div class="ch-pages">解剖學基本概念、術語、影像學、身體系統</div></a>
 <a href="/grays_anatomy/docs/back/" class="chapter-card"><div class="ch-num">第2章</div><div class="ch-title">背部</div><div class="ch-title-en">Back</div><div class="ch-pages">脊椎、椎骨、椎間盤、脊髓、背部肌肉</div></a>
-<a href="/grays_anatomy/docs/thorax/" class="chapter-card"><div class="ch-num">第3章</div><div class="ch-title">胸腔</div><div class="ch-title-en">Thorax</div><div class="ch-pages">胸壁、肺部、縱膈、心臟、橫膈</div></a>
+<a href="/grays_anatomy/docs/thorax/" class="chapter-card"><div class="ch-num">第3章</div><div class="ch-title">胸腔</div><div class="ch-title-en">Thorax</div><div class="ch-pages">胸壁、肺部、縱膈，心臟、橫膈</div></a>
 <a href="/grays_anatomy/docs/abdomen/" class="chapter-card"><div class="ch-num">第4章</div><div class="ch-title">腹部</div><div class="ch-title-en">Abdomen</div><div class="ch-pages">腹壁、胃腸道、肝膽、胰臟、腎臟</div></a>
-<a href="/grays_anatomy/docs/pelvis/" class="chapter-card"><div class="ch-num">第5章</div><div class="ch-title">骨盆與會陰</div><div class="ch-title-en">Pelvis & Perineum</div><div class="ch-pages">骨盆結構、泌尿生殖系統、會陰</div></a>
+<a href="/grays_anatomy/docs/pelvis/" class="chapter-card"><div class="ch-num">第5章</div><div class="ch-title">骨盆與會陰</div><div class="ch-title-en">Pelvis &amp; Perineum</div><div class="ch-pages">骨盆結構、泌尿生殖系統、會陰</div></a>
 <a href="/grays_anatomy/docs/lower-limb/" class="chapter-card"><div class="ch-num">第6章</div><div class="ch-title">下肢</div><div class="ch-title-en">Lower Limb</div><div class="ch-pages">髖關節、膝關節、腿部、足部</div></a>
-<a href="/grays_anatomy/docs/upper-limb/" class="chapter-card"><div class="ch-num">第7章</div><div class="ch-title">上肢</div><div class="ch-title-en">Upper Limb</div><div class="ch-pages">肩關節、手臂、手部、臂叢</div></a>
-<a href="/grays_anatomy/docs/head-neck/" class="chapter-card"><div class="ch-num">第8章</div><div class="ch-title">頭頸部</div><div class="ch-title-en">Head & Neck</div><div class="ch-pages">顱骨、腦膜、顏面、頸部、顱神經</div></a>
+<a href="/grays_anatomy/docs/upper-limb/" class="chapter-card"><div class="ch-num">第7章</div><div class="ch-title">上肢</div><div class="ch-title-en">Upper Limb</div><div class="ch-pages">肩關節，手臂，手部、臂叢</div></a>
+<a href="/grays_anatomy/docs/head-neck/" class="chapter-card"><div class="ch-num">第8章</div><div class="ch-title">頭頸部</div><div class="ch-title-en">Head &amp; Neck</div><div class="ch-pages">顱骨、腦膜、顏面、頸部、顱神經</div></a>
 <a href="/grays_anatomy/docs/appendix/" class="chapter-card"><div class="ch-num">附錄</div><div class="ch-title">附錄</div><div class="ch-title-en">Appendix</div><div class="ch-pages">表面解剖、影像學、神經血管速查表</div></a>
 </div>
 <div class="about-section">
@@ -93,23 +59,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,san
 </main>
 </body>
 </html>
-HOMEPAGE_EOF
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./public
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+"""
+with open('public/index.html', 'w', encoding='utf-8') as f:
+    f.write(correct_html)
+print(f"Written {len(correct_html)} bytes to public/index.html")
