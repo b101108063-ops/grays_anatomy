@@ -1,6 +1,5 @@
 ---
 title: Gray's Anatomy for Students
-isHomepage: true
 ---
 
 <p class="section-title">人體分區章節</p>
@@ -79,3 +78,29 @@ Gray's Anatomy for Students 是一本以**人體分區（Regional Approach）**�
 
 每章內容包含導讀、區域解剖、臨床關聯、表面解剖，協助視覺化學習。
 </div>
+
+<style>
+:root{--bg:#0d1117;--sidebar-bg:#161b22;--card-border:#30363d;--text:#e6edf3;--text-muted:#8b949e;--accent:#58a6ff;--accent-green:#3fb950}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;min-height:100vh}
+.site-header{background:linear-gradient(135deg,#1a2332 0%,#0d1117 100%);border-bottom:1px solid var(--card-border);padding:40px 24px 32px;text-align:center}
+.site-header h1{font-size:2rem;font-weight:700;color:#fff;letter-spacing:-0.02em;margin-bottom:4px}
+.site-header .subtitle{font-size:0.9rem;color:var(--text-muted)}
+.site-header .divider{width:60px;height:3px;background:var(--accent);margin:14px auto 0;border-radius:2px}
+.container{max-width:960px;margin:0 auto;padding:40px 20px 60px}
+.section-title{font-size:0.72rem;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;color:var(--text-muted);margin-bottom:18px;padding-left:4px}
+.chapter-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.chapter-card{display:block;background:var(--sidebar-bg);border:1px solid var(--card-border);border-radius:10px;padding:18px 20px 20px;text-decoration:none;transition:border-color 0.2s,transform 0.2s,box-shadow 0.2s;position:relative;overflow:hidden}
+.chapter-card::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:var(--accent);opacity:0;transition:opacity 0.2s}
+.chapter-card:hover{border-color:var(--accent);transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,0.35)}
+.chapter-card:hover::before{opacity:1}
+.ch-num{font-size:0.68rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent);margin-bottom:5px}
+.ch-title{font-size:1rem;font-weight:600;color:#fff;margin-bottom:2px;line-height:1.3}
+.ch-title-en{font-size:0.78rem;color:var(--text-muted);font-weight:400;margin-bottom:8px}
+.ch-pages{font-size:0.8rem;color:var(--text-muted);line-height:1.5}
+.about-section{margin-top:44px;background:var(--sidebar-bg);border:1px solid var(--card-border);border-radius:10px;padding:24px 28px}
+.about-section h2{color:#fff;font-size:1rem;font-weight:600;margin-bottom:10px;border-bottom:1px solid var(--card-border);padding-bottom:8px;margin-top:0}
+.about-section p{font-size:0.88rem;color:var(--text-muted);margin-bottom:8px}
+.about-section p:last-child{margin-bottom:0}
+@media(max-width:600px){.site-header h1{font-size:1.5rem}.chapter-grid{grid-template-columns:1fr}}
+</style>
