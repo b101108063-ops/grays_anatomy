@@ -224,14 +224,14 @@ In some patients with chronic limb ischemia, an acute event blocks the vessels o
 
 ---
 
-**Fig. 6.63** — Femoral artery  
-**Fig. 6.64** — Deep artery of thigh (A. Anterior view, B. Posterior view)  
-**Fig. 6.65** — Obturator artery  
-**Fig. 6.66** — Femoral nerve  
-**Fig. 6.67** — Obturator nerve  
-**Fig. 6.68** — Sciatic nerve  
-**Fig. 6.69** — Knee joint (joint capsule not shown)  
-**Fig. 6.70** — Articular surfaces of the knee joint (A. Extended, B. Flexed, C. Anterior view)  
+**Fig. 6.63** — Femoral artery
+**Fig. 6.64** — Deep artery of thigh (A. Anterior view, B. Posterior view)
+**Fig. 6.65** — Obturator artery
+**Fig. 6.66** — Femoral nerve
+**Fig. 6.67** — Obturator nerve
+**Fig. 6.68** — Sciatic nerve
+**Fig. 6.69** — Knee joint (joint capsule not shown)
+**Fig. 6.70** — Articular surfaces of the knee joint (A. Extended, B. Flexed, C. Anterior view)
 **Fig. 6.71** — Menisci of the knee joint (A. Superior view, B. MRI sagittal plane — medial meniscus, C. MRI sagittal plane — lateral meniscus)
 # Gray's Anatomy — Upper Limb Segment 2
 
@@ -732,11 +732,11 @@ Tibialis posterior 肌肉起源於骨間膜及相鄰之脛骨、腓骨後面（F
 
 - **觀察肌肉萎縮**：肌肉容積消失可能表示神經支配喪失或減少。
 - **測試肌群力量**：
-  - 髖屈曲（L1, L2—iliopsoas，伸直抬腿測試）
-  - 膝屈曲（L5至S2—hamstrings，患者屈膝時檢查者施力保持膝關節伸直）
-  - 膝伸展（L3, L4—quadriceps femoris，患者尝试保持腿部伸直時檢查者施力屈膝）
-  - 踝蹠屈（S1, S2—患者向下推足，檢查者於足底施力背屈踝關節）
-  - 踝背屈（L4, L5—患者向上拉足，檢查者於足背施力蹠屈踝關節）
+ - 髖屈曲（L1, L2—iliopsoas，伸直抬腿測試）
+ - 膝屈曲（L5至S2—hamstrings，患者屈膝時檢查者施力保持膝關節伸直）
+ - 膝伸展（L3, L4—quadriceps femoris，患者尝试保持腿部伸直時檢查者施力屈膝）
+ - 踝蹠屈（S1, S2—患者向下推足，檢查者於足底施力背屈踝關節）
+ - 踝背屈（L4, L5—患者向上拉足，檢查者於足背施力蹠屈踝關節）
 - **檢查膝反射與踝反射**：以叩診槌敲擊髕韌帶測試L3–L4脊髓節段；敲擊跟腱測試S1–S2脊髓節段。
 - **評估感覺輸入**：測試下肢皮節之感覺，包括輕觸、針刺及震動覺。
 
@@ -819,8 +819,7 @@ Medial calcaneal nerve 支配足跟內側面及足底之皮膚（Fig. 6.86）。
 
 ---
 
-## 小腿外側筋膜室（Lateral Compartment of Leg）
-
+## Lateral Compartment of Leg（小腿外側筋膜室）
 ### 肌肉
 
 小腿外側筋膜室有兩塊肌肉：**Fibularis longus（腓骨長肌）** 及 **Fibularis brevis（腓骨短肌）**（Fig. 6.87 及 Table 6.8）。兩者均使足外翻（將足底轉向外側），並由 **Superficial fibular nerve（淺腓神經）** 支配，該神經為 common fibular nerve 之分支。
@@ -899,8 +898,7 @@ Deep fibular nerve 向前內側穿過肌間隔進入小腿前側筋膜室並支�
 
 ---
 
-## 小腿前側筋膜室（Anterior Compartment of Leg）
-
+## Anterior Compartment of Leg（小腿前側筋膜室）
 ### 肌肉
 
 小腿前側筋膜室有四塊肌肉：**Tibialis anterior（脛前肌）**、**Extensor hallucis longus（拇長伸肌）**、**Extensor digitorum longus（趾長伸肌）** 及 **Fibularis tertius（第三腓骨肌）**（Fig. 6.89 及 Table 6.9）。集體功能為於踝關節背屈足部、伸展足趾及內翻足部。所有肌肉均由 **Deep fibular nerve（深腓神經）** 支配，該神經為 common fibular nerve 之分支。
@@ -968,10 +966,8 @@ Fibularis tertius 輔助足外翻及背屈。由 **Deep fibular nerve（深腓�
 
 ---
 
-## 小腿前側筋膜室（Anterior Compartment of Leg）
-
-### 小腿前側筋膜室肌肉（Muscles of the Anterior Compartment of Leg）
-
+## Anterior Compartment of Leg（小腿前側筋膜室）
+### Muscles of the Anterior Compartment of Leg（小腿前側筋膜室肌肉）
 > **神經支配說明**：脊髓節段以粗體標示者為支配該肌肉的主要節段。
 
 | **肌肉** | **起始部** | **附著部** | **神經支配** | **功能** |
@@ -1019,8 +1015,7 @@ Fibularis tertius 輔助足部背屈，並可能輔助外翻，由 **deep fibula
 
 ---
 
-## 小腿前側筋膜室的動脈（Arteries）
-
+## Arteries（小腿前側筋膜室的動脈）
 ### Anterior Tibial Artery
 
 與小腿前側筋膜室相關的動脈為 **anterior tibial artery**，起源於小腿後側筋膜室的 popliteal artery，經由骨間膜上的孔道向前穿入小腿前側筋膜室。
@@ -1033,14 +1028,12 @@ Anterior tibial artery 沿骨間膜下行通過前側筋膜室（圖 6.90）。�
 
 ---
 
-## 小腿前側筋膜室的靜脈（Veins）
-
+## Veins（小腿前側筋膜室的靜脈）
 深靜脈伴隨同名動脈分布。
 
 ---
 
-## 小腿前側筋膜室的神經（Nerves）
-
+## Nerves（小腿前側筋膜室的神經）
 ### Deep Fibular Nerve
 
 與小腿前側筋膜室相關的神經為 **deep fibular nerve**（圖 6.90）。此神經起源於小腿外側筋膜室，為 common fibular nerve 的兩條分支之一。
@@ -1057,8 +1050,7 @@ Deep fibular nerve：
 
 ---
 
-## 足部（Foot）
-
+## Foot（足部）
 ### 概述
 
 **足部**是踝關節遠端的下肢區域，分為踝部、蹠骨部（metatarsus）及趾部（digits）。
@@ -1071,8 +1063,7 @@ Deep fibular nerve：
 
 ---
 
-### 足部骨骼（Bones）
-
+### Bones（足部骨骼）
 足部骨骼可分為三群（圖 6.92）：
 
 - **七塊跗骨**，構成踝關節的骨骼框架；
@@ -1420,10 +1411,10 @@ The metatarsal of the great toe is oriented in the same plane as the metatarsals
 **Tarsal tunnel（踝隧道）** 形成於踝關節的**後內側（posteromedial side）**，由以下結構組成：
 
 - 由以下骨骼所形成的凹陷：
-  - **Tibia（脛骨）** 的 **medial malleolus（內踝）**
-  - **Talus（距骨）** 的內側與後表面
-  - **Calcaneus（跟骨）** 的內側面
-  - **Calcaneus（跟骨）** 的 **sustentaculum tali（載距突）** 下表面
+ - **Tibia（脛骨）** 的 **medial malleolus（內踝）**
+ - **Talus（距骨）** 的內側與後表面
+ - **Calcaneus（跟骨）** 的內側面
+ - **Calcaneus（跟骨）** 的 **sustentaculum tali（載距突）** 下表面
 - 上方覆蓋的 **flexor retinaculum（屈肌支持帶）**（圖 6.105）
 
 ### Flexor Retinaculum（屈肌支持帶）
@@ -1691,9 +1682,9 @@ The metatarsal of the great toe is oriented in the same plane as the metatarsals
 
 背側骨間肌的附著如下：
 - 前三塊附著於：
-  - 趾 II 的近節趾骨底部（兩側）與伸肌罩的兩角——因此趾 II 可以內收或外展
-  - 趾 III 的近節趾骨底部外側與伸肌罩的外側角
-  - 趾 IV 的近節趾骨底部外側與伸肌罩的外側角
+ - 趾 II 的近節趾骨底部（兩側）與伸肌罩的兩角——因此趾 II 可以內收或外展
+ - 趾 III 的近節趾骨底部外側與伸肌罩的外側角
+ - 趾 IV 的近節趾骨底部外側與伸肌罩的外側角
 - 第四塊附著於趾 V 的近節趾骨底部外側與伸肌罩的外側角
 
 **背側骨間肌**的作用是外展相應的腳趾（相對於中線而言），由**lateral plantar nerve（外側蹠神經）**支配（第一、第二背側骨間肌也可能接受**deep fibular nerve（腓深神經）**的部分神經支配）。
@@ -1989,13 +1980,13 @@ The metatarsal of the great toe is oriented in the same plane as the metatarsals
 **Lateral plantar nerve** 的深支是運動支，伴隨 **lateral plantar artery** 在長屈肌腱和 **adductor hallucis** 深處走行。它供應第二至第四塊蚓狀肌、**adductor hallucis** 和除第四和第五蹠骨之間的骨間肌（由淺支支配）外的所有骨間肌。
 
 > **臨床重點**：**Morton's Neuroma（莫頓神經瘤）**
-> 
+>
 > **Morton's neuroma** 是一種增粗的蹠總神經，通常位於第三和第四趾之間的第三蹠間隙。足部的這個區域，**lateral plantar nerve** 通常與 **medial plantar nerve** 會合。當兩條神經會合時，結果神經的直徑通常比其它趾的神經大。此外，它處於相對淺層的位置，就在足部脂肪墊上方，接近动脉和靜脈。神經上方是 **deep transverse metatarsal ligament（深橫蹠韌帶）**，這是一個寬闊堅固的結構，將蹠骨固定在一起。
-> 
+>
 > 通常，當患者進入行走「推進」階段時，趾間神經被夾在地面和 **deep transverse metatarsal ligament** 之間。這些力傾向於擠壓蹠總神經，可能引起刺激，通常伴隨有相關的炎症變化和增厚。
-> 
+>
 > 患者通常在第三蹠間隙感到疼痛，可能是尖銳或鈍痛，且通常因穿鞋和行走而加重。
-> 
+>
 > 治療可能包括注射抗炎藥物，或可能需要手術切除病變。
 
 ### Deep Fibular Nerve（腓深神經）
@@ -2085,8 +2076,8 @@ The **popliteal fossa** is a diamond-shaped depression formed between the **hams
 
 - **Inferior margins**: medial and lateral heads of the **gastrocnemius muscle**
 - **Superior margins**:
-  - Laterally: **biceps femoris muscle**
-  - Medially: **semitendinosus** and **semimembranosus muscles**
+ - Laterally: **biceps femoris muscle**
+ - Medially: **semitendinosus** and **semimembranosus muscles**
 
 The tendons of the biceps femoris muscle and the semitendinosus muscle are palpable and often visible.
 
@@ -2689,10 +2680,8 @@ A tumor at the apex of the lung that can invade the **brachial plexus**, causing
 
 # Upper Limb — Segment 11
 
-## 運動總覽（Movements）
-
-### 肩部運動（Arm Movements）
-
+## Movements（運動總覽）
+### Arm Movements（肩部運動）
 上肢的主要運動包括：
 
 - **flexion（屈曲）**
@@ -2705,26 +2694,22 @@ A tumor at the apex of the lung that can invade the **brachial plexus**, causing
 
 > **臨床重點**：肩部的環繞運動結合多軸關節特性，使手臂可進行全方位活動，但同時也使 Glenohumeral joint（盂肱關節）成為人體最常脫臼的關節之一。
 
-### 肘部運動（Elbow Joint Movements）
-
+### Elbow Joint Movements（肘部運動）
 肘關節的主要運動為前臂的**屈曲（flexion）**與**伸展（extension）**（見 Fig. 7.5A）。
 
-### 前臂運動（Forearm Movements）
-
+### Forearm Movements（前臂運動）
 前臂遠端的外側骨——**radius（橈骨）**，可翻越相鄰的內側骨——**ulna（尺骨）**的頭部。由於手與橈骨相連，只需將橈骨遠端交叉跨過尺骨，即可有效地將手從掌心向前（palm-anterior）位置翻轉至掌心向後（palm-posterior）位置（見 Fig. 7.5B）。
 
 此運動稱為**pronation（旋前）**，僅發生在前臂。**Supination（旋後）**則將手恢復至解剖姿勢。
 
 > **臨床重點**：Pronation 與 supination 的動作幅度因人而異，臨床上常以旋前/旋後活動度評估前臂功能。橈骨頭骨折或 proximal radioulnar joint（近端橈尺關節）損傷時，旋前/旋後會受到明顯限制。
 
-### 腕部運動（Wrist Joint Movements）
-
+### Wrist Joint Movements（腕部運動）
 腕關節處，手可進行**abduction（外展）**、**adduction（內收）**、**flexion（屈曲）**、**extension（伸展）**及**circumduction（環繞運動）**（見 Fig. 7.6）。這些動作結合肩、臂、前臂的運動，使手能相對於身體達到極大範圍的姿勢。
 
 ---
 
-## 手作為機械工具（The Hand as a Mechanical Tool）
-
+## The Hand as a Mechanical Tool（手作為機械工具）
 手的主要功能之一是抓握（gripping）與操作物體。抓握物體通常涉及手指對拇指的屈曲。根據不同類型的握法，手部肌肉的作用包括：
 
 - **調整來自前臂並插入手指的長肌腱（long tendons）的動作**
@@ -2732,18 +2717,15 @@ A tumor at the apex of the lung that can invade the **brachial plexus**, causing
 
 ---
 
-## 手作為感覺工具（The Hand as a Sensory Tool）
-
+## The Hand as a Sensory Tool（手作為感覺工具）
 手可用於透過觸覺辨別物體。手指掌側的墊狀區域（pads）含有高密度的**軀體感覺受器（somatic sensory receptors）**。此外，大腦皮質中專門用於解讀手部資訊——特別是拇指——的感覺皮質區域，相對於許多其他皮膚區域而言，所占比例異常地大。
 
 > **臨床重點**：手部感覺皮質的高度錐定表現臨床上可用於評估神經可塑性變化，例如中風康復或截肢後的皮質重組。
 
 ---
 
-## 結構組成（Component Parts）
-
-### 骨骼與關節（Bones and Joints）
-
+## Component Parts（結構組成）
+### Bones and Joints（骨骼與關節）
 #### 肩帶骨骼（Shoulder Girdle）
 
 肩部的骨骼包括**scapula（肩胛骨）**、**clavicle（鎖骨）**及**humerus（肱骨）**近端（見 Fig. 7.7）。
@@ -2774,8 +2756,8 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 - **腕骨（Carpal bones）**：8塊小骨骼，關節間活動度有限，幾乎作為一個整體單位運作。
 - **掌骨（Metacarpals）**：5塊，每指一根，是手掌的主要骨骼基礎（見 Fig. 7.7）。
-  - 拇指掌骨（Metacarpal I）與腕骨之間的關節為**鞍狀關節（saddle joint）**，賦予拇指比其他手指更大的活動度。
-  - 拇指掌骨與食指掌骨之間缺乏強韌的韌帶連接，加上此特殊的鞍狀關節，使拇指能相對於其他手指自由移動。
+ - 拇指掌骨（Metacarpal I）與腕骨之間的關節為**鞍狀關節（saddle joint）**，賦予拇指比其他手指更大的活動度。
+ - 拇指掌骨與食指掌骨之間缺乏強韌的韌帶連接，加上此特殊的鞍狀關節，使拇指能相對於其他手指自由移動。
 - **指骨（Phalanges）**：拇指有2節指骨，其餘各指有3節（見 Fig. 7.7）。
 
 #### 手部關節（Joints of the Hand）
@@ -2787,8 +2769,7 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 ---
 
-### 肌肉（Muscles）
-
+### Muscles（肌肉）
 #### 肩部肌肉（Shoulder Muscles）
 
 部分肩部肌肉，如**trapezius（斜方肌）**、**levator scapulae（提肩胛肌）**及**rhomboids（菱形肌）**，連接肩胛骨與鎖骨至軀幹。其他肌肉連接鎖骨、肩胛骨及體壁至肱骨近端，包括**pectoralis major（胸大肌）**、**pectoralis minor（胸小肌）**、**latissimus dorsi（背闊肌）**、**teres major（大圓肌）**及**deltoid（三角肌）**（見 Fig. 7.9A, B）。
@@ -2825,10 +2806,8 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 ---
 
-## 與其他區域的關係（Relationship to Other Regions）
-
-### 頸部（Neck）
-
+## Relationship to Other Regions（與其他區域的關係）
+### Neck（頸部）
 上肢與頸部直接相連。**胸廓上口（superior thoracic aperture）**兩側各有 一個**腋窩入口（axillary inlet）**，由以下結構形成（見 Fig. 7.11）：
 
 - **第一肋骨（Rib I）**的外側緣
@@ -2838,8 +2817,7 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 上肢的主要**artery（动脉）**與**vein（靜脈）**經由 Rib I 上方及腋窩入口在胸廓與上肢之間通過。主要來自脊髓頸段的**nerves（神經）**也穿過腋窩入口與腋窩供應上肢。
 
-### 背部與胸壁（Back and Thoracic Wall）
-
+### Back and Thoracic Wall（背部與胸壁）
 連接肩部骨骼與軀幹的肌肉與背部及胸壁相關，包括**trapezius（斜方肌）**、**levator scapulae（提肩胛肌）**、**rhomboid major（大菱形肌）**、**rhomboid minor（小菱形肌）**及**latissimus dorsi（背闊肌）**（見 Fig. 7.12）。
 
 胸前壁的**乳房（breast）**與腋窩及上肢有重要關係：
@@ -2852,10 +2830,8 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 ---
 
-## 重要考點（Key Points）
-
-### 頸椎與上胸椎神經支配（Innervation by Cervical and Upper Thoracic Nerves）
-
+## Key Points（重要考點）
+### Innervation by Cervical and Upper Thoracic Nerves（頸椎與上胸椎神經支配）
 上肢的神經支配來自**臂神經叢（Brachial plexus）**，由**C5至T1**脊神經的前支形成（見 Fig. 7.14）。此神經叢最初形成於頸部，隨後穿過腋窩入口進入腋窩。最終支配臂、前臂與手的主要神經起源於腋窩處的臂神經叢。
 
 因此，臨床上透過檢查上肢的**dermatomes（皮節）**、**myotomes（肌節）**及**肌腱反射（tendon reflexes）**來測試下位頸椎與T1神經的功能。另一個後果是，下位頸椎神經相關問題的臨床表現——疼痛、針刺感（感覺異常/paresthesia）及肌肉顫抖——會出現在上肢。
@@ -2893,8 +2869,7 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 ---
 
-### 主要神經（Major Nerves）
-
+### Major Nerves（主要神經）
 臂與前臂的主要肌肉隔間，以及手部固有肌，主要由起源於腋窩處臂神經叢的主要神經之一支配（見 Fig. 7.16A）：
 
 #### Musculocutaneous Nerve（C5–C7）
@@ -2926,8 +2901,7 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 ---
 
-### 與骨骼相關的神經（Nerves Related to Bone）
-
+### Nerves Related to Bone（與骨骼相關的神經）
 三條重要神經與肱骨（humerus）的特定部分直接相鄰（見 Fig. 7.17）：
 
 - **Axillary nerve**：支配**deltoid muscle**（肩部主要外展肌），從肱骨上部後方（外科頸，surgical neck）繞過。
@@ -2938,8 +2912,7 @@ Radius 與 ulna 的遠端也相互形成關節，此關節允許 radius 在 hand
 
 ---
 
-### 淺層靜脈（Superficial Veins）
-
+### Superficial Veins（淺層靜脈）
 位於上肢淺層筋膜中的大型靜脈常用於進入患者血管系統及採血。最重要的包括**cephalic vein（頭靜脈）**、**basilic vein（貴要靜脈）**及**median cubital vein（肘正中靜脈）**（見 Fig. 7.18）。
 
 #### Cephalic Vein（頭靜脈）

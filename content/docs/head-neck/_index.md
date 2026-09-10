@@ -712,54 +712,45 @@ The two layers of dura separate from each other at numerous locations to form:
 
 ---
 
-## 顱骨頂部骨折 (Skull Vault Fractures)
-
+## Skull Vault Fractures（顱骨頂部骨折）
 > **臨床重點**：顱骨頂部是一個非常堅固的結構，因為它保護我們最重要的器官——大腦。顱骨骨折本身通常影響不大，關鍵在於最小化原發性腦損傷的程度並治療可能的繼發性併發症。
 
-### 凹陷性骨折 (Depressed Skull Fractures)
-
+### Depressed Skull Fractures（凹陷性骨折）
 - 骨碎片凹陷至正常顱骨凸面以下
 - 可能導致續發性動靜脈損傷及血腫形成
 - 也可能造成原發性腦損傷
 
-### 開放性骨折 (Compound Fractures)
-
+### Compound Fractures（開放性骨折）
 - 骨折合併皮膚破裂，可能導致感染
 - 通常伴有头皮裂傷，可用抗生素治療
 - **重要併發症**：腦膜炎，可能致命
 - 穿越鼻竇的骨折可能不易在初次檢查中發現，但應考慮在創傷後出現顱內感染的患者
 
-### 翼點骨折 (Pterion Fractures)
-
+### Pterion Fractures（翼點骨折）
 > **臨床重點**：翼點是顱骨側面的一個重要臨床標誌。定位方法：沿顴弓上方約1英寸（2.5公分）、眼眶外側緣後方約1英寸（2.5公分）處。翼點深層有**腦膜中動腽脈**。這個部位的損傷極為嚴重，因為可能造成明顯的**硬膜外血腫**，可致命。
 
 ---
 
-## 顱部影像學 (Medical Imaging of the Head)
-
-### 放射學檢查 (Radiography)
-
+## Medical Imaging of the Head（顱部影像學）
+### Radiography（放射學檢查）
 - 直到二十年前，放射學仍是顱部影像學的標準方法
 - 三個標準投照體位：後前位（PA）、側位、Towne位（前後軸向）
 - 目前顱骨X光在創傷病例中使用減少，但骨折相對容易檢測
 
-### 電腦斷層掃描 (Computed Tomography, CT)
-
+### Computed Tomography, CT（電腦斷層掃描）
 - 是神經放射學檢查的主力
 - 理想用於頭部創傷：大腦及腦膜容易且快速檢查，血液容易偵測
 - 改變數學演算法可顯示骨質結構
 - 靜脈注射顯影劑可進行CT血管攝影，顯示顱內動腽瘤的位置和大小
 
-### 磁振造影 (Magnetic Resonance Imaging, MRI)
-
+### Magnetic Resonance Imaging, MRI（磁振造影）
 - 對比解析度無與倫比
 - 大腦、腦膜、腦脊髓液、脊椎可輕易快速檢查
 - 新式影像序列可抑制腦脊髓液以定義腦室周圍病變
 - 磁振血管攝影在確定顱內血管結構（Willis環）完整性方面極為有用
 - 也是評估頸動腽狹窄的有力工具
 
-### 超音波檢查 (Ultrasonography)
-
+### Ultrasonography（超音波檢查）
 - 顱內都卜勒研究可偵測患者是否因頸動腽斑塊發生腦栓塞
 - 顱外超音披在腫瘤分期、頸部腫塊評估、頸動腽分叉處評估極為重要
 - 對兒童特別有用，因為他們有透過囪門的聲學窗
@@ -833,8 +824,7 @@ The two layers of dura separate from each other at numerous locations to form:
 
 ---
 
-### 蛛網膜 (Arachnoid mater)
-
+### Arachnoid mater（蛛網膜）
 **Arachnoid mater** 是一層薄而無血管的膜，襯於**硬腦膜**內面，但兩者並不黏連。
 
 從其內面發出細小突起或**小樑 (trabeculae)**，穿過**蛛網膜下腔 (subarachnoid space)**，與**軟腦膜 (pia mater)** 延續。
@@ -843,8 +833,7 @@ The two layers of dura separate from each other at numerous locations to form:
 
 ---
 
-### 軟腦膜 (Pia mater)
-
+### Pia mater（軟腦膜）
 **Pia mater** 是一層薄而脆弱的膜，緊密覆蓋腦表面。它隨腦的輪廓起伏，進入腦表面的溝裂，並緊密附著於腦神經根部的起始處。
 
 ---
@@ -939,8 +928,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ## 腦部及其血液供應
 
-### 腦 (Brain)
-
+### Brain（腦）
 腦是**中樞神經系統**的一部分。發育中可分為五個連續部分：
 
 - **終腦 (Telencephalon / Cerebrum)**：形成大型大腦半球，表面由**腦回 (gyri)** 和**腦溝 (sulci)** 組成，被**縱裂 (longitudinal fissure)** 部分分隔。Cerebrum 占據小腦幕上方的顱腔區域，依位置分為數葉。
@@ -951,8 +939,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 血液供應 (Blood supply)
-
+### Blood supply（血液供應）
 腦的arterial supply 來自兩對血管：**椎动脉 (vertebral arteries)** 和**頸內动脉 (internal carotid arteries)**，兩者在顱腔內互相吻合，形成**大腦动脉環 (cerebral arterial circle / of Willis)**。
 
 #### 椎动脉 (Vertebral arteries)
@@ -1021,10 +1008,8 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-## 腦部血液供應（Brain and Its Blood Supply）
-
-### 靜脈引流（Venous Drainage）
-
+## Brain and Its Blood Supply（腦部血液供應）
+### Venous Drainage（靜脈引流）
 腦部的靜脈引流始於內部的毛細血管網絡，逐步匯集為較大的**大腦靜脈（cerebral veins）**、**小腦靜脈（cerebellar veins）**及**腦幹靜脈（veins draining the brainstem）**，最終注入**硬腦膜靜脈竇（dural venous sinuses）**。
 
 硬腦膜靜脈竇是襯有內皮的腔隙，位於硬腦膜（dura mater）的外層骨膜層與內層腦膜層之間，最終通往**內頸靜脈（internal jugular veins）**。
@@ -1035,8 +1020,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 硬腦膜靜脈竇（Dural Venous Sinuses）
-
+### Dural Venous Sinuses（硬腦膜靜脈竇）
 硬腦膜靜脈竇包括：**上矢狀竇（superior sagittal sinus）**、**下矢狀竇（inferior sagittal sinus）**、**直竇（straight sinus）**、**橫竇（transverse sinus）**、**乙狀竇（sigmoid sinus）**、**枕竇（occipital sinus）**、**竇匯（confluence of sinuses）**，以及**海綿竇（cavernous sinus）**、**蝶骨頂竇（sphenoparietal sinus）**、**岩上竇（superior petrosal sinus）**、**岩下竇（inferior petrosal sinus）**、**基底竇（basilar sinus）**（圖 8.44，表 8.3）。
 
 #### 硬腦膜靜脈竇一覧表（表 8.3）
@@ -1059,8 +1043,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 上矢狀竇（Superior Sagittal Sinus）
-
+### Superior Sagittal Sinus（上矢狀竇）
 上矢狀竇位於**大腦鐮（falx cerebri）**上緣（圖 8.44）。前方始於**盲孔（foramen cecum）**，可接收來自鼻腔的小導靜脈；後方終於竇匯，通常向右彎曲注入右橫竇。
 
 上矢狀竇與其側支（外側窩）交通，內含大量**蛛網膜顆粒（arachnoid granulations）**。
@@ -1069,8 +1052,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 下矢狀竇與直竇（Inferior Sagittal and Straight Sinuses）
-
+### Inferior Sagittal and Straight Sinuses（下矢狀竇與直竇）
 **下矢狀竇**位於大腦鐮下緣（圖 8.44），接收少數大腦靜脈及鐮靜脈，於小腦幕前緣與**大腦大靜脈（great cerebral vein）**會合，共同形成**直竇**（圖 8.44）。
 
 直竇沿大腦鐮與小腦幕交界處向後走行，終於竇匯，通常向左彎曲注入左橫竇。
@@ -1079,8 +1061,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 竇匯、橫竇與乙狀竇（Confluence, Transverse, and Sigmoid Sinuses）
-
+### Confluence, Transverse, and Sigmoid Sinuses（竇匯、橫竇與乙狀竇）
 上矢狀竇、直竇及位於小腦鐮內的**枕竇（occipital sinus）**均注入**竇匯（confluence of sinuses）**，竇匯是內枕粗隆處的擴張空間，由左右橫竇引流（圖 8.44）。
 
 成對的橫竇自竇匯水平延伸，此處小腦幕附著於顱腔側壁及後壁。
@@ -1091,8 +1072,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 海綿竇（Cavernous Sinuses）
-
+### Cavernous Sinuses（海綿竇）
 成對的**海綿竇（cavernous sinuses）**位於蝶骨體外側面、鞍膈兩側（圖 8.45），因其交通位置及通過其中的結構而具有重要的臨床意義。
 
 海綿竇不僅接收大腦靜脈的血液，亦接收來自眼眶的**眼靜脈（ophthalmic veins）**及來自顳下窩**翼顎靜脈叢（pterygoid plexus of veins）**的導靜脈。這些交通提供了感染從顱外途徑進入顱內的路徑。此外，由於結構通過海綿竇且位於竇壁中，這些結構易因炎症而受損。
@@ -1115,8 +1095,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 岩上竇與岩下竇（Superior and Inferior Petrosal Sinuses）
-
+### Superior and Inferior Petrosal Sinuses（岩上竇與岩下竇）
 **岩上竇（superior petrosal sinuses）**引流海綿竇至橫竇。每條岩上竇始於海綿竇後端，沿顳骨岩部上緣向外後走行，連接橫竇（圖 8.44）。岩上竇亦接收大腦及小腦靜脈。
 
 **岩下竇（inferior petrosal sinuses）**亦始於海綿竇後端，兩側性，走行於顳骨岩部與枕骨基部之間的溝中，終於內頸靜脈。協助引流海綿竇，亦接收小腦靜脈及來自內耳與腦幹的靜脈。
@@ -1125,8 +1104,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-## 顱神經（Cranial Nerves）
-
+## Cranial Nerves（顱神經）
 十二對顱神經是周圍神經系統（PNS）的一部分，經由顱腔的孔洞或裂隙通過。除**副神經（accessory nerve）[XI]**外，所有顱神經均起源於腦。
 
 特殊感覺成分與聽覺、視覺、嗅覺、平衡及味覺相關。
@@ -1156,10 +1134,8 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-## 臨床重點（In the Clinic）
-
-### 內膜切除術（Endarterectomy）
-
+## In the Clinic（臨床重點）
+### Endarterectomy（內膜切除術）
 **內膜切除術（endarterectomy）**是一種移除血管內粥狀硬化斑塊的手術。
 
 粥狀硬化斑塊位於血管內皮下層，由含脂質的巨噬細胞及膽固醇碎屑組成。斑塊最終會堆積纖維結締組織並鈣化。斑塊常見於血管分叉處，限制血流，並可能栓塞至遠端器官。
@@ -1168,8 +1144,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 顱內動脈瘤（Intracerebral Aneurysms）
-
+### Intracerebral Aneurysms（顱內動脈瘤）
 腦动脉瘤起源於**大腦动脉環（Willis 環）**及其周圍的血管。好發部位包括：**前交通动脉**、**後交通动脉**、**大腦中动脉分支**、**基底动脉末端**（圖 8.41）及**後下小腦动脉**。
 
 隨著动脉瘤增大，破裂風險顯著增加。患者通常不自覺有任何異常。破裂時，患者會抱怨突然發作的「雷擊般」頭痛，伴隨頸部僵硬及嘔吐。部分患者會死亡，許多患者則能送達醫院並確診。
@@ -1180,8 +1155,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 頭部創傷（Head Injury）
-
+### Head Injury（頭部創傷）
 頭部創傷是常見的損傷，是年輕男性發病及死亡的重要原因，約占該年齡組所有死亡的 10%。頭部創傷可能單獨發生，但患者常合併其他損傷；在有多重創傷的患者中，應始終懷疑頭部創傷的可能。在多重創傷患者中，50% 死於頭部創傷。
 
 #### 原發性腦損傷
@@ -1193,8 +1167,7 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 顱內出血的類型（Types of Intracranial Hemorrhage）
-
+### Types of Intracranial Hemorrhage（顱內出血的類型）
 #### 硬膜外出血（Extradural Hemorrhage）
 
 **硬膜外出血**（圖 8.47）由動脈損傷引起，通常因**腦膜中动脉（middle meningeal artery）**分支撕裂所致，好發於**翼點（pterion）**區域。血液積聚於硬腦膜骨膜層與顱骨之間，在動脈壓力下慢慢擴展。
@@ -1213,16 +1186,14 @@ CSF 經**蛛網膜絨毛 (arachnoid villi)** 回流至靜脈系統。這些絨�
 
 ---
 
-### 腦震盪（Concussion）
-
+### Concussion（腦震盪）
 **腦震盪（concussion）**（輕度創傷性腦損傷，MTBI）是最常見的創傷性腦損傷類型。損傷通常由頭部快速減速或腦在顱腔內旋轉所致。
 
 MTBI 的常見症狀包括：創傷後失憶、意識混亂、意識喪失、頭痛、頭暈、嘔吐、運動協調障礙及光敏感。腦震盪/MTB I 的診斷基於事件經過、目前神經狀態及意識狀態。
 
 ---
 
-### 頭部創傷的臨床評估（Clinical Assessment of Patients with Head Injury）
-
+### Clinical Assessment of Patients with Head Injury（頭部創傷的臨床評估）
 頭部創傷的臨床評估表面看似簡單，實際往往並不簡單。
 
 患者可能有各種不同的受傷方式，從簡單跌倒到複雜的多重創傷。患者年齡及溝通能力是重要因素。
@@ -1243,8 +1214,7 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 
 ---
 
-### 頭部創傷的治療（Treatment of Head Injury）
-
+### Treatment of Head Injury（頭部創傷的治療）
 原發性腦損傷的治療極為有限。軸突斷裂及細胞死亡通常不可逆轉。
 
 當腦受損時，像大多數組織一樣會腫脹。由於腦被封閉在顱骨這個固定空間內，腫脹會損害腦功能，並產生其他兩個重要影響：
@@ -1258,22 +1228,20 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 
 ---
 
-### 導靜脈（Emissary Veins）
-
+### Emissary Veins（導靜脈）
 導靜脈連接顱外靜脈與顱內靜脈，在臨床上相當重要，因為它們可作為感染從顱外進入顱內的途徑。導靜脈與頭頸部大多數靜脈一樣，缺乏瓣膜。
 
 ---
 
-### 頭皮與腦膜（Scalp and Meninges）
-
+### Scalp and Meninges（頭皮與腦膜）
 頭皮與腦膜的關係及臨床意義總結（圖 8.46）：
 
 - 兩者作為一個結構單元連接在一起
 - 結締組織層：含有頭皮的主要神經及血管
 - **鬆散結締組織（危險區）**：
-  - 在头皮剝脫傷中，此層是分離發生的層次
-  - 感染可輕易在此層擴散
-  - 鈍性創傷可導致此層出血（血液可向前擴散至面部，導致「熊貓眼」）
+ - 在头皮剝脫傷中，此層是分離發生的層次
+ - 感染可輕易在此層擴散
+ - 鈍性創傷可導致此層出血（血液可向前擴散至面部，導致「熊貓眼」）
 - **導靜脈**：可將感染從頭皮擴散至顱內
 - **硬膜下血腫**：大腦靜脈進入顱內靜脈竇時的撕裂可導致硬膜下血腫
 - **动脉瘤**：Willis 環血管的破裂动脉瘤直接出血至蛛網膜下腔及 CSF
@@ -1285,8 +1253,7 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 
 ---
 
-## 圖說（Figures Referenced）
-
+## Figures Referenced（圖說）
 - **圖 8.40**：評估中風的不同影像學模式（CT、T2 加權、DWI、ADC）
 - **圖 8.41**：基底動脉頂端動脉瘤（三維顱骨 CT 斷層掃描）
 - **圖 8.42**：前交通動脉瘤（左頸动脉血管造影及線圈栓塞術後）
@@ -1303,8 +1270,7 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 
 ---
 
-## 顱神經概覽（Cranial Nerves）
-
+## Cranial Nerves（顱神經概覽）
 ### 表 8.5 顱神經（續）
 
 | Component | Nerve | Afferent / Efferent | Exit from skull | Function |
@@ -1373,7 +1339,7 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 > - 眼瞼下垂（ptosis）
 > - 瞳孔反射消失
 > - 眼球向下向外偏移（「down and out」位置）
-> 
+>
 > 常見原因包括後交通動脈（posterior communicating artery）、大腦後動脈（posterior cerebral artery）或小腦上動脈（superior cerebellar artery）來的**動靜脈瘤（aneurysm）**壓迫。
 
 ---
@@ -1839,8 +1805,7 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 - 收頰抵牙，防止食物積聚
 - 用力吐氣時壓縮面頰
 
-### 下組肌肉（Lower Group）
-
+### Lower Group（下組肌肉）
 #### Depressor Anguli Oris（降口角肌）
 
 > **臨床重點**：此肌抑制時嘴角上揚（微笑），過度抑制導致不對稱笑容。
@@ -1865,8 +1830,7 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 - 止點：頦部皮膚
 - 作用：提起並突出下唇，皺縮頦部皮膚
 
-### 上組肌肉（Upper Group）
-
+### Upper Group（上組肌肉）
 #### Risorius（笑肌）
 
 > **臨床重點**：笑肌收縮產生微笑動作。
@@ -1912,8 +1876,7 @@ Glasgow 昏迷量表於 1974 年提出，現已廣泛被全世界接受。總分
 
 ---
 
-## 其他肌肉（Other Muscles）
-
+## Other Muscles（其他肌肉）
 ### Auricular Muscles（耳周肌）
 
 > **臨床重點**：人類耳周肌已高度退化，主要功能為**表達驚訝或專注**時的動作。
@@ -1991,15 +1954,13 @@ The **occipitofrontalis** 是此類「顏面表情肌」的最後一塊肌肉，
 
 **Facial nerve [VII]** 經 **stylomastoid foramen** 離開顱骨後進入腮腺，通常分為上、下幹。這些神經穿過腮腺實質，可能進一步分支及吻合。五組終末分支——**temporal**、**zygomatic**、**buccal**、**marginal mandibular**、**cervical branches**——從腮腺的上、前、下界走出。
 
-### External Carotid Artery 及其分支
-
+### External Carotid Artery（及其分支）
 **External carotid artery** 進入或穿過腮腺下界後，在向上過程中發出 **posterior auricular artery**，於耳朵下緣附近分為兩終支：
 
 - **Maxillary artery**：水平走向，深於下頜骨。
 - **Superficial temporal artery**：向上延續，從腺體上界走出前發出 **transverse facial artery**。
 
-### Retromandibular Vein 及其屬支
-
+### Retromandibular Vein（及其屬支）
 **Retromandibular vein** 由 **superficial temporal vein** 與 **maxillary vein** 在腮腺實質內會合形成（見 Fig. 8.59），向下穿過腮腺。通常在腺體下界下方分為前支與後支。
 
 ### 血液供應
@@ -2301,7 +2262,7 @@ Scalp 的动脉来源於 **external carotid artery** 或 **ophthalmic artery**�
 - **Occipital vein**：引流後側 scalp，向深層穿過頸部肌肉，會入 **suboccipital triangle** 的靜脈叢
 
 > **臨床重點**：Scalp laceration（頭部皮膜裂傷）
-> 
+>
 > Scalp 血供極為豐富，來自 external carotid arteries，裂傷時出血嚴重。Scalp 出血主要為 arterial，原因有二：
 > 1. 直立姿勢時靜脈壓極低
 > 2. 血管被緻密結締組織包繞，切斷後不會收縮閉合，而是保持開放狀態
@@ -2345,10 +2306,10 @@ Orbits 是顏面上半部的雙側結構，位於 **anterior cranial fossa** 下
 
 - **Apex（頂）**：**Optic foramen（視神經孔）**
 - **Base / Orbital rim（眶緣）**：
-  - **上方**：Frontal bone
-  - **內側**：Maxilla 的 **frontal process**
-  - **下方**：Maxilla 的 **zygomatic process** 與 **Zygomatic bone**
-  - **外側**：Zygomatic bone、Zygomatic bone 的 **frontal process**、Frontal bone 的 **zygomatic process**
+ - **上方**：Frontal bone
+ - **內側**：Maxilla 的 **frontal process**
+ - **下方**：Maxilla 的 **zygomatic process** 與 **Zygomatic bone**
+ - **外側**：Zygomatic bone、Zygomatic bone 的 **frontal process**、Frontal bone 的 **zygomatic process**
 
 #### Roof（上壁 / Superior Wall）
 
@@ -2387,9 +2348,9 @@ Orbits 是顏面上半部的雙側結構，位於 **anterior cranial fossa** 下
 **Superior orbital fissure** 位於 greater wing 與形成上壁的 lesser wing 之間。
 
 > **臨床重點**：Orbital fracture（眼眶骨折）
-> 
+>
 > 眼眶骨折並不少見，可能涉及眶緣並延伸至 maxilla、frontal、zygomatic bones，常為複雜顏面骨折的一部分。眼眶內骨折好發於下壁與內側壁。
-> 
+>
 > - **下壁骨折（Inferior orbital floor fracture）**：常見類型，**inferior rectus muscle** 可能被拖入骨折線，導致患側**眼球上視障礙（上視複視）**
 > - **內側壁骨折**：X 光可見眼眶內**積氣**，因 ethmoidal labyrinth 骨折使眼眶與篩竇直接相通，有時患者吹鼻子時會感到眼眶充脹感
 
@@ -2425,20 +2386,20 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 #### Tarsus 與 Levator Palpebrae Superioris
 
 - **Tarsus（瞼板）**：緻密結締組織板
-  - **Superior tarsus（上瞼板）**：較大
-  - **Inferior tarsus（下瞼板）**：較小
-  - 內側附著於 maxilla 的 **anterior lacrimal crest**（經 medial palpebral ligament）
-  - 外側附著於 zygomatic bone 的 **orbital tubercle**（經 lateral palpebral ligament）
+ - **Superior tarsus（上瞼板）**：較大
+ - **Inferior tarsus（下瞼板）**：較小
+ - 內側附著於 maxilla 的 **anterior lacrimal crest**（經 medial palpebral ligament）
+ - 外側附著於 zygomatic bone 的 **orbital tubercle**（經 lateral palpebral ligament）
 
 - **Levator palpebrae superioris（上瞼提肌）**：
-  - 起於眼眶上壁後方、optic foramen 上方
-  - 插入上瞼板前表面，少量纖維可至眼瞼皮膚
-  - 由 **oculomotor nerve [III]** 支配，負責抬瞼
+ - 起於眼眶上壁後方、optic foramen 上方
+ - 插入上瞼板前表面，少量纖維可至眼瞼皮膚
+ - 由 **oculomotor nerve [III]** 支配，負責抬瞼
 
 - **Superior tarsal muscle（上瞼板平滑肌 / Müller 肌）**：
-  - 起於 levator palpebrae superioris 下表面，附於上瞼板上緣
-  - 由來自 **superior cervical ganglion** 的交感神經節後纖維支配
-  - 作用：協助提瞼
+ - 起於 levator palpebrae superioris 下表面，附於上瞼板上緣
+ - 由來自 **superior cervical ganglion** 的交感神經節後纖維支配
+ - 作用：協助提瞼
 
 > **臨床重點**：Levator palpebrae superioris 或 superior tarsal muscle 功能喪失導致 **ptosis（上瞼下垂）**。
 
@@ -2458,12 +2419,12 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 #### Sensory Innervation（感覺神經）— 全部來自 **Trigeminal Nerve [V]**
 
 - **Ophthalmic nerve [V1]** 的分支：
-  - Supra-orbital nerve
-  - Supratrochlear nerve
-  - Infratrochlear nerve
-  - Lacrimal nerve
+ - Supra-orbital nerve
+ - Supratrochlear nerve
+ - Infratrochlear nerve
+ - Lacrimal nerve
 - **Maxillary nerve [V2]** 的分支：
-  - Infra-orbital nerve
+ - Infra-orbital nerve
 
 #### Motor Innervation（運動神經）
 
@@ -2706,8 +2667,7 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 
 ---
 
-### 表：眼外肌（Extrinsic Ocular Muscles）
-
+### Extrinsic Ocular Muscles（表：眼外肌）
 | 肌肉 | 起點 | 附著點 | 神經支配 | 功能 |
 |------|------|--------|----------|------|
 | **Levator palpebrae superioris（提上瞼肌）** | 視神經管前方蝶骨小翼 | 瞼板前面；部分纖維至皮膚和結膜上方穹窿 | **Oculomotor nerve [III]** 上支 | 抬起上眼瞼 |
@@ -2769,12 +2729,10 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 
 ---
 
-## 斜肌（Oblique Muscles）
-
+## Oblique Muscles（斜肌）
 斜肌位於眼眶上方與下方，不起於總腱環，以斜角接近眼球，且附著於眼球**後半部**（表 8.8），这一点與直肌不同。
 
-### 上斜肌（Superior Oblique）
-
+### Superior Oblique（上斜肌）
 - **起點**：蝶骨（sphenoid）體部，視神經管內上側。
 - **行經**：前行至眼眶頂部內側緣，達到**滑車（trochlea）**——附著於額骨滑車凹（trochlear fovea）的纖維軟骨結構。
 - **附著**：肌腱穿過滑車，向外後方越過眼球，深層跨越**上直肌**，最終附著於眼球外側後象限。
@@ -2783,8 +2741,7 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 
 > **臨床重點**：測試上斜肌時，需請患者先將眼球向內側追蹤（使肌腱軸線與眼球軸線對齊），再向下看（圖 8.94B）。
 
-### 下斜肌（Inferior Oblique）
-
+### Inferior Oblique（下斜肌）
 - **起點**：眼眶底壁內側，眶緣後方，附著於上頜骨（maxilla）眶面、淚溝（nasolacrimal groove）外側（圖 8.92）。
 - **行經**：越過眼眶底壁，在**下直肌**與底壁之間向後外側走行，附著於外側後象限（正好在**外直肌**下方）。
 - **作用**：收縮使瞳孔向上向外（圖 8.94A）。
@@ -2860,10 +2817,8 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 
 ---
 
-## 血管（Vessels）
-
-### 動脈（Arteries）
-
+## Vessels（血管）
+### Arteries（動脈）
 眼眶結構（包括眼球）的血供主要來自**眼動脈（ophthalmic artery）**（圖 8.95）。
 
 **眼動脈（Ophthalmic Artery）**
@@ -2888,8 +2843,7 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 
 ---
 
-### 靜脈（Veins）
-
+### Veins（靜脈）
 眼眶有兩條靜脈通道：**眼眶上靜脈（superior ophthalmic vein）**與**眼眶下靜脈（inferior ophthalmic vein）**（圖 8.96）。
 
 **眼眶上靜脈（Superior Ophthalmic Vein）**
@@ -2901,16 +2855,15 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 - **起點**：眼眶前方，比上靜脈細小。
 - **行經**：越過眼眶下部，接收肌肉與眼球後部的多條屬支。
 - **出口**（三種可能路徑）：
-  1. 與眼眶上靜脈匯合
-  2. 單獨經眶上裂注入海綿竇
-  3. 經眶下裂注入顳下窩（infratemporal fossa）的**翼靜脈叢（pterygoid plexus）**
+ 1. 與眼眶上靜脈匯合
+ 2. 單獨經眶上裂注入海綿竇
+ 3. 經眶下裂注入顳下窩（infratemporal fossa）的**翼靜脈叢（pterygoid plexus）**
 
 > **臨床重點**：由於眼眶靜脈與海綿竇相通，因此可作為感染由眼眶外部蔓延至顱腔內部的途徑。
 
 ---
 
-## 神經支配（Innervation）
-
+## Innervation（神經支配）
 進入眼眶的神經包括：**視神經 [II]**、**動眼神經 [III]**、**滑車神經 [IV]**、**外展神經 [VI]** 及**自主神經**。其他如**眼神經 [V₁]** 等神經支配眼眶結構後，會離開眼眶繼續支配其他區域。
 
 ---
@@ -2935,9 +2888,9 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 
 - **上支（小）**：越過視神經外側上行，支配**上直肌**與**提上瞼肌**（圖 8.98）。
 - **下支（大）**：分為三支：
-  1. 在視神經下方走向眼眶內側，支配**內直肌**
-  2. 下降支配**下直肌**
-  3. 沿眼眶底壁前行支配**下斜肌**（圖 8.98）
+ 1. 在視神經下方走向眼眶內側，支配**內直肌**
+ 2. 下降支配**下直肌**
+ 3. 沿眼眶底壁前行支配**下斜肌**（圖 8.98）
 
 第三支下降時發出**睫狀神經節支**，為睫狀神經節的**副交感根**，攜帶節前副交感纖維（在睫狀神經節換元），節後纖維經**短睫狀神經（short ciliary nerves）**分佈至眼球，支配**瞳孔括約肌（sphincter pupillae）**與**睫狀肌（ciliary muscles）**。
 
@@ -2963,8 +2916,7 @@ Upper 與 lower eyelids 為前方結構，閉合時保護眼球表面。瞼裂�
 
 ---
 
-### 節後交感纖維（Postganglionic Sympathetic Fibers）
-
+### Postganglionic Sympathetic Fibers（節後交感纖維）
 節前交感纖維起於胸椎上段（主要 T₁），經白交通支進入交感幹，上行至**上頸神經節（superior cervical ganglion）**換元。
 
 節後交感纖維沿**頸內動脈**及其分支分佈。進入眼眶的節後交感纖維隨**眼動脉**進入眼眶後，分佈至眼球的方式有：
@@ -4086,8 +4038,7 @@ Like the **ophthalmic [V1]** and **maxillary [V2] nerves**, the sensory part of 
 
 # Gray's Anatomy — Head & Neck: Segment 16
 
-## 顳窩與顳下窩（Temporal and Infratemporal Fossae）
-
+## Temporal and Infratemporal Fossae（顳窩與顳下窩）
 ---
 
 ## Mandibular Nerve [V3] — 整體概述
@@ -4095,9 +4046,9 @@ Like the **ophthalmic [V1]** and **maxillary [V2] nerves**, the sensory part of 
  Sensory root 與 Motor root 會合後，**mandibular nerve [V3]** 發出小的 **meningeal branch** 以及 **nerve to medial pterygoid**，隨後分為前幹與後幹（圖 8.144）：
 
 - **前幹（Anterior trunk）分支**：Buccal nerve、Masseteric nerve、Deep temporal nerves、Nerve to lateral pterygoid
-  - 除了 Buccal nerve（主要為感覺性）之外，其餘皆為運動神經
+ - 除了 Buccal nerve（主要為感覺性）之外，其餘皆為運動神經
 - **後幹（Posterior trunk）分支**：Auriculotemporal nerve、Lingual nerve、Inferior alveolar nerve
-  - 除了自 Inferior alveolar nerve 分出的 Nerve to mylohyoid（小運動支）外，其餘皆為感覺神經
+ - 除了自 Inferior alveolar nerve 分出的 Nerve to mylohyoid（小運動支）外，其餘皆為感覺神經
 
 ---
 
@@ -4234,8 +4185,7 @@ Tympanic nerve 重新進入顳骨，通過位於 jugular foramen 與 carotid can
 
 **Maxillary artery** 起點位於 **parotid gland** 內，通過下頜骨頸部與 **sphenomandibular ligament** 之間向前進入顳下窩。斜向上穿過顳下窩，通過 **pterygomaxillary fissure** 進入翼顎窩。血管此段可位於 **lateral pterygoid** 下頭的外側或內側。若位於下頭內側，則在上、下頭之間向外彎曲至 pterygomaxillary fissure。
 
-### 分支（Branches）
-
+### Branches（分支）
 **Maxillary artery** 的分支如下（圖 8.147）：
 
 - **第一段**（下頜骨頸部與 sphenomandibular ligament 之間）：發出兩條主要分支（middle meningeal artery、inferior alveolar artery）及數條小分支（deep auricular artery、anterior tympanic artery、accessory meningeal artery）
@@ -4596,10 +4546,8 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 # Gray's Anatomy — Head & Neck：Segment 18
 
-## 頸部筋膜（Fascia of the Neck）
-
-### 椎前筋膜（Prevertebral Fascia）
-
+## Fascia of the Neck（頸部筋膜）
+### Prevertebral Fascia（椎前筋膜）
 **椎前筋膜**在外側持續附著於**乳突process**；並向後沿**上項線（superior nuchal line）**延伸，終止於**枕外粗隆（external occipital protuberance）**，在此處與對側的同名結構相連。
 
 前方，**椎前筋膜**附著於**C I 至 C VII 椎骨**的橫突與椎體前方表面。
@@ -4608,24 +4556,21 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 **椎前筋膜**在頸部下區還有一個特殊變化：位於前外側的椎前筋膜從**前斜角肌（anterior scalene muscle）**與**中斜角肌（middle scalene muscle）**延伸，包繞**臂神經叢（brachial plexus）**與**鎖骨下動脈（subclavian artery）**，當這些結構進入腋窩時。此筋膜延伸即為**腋鞘（axillary sheath）**。
 
-### 氣管前層（Pretracheal Layer）
-
+### Pretracheal Layer（氣管前層）
 **氣管前層**由包繞**氣管（trachea）**、**食道（esophagus）**及**甲狀腺（thyroid gland）**的筋膜集合組成（圖 8.158）。
 
 前方為**氣管前筋膜（pretracheal fascia）**，位於**舌骨下肌（infrahyoid muscles）**後方，越過頸部並覆蓋氣管與甲狀腺。氣管前筋膜上方起於**舌骨（hyoid bone）**，下方終於上胸腔。側方，此筋膜包繞甲狀腺；更後方則與包繞食道的筋膜延續。
 
 > **臨床重點**：氣管前筋膜後方與咽相鄰的部分稱為**頰咽筋膜（buccopharyngeal fascia）**，將咽與椎前筋膜分開（圖 8.159）。頰咽筋膜上方起於顱底，與覆蓋食道的筋膜融合後繼續下行進入胸腔。
 
-### 頸動脈鞘（Carotid Sheath）
-
+### Carotid Sheath（頸動脈鞘）
 每側**頸動脈鞘**為一柱狀筋膜，包繞**總頸動脈（common carotid artery）**、**內頸動脈（internal carotid artery）**、**內頸靜脈（internal jugular vein）**及**迷走神經（vagus nerve）**通過頸部（圖 8.158）。
 
 頸動脈鞘由**封套層（investing layer）**、**椎前層（prevertebral layer）**及**氣管前層（pretracheal layer）**共同構成，但各層的貢獻程度不盡相同。
 
 ---
 
-## 筋膜間室（Fascial Compartments）
-
+## Fascial Compartments（筋膜間室）
 頸部各層頸筋膜的排列將頸部分為四個縱向間室（圖 8.156）：
 
 - **第一間室**最大，包含其餘三個間室，為封套層所包繞的區域。
@@ -4635,8 +4580,7 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 筋膜間隙（Fascial Spaces）
-
+## Fascial Spaces（筋膜間隙）
 頸部筋膜層之間存在間隙，可能成為感染從頸部擴散至縱隔的路徑。
 
 可能涉及的間隙有三個（圖 8.159）：
@@ -4655,12 +4599,10 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 淺層靜脈引流（Superficial Venous Drainage）
-
+## Superficial Venous Drainage（淺層靜脈引流）
 頸部淺層靜脈引流主要依靠**頸外靜脈（external jugular vein）**與**頸前靜脈（anterior jugular vein）**（圖 8.160）。
 
-### 頸外靜脈（External Jugular Veins）
-
+### External Jugular Veins（頸外靜脈）
 **頸外靜脈**於下頜角後方由**耳後靜脈（posterior auricular vein）**與**下頜後靜脈（retromandibular vein）**匯合而成：
 
 - **耳後靜脈**引流耳後及耳上的头皮血液。
@@ -4672,8 +4614,7 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 頸外靜脈沿線接收的支流包括**頸外後靜脈（posterior external jugular vein）**（引流頸後淺層）以及**橫頸靜脈（transverse cervical vein）**與**肩胛上靜脈（suprascapular vein）**（引流肩胛後區）。
 
-### 頸前靜脈（Anterior Jugular Veins）
-
+### Anterior Jugular Veins（頸前靜脈）
 **頸前靜脈**變異較大且不一致，通常描述為引流頸部前面的血液（圖 8.160）。這對靜脈小靜脈起始，在舌骨上方或附近匯合。形成後，每側頸前靜脈沿頸部中線兩側下行。
 
 下方，在胸鎖乳突肌內側附著處附近，每側頸前靜脈穿破筋膜封套層進入鎖骨下靜脈。有時頸前靜脈可在頸外靜脈進入鎖骨下靜脈之前先注入頸外靜脈。
@@ -4698,24 +4639,19 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 頸部前三角（Anterior Triangle of the Neck）
-
+## Anterior Triangle of the Neck（頸部前三角）
 **頸部前三角**的邊界為：外側為**胸鎖乳突肌前緣**、上方為**下頜骨下緣**、內側為**頸部中線**（圖 8.162）。可進一步細分為以下幾個小三三角形：
 
-### 下頜下三角（Submandibular Triangle）
-
+### Submandibular Triangle（下頜下三角）
 邊界：上方為**下頜骨下緣**、下方為**二腹肌前腹**與**後腹**。
 
-### 頦下三角（Submental Triangle）
-
+### Submental Triangle（頦下三角）
 邊界：下方為**舌骨**、外側為**二腹肌前腹**、內側為**中線**。
 
-### 肌性三角（Muscular Triangle）
-
+### Muscular Triangle（肌性三角）
 邊界：上方為**舌骨**、前外側為**肩胛舌骨肌上腹**與**胸鎖乳突肌前緣**、內側為**中線**。
 
-### 頸动脉三角（Carotid Triangle）
-
+### Carotid Triangle（頸动脉三角）
 邊界：前下為**肩胛舌骨肌上腹**、上方為**莖突舌骨肌**與**二腹肌後腹**、後方為**胸鎖乳突肌前緣**。
 
 每個三角都包含許多結構，這些結構可能是某個特定三角內的結構、從外部進入某三角的結構、在一個三角起源並進入另一三角的結構，或穿過多個三角的結構。
@@ -4724,16 +4660,13 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 肌肉（Muscles）
-
-### 舌骨上肌群（Suprahyoid Muscles）
-
+## Muscles（肌肉）
+### Suprahyoid Muscles（舌骨上肌群）
 **舌骨上肌**位於舌骨上方，包括**莖突舌骨肌（stylohyoid）**、**二腹肌（digastric）**、**下頜舌骨肌（mylohyoid）**及**頦舌骨肌（geniohyoid）**。
 
 四對舌骨上肌與**頦下三角**及**下頜下三角**相關（圖 8.162）。它們從舌骨向上走行至顱骨或下頜骨，在吞嚥時上提舌骨。
 
-### 舌骨下肌群（Infrahyoid Muscles）
-
+### Infrahyoid Muscles（舌骨下肌群）
 **舌骨下肌**位於舌骨下方，包括**肩胛舌骨肌（omohyoid）**、**胸骨舌骨肌（sternohyoid）**、**甲狀舌骨肌（thyrohyoid）**及**胸骨甲狀肌（sternothyroid）**。它們附著於舌骨下方的結構，可下壓舌骨，並為舌骨上肌提供穩定的附著點。由於外觀似帶狀，故又稱「**strap muscles（帶狀肌）**」。
 
 #### Stylohyoid（莖突舌骨肌）
@@ -4800,14 +4733,12 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 血管（Vessels）
-
+## Vessels（血管）
 通過頸部前三角的血管包括**總頸動脈（common carotid arteries）**及其分支**頸外动脉（external carotid artery）**與**內頸動脈（internal carotid artery）**。這些血管供應頭頸部所有結構。
 
 與此動脉系統相伴的是**內頸靜脈（internal jugular vein）**及其支流，接收頭頸部所有結構的血液。
 
-### 頸總動脈系統（Carotid System）
-
+### Carotid System（頸總動脈系統）
 #### 總頸動脈（Common Carotid Arteries）
 
 **總頸动脉**是頸动脉系統的起始（圖 8.165）：
@@ -4837,8 +4768,7 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 內頸動脈（Internal Carotid Arteries）
-
+## Internal Carotid Arteries（內頸動脈）
 內頸動脈起始後，向上攀升至顱底（圖 8.167）。在頸部不發出任何分支，經由 **temporal bone（顳骨）** petrous part 的 **carotid canal（頸動脈管）** 進入顱腔。
 
 內頸動脈供應：
@@ -4848,8 +4778,7 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 外頸動脈（External Carotid Arteries）
-
+## External Carotid Arteries（外頸動脈）
 外頸動脈於頸總動脈分叉後立即開始發出分支（圖 8.167 及表 8.13）：
 
 ### 外頸動脈分支一覽
@@ -4893,8 +4822,7 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 靜脈（Veins）
-
+## Veins（靜脈）
 收集顱骨、腦部、顏面淺層及頸部部分血液，**internal jugular vein**（內頸靜脈）始於 **sigmoid sinus**（乙狀竇）的擴張延續，為硬腦膜靜脈竇。這個初始擴張部分稱為 **superior bulb of jugular vein**（頸靜脈上球），不久後接收另一硬腦膜靜脈竇（**inferior petrosal sinus**）。
 
 此靜脈經由與 **glossopharyngeal [IX]**、**vagus [X]**、**accessory [XI]** 神經相關的 **jugular foramen**（頸靜脈孔）離開顱骨，進入 **carotid sheath**（頸動脈鞘）。
@@ -4911,8 +4839,7 @@ The **prevertebral fascia** is attached posteriorly along the length of the **li
 
 ---
 
-## 神經（Nerves）
-
+## Nerves（神經）
 眾多腦神經及周邊神經：
 - 穿越頸部前三角，繼續前往最終目的地
 - 發出分支至前三角內或其邊界形成的結構
@@ -5015,8 +4942,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 甲狀腺為大型不成對腺體，副甲狀腺通常為四個，為小型的黃色結構，位於甲狀腺後表面。
 
-### 甲狀腺（Thyroid Gland）
-
+### Thyroid Gland（甲狀腺）
 甲狀腺位於甲狀軟骨下方及外側（圖 8.174）。由兩個側葉組成（覆蓋氣管、甲狀軟骨及甲狀軟骨下部的對側表面），有峽部連接兩側葉，越過第二及第三氣管軟骨前方表面。
 
 甲狀腺位於 **sternohyoid**、**sternothyroid**、**omohyoid muscles** 深層，屬於頸部內臟區室。該區室亦包含咽、氣管及食道，被 **pretracheal fascia**（氣管前筋膜）包圍。
@@ -5070,8 +4996,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 >
 > 甲狀腺最常見的疾病之一是多結節性甲狀腺腫，為甲狀腺瀰漫性不規則腫大，伴有甲狀腺肥大及膠質囊腫形成。多數患者為甲狀腺功能正常（即血清甲狀腺素水平正常）。典型症狀為頸部瀰漫性腫塊，可藥物治療或若腫塊大至影響生活或引起呼吸問題則需手術切除。
 
-### 副甲狀腺（Parathyroid Glands）
-
+### Parathyroid Glands（副甲狀腺）
 副甲狀腺為兩對小型橢圓形黃色結構，位於甲狀腺側葉深層表面。分為上、副甲狀腺（圖 8.176）。然而，其位置變異性大，可能位於頸總动脉分叉上方至縱膈下方任何位置。
 
 起源於第三（副甲狀腺）與第四（上副甲狀腺）咽囊，這些成對結構遷移至最終成人位置並據此命名。
@@ -5294,10 +5219,8 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 # Gray's Anatomy — Head & Neck: Segment 21
 
-## 頸部根部血管（Vasculature of the Root of the Neck）
-
-### Subclavian Arteries 分支概覽
-
+## Vasculature of the Root of the Neck（頸部根部血管）
+### Subclavian Arteries（分支概覽）
 **Subclavian artery** 是供應上肢與頸部的重要血管，被 **anterior scalene muscle** 分為三個部分：
 
 - **第一部分（First part）**：從血管起源處到 **anterior scalene muscle** 之間的區段
@@ -5355,16 +5278,14 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-## 頸部根部的靜脈（Veins）
-
+## Veins（頸部根部的靜脈）
 **Subclavian vein** 起於第一肋骨外側緣，是 **axillary vein** 的延續。兩側均向前走於 **anterior scalene muscle** 前方，隨後與 **internal jugular vein** 會合形成 **brachiocephalic vein**。
 
 > **臨床重點**：每條 **subclavian vein** 的唯一支流是 **external jugular vein**。伴隨上述各條动脉的靜脈均注入其他靜脈。
 
 ---
 
-## 頸部根部的神經（Nerves in the Root of the Neck）
-
+## Nerves in the Root of the Neck（頸部根部的神經）
 ### Phrenic Nerve
 
 **Phrenic nerve** 起源於 **cervical plexus**，由 **cervical nerves C3 至 C5** 的前支匯合而成。繞過 **anterior scalene muscle** 上外側緣後，在 **prevertebral layer of cervical fascia** 內於 **anterior scalene muscle** 前面向下走行。離開 **anterior scalene muscle** 下緣後，於 **subclavian vein** 與 **subclavian artery** 之間進入胸腔並繼續走向橫膈。
@@ -5395,16 +5316,13 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-## 交感神經系統（Sympathetic Nervous System）
-
-### 交感神經鏈（Cervical Part of the Sympathetic Trunk）
-
+## Sympathetic Nervous System（交感神經系統）
+### Cervical Part of the Sympathetic Trunk（交感神經鏈）
 **交感神經鏈（Sympathetic trunk）** 是兩條平行索，從顱底延伸至尾骨。**交感神經鏈的頸部**位於 **longus colli** 與 **longus capitis** 肌肉前方，**common carotid artery**（在 **carotid sheath** 內）與 **internal carotid artery** 後方。通過 **gray ramus communicans** 與每條頸脊神經相連。
 
 > **臨床重點**：頸部區域沒有 **white ramus communicans**。
 
-### 交感神經節（Ganglia）
-
+### Ganglia（交感神經節）
 頸部交感神經鏈上有三個神經節：
 
 #### Superior Cervical Ganglion
@@ -5435,8 +5353,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-## 淋巴系統（Lymphatics）
-
+## Lymphatics（淋巴系統）
 ### Thoracic Duct
 
 **Thoracic duct** 是主要的淋巴管道，始於腹部，向上穿過胸腔，最終終於頸部靜脈通道。穿過下胸腔時位於：
@@ -5463,8 +5380,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-### 頸部淋巴結（Lymph Nodes of the Neck）
-
+### Lymph Nodes of the Neck（頸部淋巴結）
 頸部淋巴系統可分為淺層淋巴結與深層頸淋巴結。
 
 #### 淺層淋巴結（Superficial Lymph Nodes）
@@ -5494,8 +5410,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-## 咽部（Pharynx）
-
+## Pharynx（咽部）
 **Pharynx** 是一個肌肉筋膜半圓柱體，連接頭部的口腔與鼻腔至頸部的喉部與食道。咽腔是空氣與食物的共同通道。
 
 **Pharynx** 上方附著於顱底，約在 **cervical vertebra CVI** 水平向下延續為食道頂端。前壁附著於鼻腔、口腔與喉部的邊緣。根據這些前方相鄰結構，咽部可分為三個區域：
@@ -5516,8 +5431,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-## 臨床淋巴引流分區（Clinical Lymphatic Drainage Levels）
-
+## Clinical Lymphatic Drainage Levels（臨床淋巴引流分區）
 頸部淋巴結的臨床分區系統（Level I 至 Level VII）：
 
 - **Level I**：從頸部正中線的 **submental triangle** 到 **submandibular gland** 上緣
@@ -5533,8 +5447,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-## 骨骼框架（Skeletal Framework）
-
+## Skeletal Framework（骨骼框架）
 咽壁的上緣與前緣附著於骨骼與軟骨，並連接韌帶。兩側咽壁在後方正中線以垂直繩狀韌帶（**pharyngeal raphe**，咽縫）相連。此結構由顱底（**pharyngeal tubercle**，咽結節）延伸至頸椎第六節（CVI）高度，與食道後壁的結締組織融合。
 
 咽壁附著於顱底的界線呈不規則的 C 形（圖 8.196）。C 的開放處朝向鼻腔。C 的兩臂各起於**sphenoid bone**（蝶骨）**pterygoid process**（翼突）內側板後緣，緊鄰**pharyngotympanic tube**（咽鼓管）軟骨部下方。界線越過咽鼓管下方後，延伸至**temporal bone**（顳骨）岩部，恰好在**levator veli palatini**（腭帆提肌）附著處的內側。隨後界線向內彎入**occipital bone**（枕骨），會合於中線的顯著骨性突起（**pharyngeal tubercle**，咽結節）。
@@ -5543,34 +5456,28 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-## 側咽壁附著之前垂直線（Anterior Vertical Line of Attachment）
-
+## Anterior Vertical Line of Attachment（側咽壁附著之前垂直線）
 側咽壁附著於鼻腔、口腔及喉相關結構的前垂直線不連續，分為三部分（圖 8.197）。
 
-### 第一部分（First Part）
-
+### First Part（第一部分）
 每側側咽壁的前附著線始於**sphenoid bone**（蝶骨）翼突內側板後緣，緊鄰咽鼓管所在位置下方。沿內側板邊緣下行，延伸至**pterygoid hamulus**（翼鉤）。由此點開始，界線沿**pterygomandibular raphe**（翼下頜韌帶）下行至下頜骨該部分終止。
 
 **Pterygomandibular raphe** 為繩狀韌帶，連接翼鉤尖端與下頜骨第三磨牙後方的三角形粗糙面。此韌帶連接側咽壁肌肉（**superior constrictor**，咽上縮肌）與口腔側壁肌肉（**buccinator**，頰肌）。
 
-### 第二部分（Second Part）
-
+### Second Part（第二部分）
 側咽壁附著線的第二部分與**hyoid bone**（舌骨）相關。始於**stylohyoid ligament**（莖突舌骨韌帶）下緣，該韌帶連接顳骨**styloid process**（莖突）尖端至舌骨**lesser horn**（小角）。界線繼續延伸至小角，然後轉向沿**greater horn**（大角）上表面全程向後延伸至終點。
 
-### 第三部分（Third Part）
-
+### Third Part（第三部分）
 側咽壁附著線最下方、第三部分始於甲狀軟骨**superior tubercle**（上結節），沿**oblique line**（斜線）下行至**inferior tubercle**（下結節）。
 
 自下結節，附著界線越過**cricothyroid muscle**（環甲肌）沿筋膜腱性增厚至**cricoid cartilage**（環狀軟骨）終止。
 
 ---
 
-## 咽壁（Pharyngeal Wall）
-
+## Pharyngeal Wall（咽壁）
 咽壁由骨骼肌與筋膜構成。肌肉之間的裂隙由筋膜加強，為結構穿過咽壁提供通道。
 
-### 肌肉（Muscles）
-
+### Muscles（肌肉）
 咽部肌肉依纖維方向分為兩群：
 
 - **Constrictor muscles**（縮肌）：纖維方向與咽壁呈環狀
@@ -5578,8 +5485,7 @@ Ansa cervicalis 為源自 **cervical nerves C1 至 C3** 的神經纖維環，支
 
 ---
 
-### 縮肌（Constrictor Muscles）
-
+### Constrictor Muscles（縮肌）
 每側三塊縮肌（圖 8.198 與表 8.17）為咽壁的主要組成結構，其名稱即表明其位置：**superior constrictor**（咽上縮肌）、**middle constrictor**（咽中縮肌）、**inferior constrictor**（咽下縮肌）。後方，兩側肌肉經**pharyngeal raphe**（咽縫）相連。前方附著於鼻腔與口腔側緣及喉相關的骨骼與韌帶。
 
 縮肌以類似三個花盆疊放的方式相互重疊。**Inferior constrictors** 重疊於 **middle constrictors** 下緣，同樣地 **middle constrictors** 重疊於 **superior constrictors**。
@@ -5618,8 +5524,7 @@ Inferior constrictors 的後份重疊於 middle constrictors。下份肌纖維�
 
 ---
 
-### 縱肌（Longitudinal Muscles）
-
+### Longitudinal Muscles（縱肌）
 咽壁三塊縱肌（圖 8.199 與表 8.18）以其起始處命名：
 
 - **Stylopharyngeus**：起於顳骨 **styloid process**（莖突）
@@ -5656,8 +5561,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-### 筋膜（Fascia）
-
+### Fascia（筋膜）
 咽部筋膜分為兩層，夾持咽肌於其間：
 
 - 一層薄層（**buccopharyngeal fascia**，頰咽筋膜）覆蓋咽壁肌性部分外表面，為頸部椎前筋膜的組成部分（見第1002頁）。
@@ -5667,8 +5571,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 咽壁裂隙及其通過結構（Gaps in the Pharyngeal Wall）
-
+## Gaps in the Pharyngeal Wall（咽壁裂隙及其通過結構）
 咽壁肌肉之間的裂隙為肌肉與神經血管組織提供重要通道（圖 8.200）。
 
 **Superior constrictor** 上緣以上，咽壁缺乏肌肉，由咽筋膜完成。
@@ -5688,8 +5591,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 鼻咽（Nasopharynx）
-
+## Nasopharynx（鼻咽）
 鼻咽位於鼻腔後孔（**choanae**，後鼻孔）後方，軟腭上方（圖 8.201）。其頂部由斜行顱底構成，包括**sphenoid bone**（蝶骨）體後份與**occipital bone**（枕骨）底部。鼻咽頂部與側壁形成咽腔上方的圓頂形穹隆（vault），始終開放。
 
 鼻咽腔於**pharyngeal isthmus**（咽峽）處向下與口咽腔延續。咽峽位置由黏膜皺襞標示，該皺襞由 underlying **palatopharyngeal sphincter**（腭咽括約肌，即 superior constrictor 的一部分）引起。
@@ -5716,8 +5618,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 口咽（Oropharynx）
-
+## Oropharynx（口咽）
 口咽位於口腔後方、軟腭下方、會厭上緣上方（圖 8.201）。**Palatoglossal folds**（腭舌皺襞），左右各一，其深方為 **palatoglossal muscles**，構成口腔與口咽的分界。兩皺襞之間的拱形開口即為**oropharyngeal isthmus**（口咽峽）。其後內側另有一對皺襞（**palatopharyngeal folds**，腭咽皺襞），左右各一，深方覆蓋 **palatopharyngeus** 肌肉。
 
 口咽前壁（低於口咽峽部分）由舌後三分之一（即舌的咽部）上部構成。此處黏膜下有大量淋巴組織集合（**lingual tonsils**，舌扁桃體）。舌根與會厭之間中線兩側各有一對黏膜囊（**valleculae**，會厭谷），為中線黏膜皺襞與連接舌與會厭的兩側黏膜皺襞之間形成的凹陷。
@@ -5730,8 +5631,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 喉咽（Laryngopharynx）
-
+## Laryngopharynx（喉咽）
 喉咽自會厭上緣延伸至食道頂部（相當於頸椎 CVI 高度）（圖 8.201）。
 
 **Laryngeal inlet**（喉入口）開口於喉咽前壁。喉入口下方，前壁由喉的後面構成。
@@ -5740,8 +5640,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 扁桃體（Tonsils）
-
+## Tonsils（扁桃體）
 鼻腔與口腔開口周圍咽黏膜中的淋巴組織集合為身體防禦系統的一部分。最大的集合形成明顯團塊（扁桃體）。扁桃體主要分布於三個區域（圖 8.201）：
 
 - **Pharyngeal tonsil**（咽扁桃體）：增大時稱為 **adenoids**（腺樣體），位於鼻咽頂部正中。
@@ -5754,9 +5653,8 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 血管（Vessels）
-
-###  arteries（ arteries）
+## Vessels（血管）
+### arteries（ arteries）
 
 咽壁由多條血管供血（圖 8.202）。
 
@@ -5844,8 +5742,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 喉部（Larynx）
-
+## Larynx（喉部）
 **喉部**是一個中空的肌肉韌帶結構，具有軟骨框架，位於下呼吸道頂端。
 
 喉腔下連**氣管**，上方向後上方開放進入**咽部**，略居舌頭及口腔口咽峽的後方（圖 8.205A、B）。
@@ -5869,8 +5766,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ## 喉軟骨
 
-### 環狀軟骨（Cricoid Cartilage）
-
+### Cricoid Cartilage（環狀軟骨）
 **環狀軟骨**是喉軟骨中最下方的一個，完全圍繞氣道（圖 8.206）。形狀如印章環，寬大的**環狀軟骨板**位於氣道後方，較窄的**環狀軟骨弓**位於前方。
 
 環狀軟骨板後表面有兩個淺橢圓形凹陷，由垂直嵴分隔。**食道**附著於此嵴，凹陷處為**環杓後肌**附著處。
@@ -5879,8 +5775,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 - **上外側面**的關節面：與杓狀軟骨底相關節
 - **板外側面的關節面**（近板底部）：與甲狀軟骨下角內側面相關節
 
-### 甲狀軟骨（Thyroid Cartilage）
-
+### Thyroid Cartilage（甲狀軟骨）
 **甲狀軟骨**（圖 8.207）是最大的喉軟骨，由左右兩塊**甲狀軟骨板**（lamina）組成，後方分開，前方會合。兩板會合處最向前突出的點形成**喉結**（laryngeal prominence，又稱 Adam's apple）。
 
 兩板之間的角度在男性約 90°，在女性約 120°，因此喉結在男性更為明顯。
@@ -5895,16 +5790,14 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 > **臨床重點**：喉結是頸部最顯著的體表標誌之一，在男性更為明顯，臨床上常用於定位甲狀軟骨和喉部其他結構。
 
-### 會厭軟骨（Epiglottis）
-
+### Epiglottis（會厭軟骨）
 **會厭軟骨**為葉片狀軟骨，通過其莖部附著於甲狀軟骨後方的角度（圖 8.208），並從甲狀軟骨附著處向後上方突出。
 
 會厭軟骨上緣位於舌根咽部的後方。
 
 會厭軟骨後表面下半稍隆起形成**會厭結節**。
 
-### 杓狀軟骨（Arytenoid Cartilages）
-
+### Arytenoid Cartilages（杓狀軟骨）
 兩塊**杓狀軟骨**為錐體形軟骨，具有三個面、一個**杓狀軟骨底**和一個**杓狀軟骨尖**（圖 8.209）：
 - **底**（凹面）與環狀軟骨板上外側面的斜關節面相關節
 - **尖**與小角軟骨相關節
@@ -5914,40 +5807,34 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 底的前角延伸形成**聲帶突**（vocal process），連接**聲韌帶**；外側角延伸形成**肌突**（muscular process），為環杓後肌和環杓側肌附著處。
 
-### 小角軟骨（Corniculate Cartilages）
-
+### Corniculate Cartilages（小角軟骨）
 兩塊**小角軟骨**（圖 8.210）為小圓錐形軟骨，底與杓狀軟骨尖相關節，尖向後內側相互對向。
 
-### 楔狀軟骨（Cuneiform Cartilages）
-
+### Cuneiform Cartilages（楔狀軟骨）
 兩塊小棒狀軟骨（圖 8.210）位於小角軟骨前方，懸於連接杓狀軟骨與會厭軟骨外側緣的纖維彈性膜部分內。
 
 ---
 
 ## 喉外在韌帶
 
-### 甲狀舌骨膜（Thyrohyoid Membrane）
-
+### Thyrohyoid Membrane（甲狀舌骨膜）
 **甲狀舌骨膜**（圖 8.211）為一堅韌的纖維彈性韌帶，連接甲狀軟骨上緣與舌骨。
 
 膜的後緣增厚形成**甲狀舌骨外側韌帶**；膜的前緣正中線增厚形成**甲狀舌骨正中韌帶**。
 
 偶爾在外側甲狀舌骨韌帶內有小的**麥粒軟骨**（triticeal cartilage）。
 
-### 舌骨會厭韌帶（Hyo-epiglottic Ligament）
-
+### Hyo-epiglottic Ligament（舌骨會厭韌帶）
 **舌骨會厭韌帶**（圖 8.211）從會厭正中線向前上方延伸至舌骨體。
 
-### 環氣管韌帶（Cricotracheal Ligament）
-
+### Cricotracheal Ligament（環氣管韌帶）
 **環氣管韌帶**（圖 8.211）從環狀軟骨下緣至第一氣管軟骨上緣。
 
 ---
 
 ## 喉內在韌帶
 
-### 喉纖維彈性膜（Fibro-elastic Membrane of the Larynx）
-
+### Fibro-elastic Membrane of the Larynx（喉纖維彈性膜）
 **喉纖維彈性膜**連接各喉軟骨，構成喉腔的結構框架，由兩部分組成：
 - 下部的**環甲韌帶**（cricothyroid ligament）
 - 上部的**方形膜**（quadrangular membrane）
@@ -5966,8 +5853,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 > **臨床重點**：緊急情況下，當氣道在聲帶 level 以上被阻塞時，可在環甲正中韌帶處穿刺建立氣道。除小血管和偶爾存在的甲狀腺錐體葉外，環甲正中韌帶與皮膚之間通常沒有重要結構。
 
-### 方形膜（Quadrangular Membrane）
-
+### Quadrangular Membrane（方形膜）
 每側的**方形膜**（圖 8.213）連接會厭軟骨外側緣與同側杓狀軟骨的前外側面，同時附著於與杓狀軟骨尖相關節的小角軟骨。
 
 每側方形膜有一遊離上緣（介於會厭軟骨頂與小角軟骨之間）和一遊離下緣。下遊離緣增厚形成**前庭韌帶**（vestibular ligament），位於喉部**前庭襞**（false vocal cord）下方。
@@ -5980,26 +5866,22 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ## 喉關節
 
-### 環甲關節（Cricothyroid Joints）
-
+### Cricothyroid Joints（環甲關節）
 甲狀軟骨下角與環狀軟骨之間，以及環狀軟骨與杓狀軟骨之間的關節為**滑膜關節**，各有關節囊並由相關韌帶加強。
 
 環甲關節使甲狀軟骨可在環狀軟骨上向前移動並向下傾斜（圖 8.215）。
 
 > **臨床重點**：環甲關節的運動直接影響聲韌帶的張力。臨床上甲狀軟骨向前移動可拉緊聲韌帶，用於改變音調。
 
-### 環杓關節（Crico-arytenoid Joints）
-
+### Crico-arytenoid Joints（環杓關節）
 環狀軟骨板上外側面的關節面與杓狀軟骨底之間的**環杓關節**，使杓狀軟骨能相互遠離或靠近，並可旋轉，使聲帶突向中線靠攏或分開。這些運動使聲韌帶外展或內收（圖 8.216）。
 
 ---
 
-## 喉腔（Cavity of the Larynx）
-
+## Cavity of the Larynx（喉腔）
 喉的中央腔（圖 8.217）為管狀，由黏膜覆蓋，結構支撐來自喉纖維彈性膜及相關軟骨。
 
-### 喉入口（Laryngeal Inlet）
-
+### Laryngeal Inlet（喉入口）
 喉入口向上開口於咽部前壁，略居舌頭下方及後方（圖 8.217A）：
 - **前界**：覆蓋會厭軟骨上緣的黏膜
 - **外側界**：黏膜皺襞（**杓會厭襞**），內含方形膜上緣及相鄰軟組織；喉入口後外側緣上有兩個小結節，對應下方的小角軟骨和楔狀軟骨
@@ -6017,24 +5899,21 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 | **中間腔**（Middle chamber） | 前庭襞與聲襞之間 | 兩襞之間的腔隙（非常窄） |
 | **聲門下腔**（Infraglottic cavity） | 聲襞與喉下口之間 | 聲韌帶及相關軟組織 |
 
-### 喉室與喉室囊（Laryngeal Ventricles and Saccules）
-
+### Laryngeal Ventricles and Saccules（喉室與喉室囊）
 每側，中間腔的黏膜經前庭韌帶與聲韌帶之間的裂隙向外側突出，形成槽狀擴展空間（**喉室**，laryngeal ventricle）（圖 8.217A）。
 
 每個喉室有一細長管狀延伸（**喉室囊**，laryngeal saccule），向前上方伸入前庭襞與甲狀軟骨之間，可達甲狀軟骨上緣高度。
 
 喉室囊壁內有大量黏液腺，分泌黏液潤滑聲帶。
 
-### 聲門裂（Rima Glottidis）
-
+### Rima Glottidis（聲門裂）
 從上方觀察（圖 8.217C、D），兩側聲襞之間有一狹窄三角形的**聲門裂**（rima glottidis，又稱 rima glottidis），為發聲時氣流通過的主要通道。
 
 聲門裂是喉最狹窄的部位，在成年男性約 24mm，成年女性約 16mm。
 
 ---
 
-## 喉固有肌肉（Intrinsic Muscles）
-
+## Intrinsic Muscles（喉固有肌肉）
 喉固有肌肉（表 8.19）調節聲韌帶張力，開啟和關閉聲門裂，控制前庭內徑。
 
 （表 8.19 相關內容）
@@ -6069,8 +5948,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 環甲肌（Cricothyroid Muscles）
-
+## Cricothyroid Muscles（環甲肌）
 扇形的**環甲肌**附著於**環狀軟骨（cricoid cartilage）**弓的前外側面，向上後方擴展附著於**甲狀軟骨（thyroid cartilage）**。
 
 每塊肌肉分為兩部分：
@@ -6084,46 +5962,40 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 環杓後肌（Posterior Crico-arytenoid Muscles）
-
+## Posterior Crico-arytenoid Muscles（環杓後肌）
 左、右各一。每塊肌肉的纖維起於**環狀軟骨板**後方的大淺凹陷，向上外側走行，匯聚於**杓狀軟骨**的肌突。
 
 環杓後肌**外展（abduct）**並**外旋（externally/laterally rotate）****杓狀軟骨**，從而打開**聲門裂（rima glottidis）**。這些肌肉是**聲帶的主要外展肌**。由**迷走神經 [X] 喉返神經分支**支配。
 
 ---
 
-## 環杓側肌（Lateral Crico-arytenoid Muscles）
-
+## Lateral Crico-arytenoid Muscles（環杓側肌）
 兩側的**環杓側肌**起於**環狀軟骨弓**上面，向後上走行，附著於**杓狀軟骨**的肌突。
 
 環杓側肌**內旋（internally rotate）****杓狀軟骨**，使**聲帶內收（adducted/closed）**。由**迷走神經 [X] 喉返神經分支**支配。
 
 ---
 
-## 杓橫肌（Transverse Arytenoid Muscle）
-
+## Transverse Arytenoid Muscle（杓橫肌）
 單一的**杓橫肌**橫跨兩側**杓狀軟骨**相鄰外側緣之間，並覆蓋這些軟骨的後面。它使杓狀軟骨**內收**，由**迷走神經 [X] 喉返神經分支**支配。
 
 ---
 
-## 杓斜肌（Oblique Arytenoid Muscles）
-
+## Oblique Arytenoid Muscles（杓斜肌）
 兩塊**杓斜肌**各從一側杓狀軟骨肌突後面走行至對側杓狀軟骨尖後面。部分纖維繼續繞過杓狀軟骨外側緣，進入**杓會厭襞**，延續為肌肉的**杓會厭部**。
 
 杓斜肌可透過縮短杓狀軟骨與會厭之間的距離來**收窄喉入口**。由**迷走神經 [X] 喉返神經分支**支配。
 
 ---
 
-## 聲帶肌（Vocalis）
-
+## Vocalis（聲帶肌）
 **聲帶肌**是沿各**聲韌帶**外側並與其平行的細長肌肉。每塊肌肉的纖維在後方附著於杓狀軟骨聲突的外側面及其前方凹陷，在前方沿**聲韌帶**全程附著至**甲狀軟骨角**。
 
 聲帶肌調整**聲帶**的張力，由**迷走神經 [X] 喉返神經分支**支配。
 
 ---
 
-## 甲杓肌（Thyro-arytenoid Muscles）
-
+## Thyro-arytenoid Muscles（甲杓肌）
 兩塊**甲杓肌**闊而扁平，位於喉部**纖維彈性膜**及**喉室（laryngeal ventricles）**與**喉囊（saccules）**外側。每塊肌肉起於甲狀軟骨角下半分，沿一垂直線至鄰近**環甲韌帶**外面，止於杓狀軟骨前外側面。部分纖維可繼續進入**杓會厭襞**並到達**會厭**外側緣——這些纖維構成肌肉的**甲狀會厭部**。
 
 因為**甲杓肌**寬闊且位於**方形膜**外側，它們透過將軟組織（中線側）推向中線而起前庭的**括約肌**作用。這些肌肉也透過同時向前拉杓狀軟骨並向前拉會厭靠近杓狀軟骨來**收窄喉入口**。
@@ -6132,12 +6004,10 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 喉的功能（Function of the Larynx）
-
+## Function of the Larynx（喉的功能）
 喉是**下呼吸道**的精密括約肌，並提供發聲機制。**聲門裂、前庭裂、前庭**及**喉入口**大小的調整來自肌肉動作與喉部力學。
 
-### 安靜呼吸（Quiet Respiration）
-
+### Quiet Respiration（安靜呼吸）
 **聲帶**
 **前庭襞（Vestibular fold）**
 **杓會厭襞**
@@ -6148,29 +6018,25 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 在安靜呼吸時，**喉入口、前庭、前庭裂**及**聲門裂**均開放。**杓狀軟骨**外展，**聲門裂**呈三角形（圖 8.221A）。
 
-### 用力吸氣（Forced Inspiration）
-
+### Forced Inspiration（用力吸氣）
 - **聲帶外展**，聲門裂大開
 - **前庭**：開放
 
 在用力吸氣時，**杓狀軟骨**主要透過**環杓後肌**的作用而向外側旋轉。因此**聲帶外展**，**聲門裂**變成菱形，有效增加喉氣道直徑。
 
-### 發聲（Phonation）
-
+### Phonation（發聲）
 - **聲帶內收並振動**，空氣被迫通過封閉的聲門裂
 - **前庭**：開放
 
 發聲時，**杓狀軟骨**與**聲帶****內收**，空氣被迫通過封閉的**聲門裂**。這個動作使**聲帶**相互振動而產生聲音，然後可由氣道上部及口腔來調節。**聲帶**張力可由**聲帶肌**與**環甲肌**調整。
 
-### 用力閉氣（Effort Closure）
-
+### Effort Closure（用力閉氣）
 - **聲帶**與**前庭襞**：內收
 - **聲門裂**與**前庭**：關閉
 
 喉的用力閉氣發生於需要將空氣保留在胸腔以穩定軀幹時（例如重物提起），或作為增加腹內壓機制的一部分。在用力閉氣時，**聲門裂**完全關閉，**前庭裂**及前庭下部也關閉，結果是完全且有力地封閉氣道。
 
-### 吞嚥（Swallowing）
-
+### Swallowing（吞嚥）
 - **聲門裂、前庭裂、前庭**：關閉
 - **喉入口**：變窄
 - **喉部**：向上向前移動
@@ -6182,8 +6048,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ## 臨床應用
 
-### 氣管切開術（Tracheostomy）
-
+### Tracheostomy（氣管切開術）
 **氣管切開術**是在氣管上造孔並插入導管以利通氣的手術。
 
 > **臨床重點**：在緊急情況下，氣管切開術通常在以下情況下進行：異物吸入導致喉部阻塞、過敏反應引起的嚴重水腫、或嚴重的頭頸部創傷。
@@ -6194,8 +6059,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 長期氣管切開的患者因空氣不通過聲帶而無法發聲。
 
-### 喉鏡檢查（Laryngoscopy）
-
+### Laryngoscopy（喉鏡檢查）
 > **臨床重點**：喉鏡檢查是用於檢查喉部的醫療程序。喉鏡的功能包括：評估吞嚥困難患者、評估聲帶、以及評估喉部腫瘤、腫塊和聲音虛弱。
 
 喉部通常用兩種方法可視化：
@@ -6207,24 +6071,20 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 血管（Vessels）
-
-### 動脈（Arteries）
-
+## Vessels（血管）
+### Arteries（動脈）
 喉的主要血供來自**甲狀子上動脈（superior laryngeal artery）**與**甲狀舌下動脈（inferior laryngeal artery）**：
 
 - **甲狀子上動脈**：起於甲狀軟骨上緣附近，來自**甲狀上動脈（superior thyroid artery）**（**頸外動脈 external carotid artery** 的分支），伴隨**喉上神經內支（internal branch of superior laryngeal nerve）**穿過**甲狀舌骨膜（thyrohyoid membrane）**到達喉部
 - **甲狀舌下動脈**：起於**鎖骨下 artery** 的**甲狀頸幹（thyrocervical trunk）**的**甲狀下动脉（inferior thyroid artery）**分支，在頸部低位，與**喉返神經（recurrent laryngeal nerve）**一起上行於**食道**與**氣管**之間的溝中——穿過**下咽縮肌（inferior constrictor muscle of pharynx）**邊緣進入喉部
 
-### 靜脈（Veins）
-
+### Veins（靜脈）
 引流喉部的靜脈與動脈伴行：
 
 - **甲狀子上靜脈（Superior laryngeal veins）**注入**甲狀上靜脈（superior thyroid veins）**，再流入**內頸靜脈（internal jugular veins）**
 - **甲狀舌下靜脈（Inferior laryngeal veins）**注入**甲狀下靜脈（inferior thyroid veins）**，再流入**左頭臂靜脈（left brachiocephalic vein）**
 
-### 淋巴（Lymphatics）
-
+### Lymphatics（淋巴）
 淋巴引流分為聲帶上下兩個區域：
 
 - **聲帶上方**：隨**甲狀子上動脈**引流，最終注入**頸總動脈分叉處**的深頸淋巴結
@@ -6232,19 +6092,16 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 神經（Nerves）
-
+## Nerves（神經）
 喉的感覺與運動神經支配來自迷走神經 [X] 的兩個分支——**喉上神經（superior laryngeal nerves）**與**喉返神經（recurrent laryngeal nerves）**。
 
-### 喉上神經（Superior Laryngeal Nerves）
-
+### Superior Laryngeal Nerves（喉上神經）
 **喉上神經**起源於頸部高位的**下迷走神經節（inferior vagal ganglion）**。每側，神經沿**內頸动脉**內側下降，在**舌骨大角**上方水平分为內支與外支：
 
 - **外支（External branch / External laryngeal nerve）**：沿咽外壁下行，穿入並支配**下咽縮肌**，終止於支配**環甲肌**
 - **內支（Internal branch / Internal laryngeal nerve）**：向前下走行，穿過**甲狀舌骨膜**——主要為感覺神經，支配**聲帶水平以下**的喉腔
 
-### 喉返神經（Recurrent Laryngeal Nerves）
-
+### Recurrent Laryngeal Nerves（喉返神經）
 **喉返神經**：
 
 - 支配**聲帶水平以下**喉腔的感覺
@@ -6254,8 +6111,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 鼻腔（Nasal Cavities）
-
+## Nasal Cavities（鼻腔）
 鼻腔是呼吸道最上部的結構，含有**嗅覺受體（olfactory receptors）**。鼻腔為狹長楔形空間，底部寬大，頂部狹窄，由主要由骨和軟骨構成的骨骼框架支撐。
 
 鼻腔前部較小，由**外鼻（external nose）**包圍；後部較大，位於顱骨中央。鼻腔前孔為**鼻孔（nares）**，位於鼻下表面；後孔為**後鼻孔（choanae）**，通向**鼻咽（nasopharynx）**。
@@ -6270,8 +6126,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 每側鼻腔有**地板、屋頂、內側壁**與**外側壁**。
 
-### 外側壁（Lateral Wall）
-
+### Lateral Wall（外側壁）
 外側壁的特徵是有三塊彎曲的骨性架子（**鼻甲 conchae**），上下疊加，向內向下跨過鼻腔。中央游離緣、前緣、後緣均為游離狀態。
 
 **鼻甲**將每側鼻腔分為四個氣道：
@@ -6285,8 +6140,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 **副鼻竇（Paranasal sinuses）**的開口位於外側壁及鼻腔屋頂。此外，外側壁也含有**鼻淚管（nasolacrimal duct）**的開口，將淚液從眼睛排入鼻腔。
 
-### 鼻腔分區（Regions）
-
+### Regions（鼻腔分區）
 每側鼻腔由三個大致區域組成——**鼻前庭（nasal vestibule）、呼吸區（respiratory region）**與**嗅覺區（olfactory region）**：
 
 - **鼻前庭**：緊接鼻孔內側的小擴張空間，由**皮膚**襯裡，含有毛囊
@@ -6299,14 +6153,13 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 神經支配與血液供應（Nerve & Blood Supply）
-
+## Nerve & Blood Supply（神經支配與血液供應）
 鼻腔的神經支配由三對腦神經負責：
 
 - **Olfaction（嗅覺）** 由 **olfactory nerve [I]** 傳導。
 - **General sensation（一般感覺）** 由 **trigeminal nerve [V]** 傳導——
-  - 前部由 **ophthalmic nerve [V1]** 支配。
-  - 後部由 **maxillary nerve [V2]** 支配。
+ - 前部由 **ophthalmic nerve [V1]** 支配。
+ - 後部由 **maxillary nerve [V2]** 支配。
 - 所有腺體由 **facial nerve [VII]** 中的副交感纖維（**greater petrosal nerve**）支配，這些纖維在 **pterygopalatine fossa** 與 **maxillary nerve [V2]** 的分支匯合。
 
 **Sympathetic fibers（交感纖維）** 主要源自 **T1 spinal cord level**，在 **superior cervical sympathetic ganglion** 突觸後，經血管或加入 **pterygopalatine fossa** 中的 **V2** 分支到達鼻腔。
@@ -6317,8 +6170,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 骨骼框架（Skeletal Framework）
-
+## Skeletal Framework（骨骼框架）
 構成鼻腔骨骼框架的骨頭包括：
 
 - **不成對骨頭**：**ethmoid**、**sphenoid**、**frontal**、**vomer**
@@ -6335,8 +6187,8 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 每個 **ethmoidal labyrinth** 由兩層薄骨板夾著 **ethmoidal cells** 組成：
 - **Lateral sheet（外側骨板）**：即 **orbital plate**，形成眼眶內側壁的一部分。
 - **Medial sheet（內側骨板）**：形成鼻腔側壁上部的特徵為兩個骨性突起及一個膨大——
-  - 兩個彎曲骨性架子（**superior** 與 **middle conchae（上、中鼻甲）**）橫跨鼻腔並向下彎曲游離。
-  - **Middle concha** 起點下方，**middle ethmoidal cells** 形成明顯膨大（**ethmoidal bulla**）。
+ - 兩個彎曲骨性架子（**superior** 與 **middle conchae（上、中鼻甲）**）橫跨鼻腔並向下彎曲游離。
+ - **Middle concha** 起點下方，**middle ethmoidal cells** 形成明顯膨大（**ethmoidal bulla**）。
 
 **Ethmoidal infundibulum（篩骨漏斗）** 從 **bulla** 前上方延伸，向上狹窄形成穿透 **ethmoidal labyrinth** 的通道，通往 **frontal sinus**，為 **frontonasal duct** 的路徑。
 
@@ -6351,8 +6203,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 外部鼻（External Nose）
-
+## External Nose（外部鼻）
 外部鼻是鼻腔向前延伸至面部前面的部分，使 **nares（鼻孔）** 向下開放（圖 8.230）。外形呈金字塔狀，頂端向前。
 
 鼻腔前部同樣由骨骼框架支撐，部分為骨頭、部分主要為軟骨：
@@ -6520,20 +6371,17 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 # Gray's Anatomy - Head & Neck Segment 26
 
-## 鼻腔通道（Gateways to the Nasal Cavities）
-
+## Gateways to the Nasal Cavities（鼻腔通道）
 鼻腔的神經與血管主要透過以下通道進出顱腔。
 
-### 篩骨篩板（Cribriform Plate）
-
+### Cribriform Plate（篩骨篩板）
 **篩骨篩板（cribriform plate）** 位於顱底，介於鼻腔與顔腔之間。**嗅神經（olfactory nerve [I]）** 的軸突穿過篩板的孔洞進入顱腔，於**嗅球（olfactory bulb）** 突觸。
 
 此外，篩板與周圍骨頭之間的小孔允許**前篩神經（anterior ethmoidal nerve）**——眼神經（ophthalmic nerve [V1]）的分支——及其伴隨血管從眼眶進入顱腔，再下行進入鼻腔。
 
 > **臨床重點**：某些個體的鼻腔靜脈與顱腔的**上矢狀竇（superior sagittal sinus）** 之間存在連接，透過額骨與雞冠（crista galli）之間中線的一個明顯孔洞——**盲孔（foramen cecum）**。這條連接途徑可能成為感染從周邊區域蔓延至顱腔的路徑。
 
-### 蝶顎孔（Sphenopalatine Foramen）
-
+### Sphenopalatine Foramen（蝶顎孔）
 神經與血管進入和離開鼻腔的最重要通道之一是**蝶顎孔（sphenopalatine foramen）**，位於上鼻道（superior nasal meatus）的後外側壁。此孔洞正好在**中鼻甲（middle nasal concha）** 後端附著處的上方，由**腭骨（palatine bone）** 的蝶顎切跡與**蝶骨（sphenoid bone）** 體形成。
 
 蝶顎孔是鼻腔與**翼齶窩（pterygopalatine fossa）**之間的通訊途徑。通過此孔的主要結構包括：
@@ -6542,15 +6390,13 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 - **上頜神經（maxillary nerve [V2]）** 的**鼻顎神經（nasopalatine nerve）** 分支
 - **上頜神經 [V2]** 的**上鼻分支（superior nasal branches）**
 
-### 切牙管（Incisive Canal）
-
+### Incisive Canal（切牙管）
 另一個結構進入和離開鼻腔的途徑是每側鼻腔底部的**切牙管（incisive canal）**。此管道緊鄰鼻中隔，外側就在**上頜骨（maxilla）** 中門齒根部的後上方。兩側的切牙管均開口於口腔頂部的一個單一不成對的**切牙窩（incisive fossa）**，通過以下結構：
 
 - 從鼻腔到口腔的**鼻顎神經（nasopalatine nerve）**
 - 從口腔到鼻腔的**大腭动脉（greater palatine artery）** 終末端
 
-### 側壁的小孔（Small Foramina in the Lateral Wall）
-
+### Small Foramina in the Lateral Wall（側壁的小孔）
 其他血管和神經進入和離開鼻腔的途徑包括**鼻孔（nares）** 和側壁的小孔：
 
 - **上頜神經 [V2]** 的**眶下神經（infra-orbital nerve）** 內鼻分支，以及來自**面动脉（facial artery）** 的**鼻动脉（nasal artery）** 翼部分支，繞過鼻孔邊緣進入鼻腔側壁
@@ -6558,12 +6404,10 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 鼻腔的血管（Vessels of the Nasal Cavities）
-
+## Vessels of the Nasal Cavities（鼻腔的血管）
 鼻腔具有豐富的血管供應，用於調節呼吸空氣的濕度和溫度。實際上，呼吸區域的黏膜下組織，特別是與鼻甲和中隔相關的部分，常被描述為「勃起組織」或「海綿狀」組織，因為組織會根據流入系統的血流量而膨脹或收縮。
 
-### 鼻腔的動脈（Arteries）
-
+### Arteries（鼻腔的動脈）
 供應鼻腔的動脈包括來自**頸內動脈（internal carotid artery）** 和**頸外動脈（external carotid artery）** 分支的血管（圖 8.239）：
 
 - 來自頸外動脈分支的血管包括：**蝶顎动脉、腭大动脉、上唇动脉** 和**側鼻动脉**
@@ -6603,8 +6447,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 > **臨床重點**：供應鼻腔的血管彼此形成廣泛的吻合。這在內側壁的前側區域特別明顯，那裡有腭大动脉、蝶顎动脉、上唇动脉和前篩动脉分支之間的吻合，且這些血管相對接近表面（圖 8.239B）。這個區域是鼻出血（epistaxis，鼻血）的主要部位。
 
-### 鼻腔的靜脈（Veins）
-
+### Veins（鼻腔的靜脈）
 鼻腔的靜脈引流一般伴隨著同名动脉（圖 8.240）：
 
 - 通過最終起源於上頜动脉的分支的靜脈，引流至**顳下窩（infratemporal fossa）** 的**翼靜脈叢（pterygoid plexus）**
@@ -6616,8 +6459,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 鼻腔的神經支配（Innervation of the Nasal Cavities）
-
+## Innervation of the Nasal Cavities（鼻腔的神經支配）
 支配鼻腔的神經（圖 8.241）包括：
 
 - **嗅神經 [I]**——負責嗅覺
@@ -6649,26 +6491,22 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 - 其他鼻腔神經（**後下鼻神經（posterior inferior nasal nerves）**）起源於腭大神經，從翼齶窩通過腭管下降，恰好在鼻腔外側，通過小骨孔進入支配鼻腔側壁
 - 一條小的鼻腔神經也起源於眶下神經的前上頜分支，向內側通過上頜骨供應下鼻甲前端附近的側壁
 
-### 副交感神經支配（Parasympathetic Innervation）
-
+### Parasympathetic Innervation（副交感神經支配）
 鼻腔黏膜和副鼻竇腺體的分泌運動神經支配由**面神經 [VII]** 的腭大神經分支攜帶的節前副交感神經纖維提供。這些纖維進入翼齶窩，在**翼齶神經節（pterygopalatine ganglion）** 中突觸。節後副交感神經纖維隨後加入上頜神經 [V2] 的分支離開窩，最終到達目標腺體。
 
-### 交感神經支配（Sympathetic Innervation）
-
+### Sympathetic Innervation（交感神經支配）
 交感神經支配，主要參與調節鼻腔黏膜的血流，來自脊髓 T1 水平。節前交感神經纖維進入交感幹，向上突觸於**頸上交感神經節（superior cervical sympathetic ganglion）**。節後交感神經纖維經過頸內动脉，進入顱腔，然後離開頸內动脉形成**深岩神經（deep petrosal nerve）**，加入面神經 [VII] 的腭大神經，進入翼齶窩。與副交感神經纖維一樣，交感神經纖維跟上頜神經 [V2] 的分支進入鼻腔。
 
 ---
 
-## 鼻腔的淋巴（lymphatics of the Nasal Cavities）
-
+## lymphatics of the Nasal Cavities（鼻腔的淋巴）
 鼻腔前側區域的淋巴通過繞過鼻孔邊緣向前引流到面部（圖 8.242）。這些淋巴管最終連接到**下頜下淋巴結（submandibular nodes）**。
 
 鼻腔後側區域和副鼻竇的淋巴引流至**上深頸淋巴結（upper deep cervical nodes）**。部分淋巴首先通過**咽後淋巴結（retropharyngeal nodes）**。
 
 ---
 
-## 口腔（Oral Cavity）
-
+## Oral Cavity（口腔）
 口腔位於鼻腔下方（圖 8.243A）。它有頂部和底部，以及側壁，通過**口裂（oral fissure）** 向面部開口，並在**口咽峽（oropharyngeal isthmus）** 處與咽腔延續。
 
 口腔頂部由**硬腭（hard palate）** 和**軟腭（soft palate）** 組成。底部主要由軟組織形成，包括肌肉隔膜和**舌頭（tongue）**。側壁（臉頰）是肌肉性的，向前與圍繞口腔裂縫（口腔前開口）的嘴唇融合。
@@ -6688,8 +6526,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 口腔的神經支配（Nerves of the Oral Cavity）
-
+## Nerves of the Oral Cavity（口腔的神經支配）
 口腔的一般感覺神經主要由**三叉神經 [V]** 的分支傳導：
 
 - 口腔上部，包括腭和上牙，由**上頜神經 [V2]** 的分支支配
@@ -6704,8 +6541,7 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 ---
 
-## 口腔的骨骼框架（Skeletal Framework of the Oral Cavity）
-
+## Skeletal Framework of the Oral Cavity（口腔的骨骼框架）
 構成口腔骨骼框架或與口腔結構解剖相關的骨骼包括：
 
 - 成對的**上頜骨（maxillae）**、**腭骨（palatine bones）** 和**顳骨（temporal bones）**
@@ -6713,16 +6549,14 @@ Palatopharyngeus 除了上提咽部外，亦參與封閉口咽峽——下壓軟
 
 此外，顱底下面的軟骨性咽鼓管（pharyngotympanic tubes）的軟骨部分與軟腭肌肉的附著相關。
 
-### 上頜骨（Maxillae）
-
+### Maxillae（上頜骨）
 兩塊上頜骨對口腔頂部的結構有很大貢獻。涉及的部分是**牙槽突（alveolar process）** 和**腭突（palatine process）**（圖 8.244A）。
 
 腭突是從每塊上頜骨內側表面突出的水平板。它起源於牙槽突內側的正上方，延伸到中線，在縫合處與另一側的腭突相連。兩塊腭突共同形成硬腭的前三分之二。
 
 在硬腭下表面中線上，並位於門齒後方的上頜間縫合線的前端，是一個單一的小窩（**切牙窩 incisive fossa）**。兩條切牙管，一側一條，從這個窩的頂部向後上方延伸，開口於鼻腔底部。這些管道和窩允許腭大血管和鼻顎神經通過。
 
-### 腭骨（Palatine Bones）
-
+### Palatine Bones（腭骨）
 L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）** 和**錐突（pyramidal process）**（圖 8.244A）。
 
 水平板從腭骨下表面向內側突出，在中線通過縫合與對側相連，並在同一側與上頜骨的腭突前方相連。
@@ -6735,8 +6569,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 錐突向後突出，填充蝶骨翼突（pterygoid process）的內側板和外側板下端之間的空間。
 
-### 蝶骨（Sphenoid Bone）
-
+### Sphenoid Bone（蝶骨）
 蝶骨的**翼突（pterygoid processes）** 和**棘（spines）** 與構成口腔頂部一部分的軟腭相關結構相連（圖 8.244A）。
 
 翼突從蝶骨體的外側面向下延伸，每側一個。每個翼突有一個**內側板（medial plate）** 和**外側板（lateral plate）**。這兩塊垂直方向的板從翼突的後面向下突出。兩板之間下方的 V 形間隙由腭骨的錐突填充。
@@ -6755,8 +6588,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ## 蝶骨（Sphenoid Bone）— 棘突與周圍結構
 
-### 蝶骨棘（Spine of Sphenoid）
-
+### Spine of Sphenoid（蝶骨棘）
 此窩為**軟腭**（soft palate）肌肉之一——**tensor veli palatini**（腭帆張肌）——的附著處。
 
 蝶骨的棘（spine），左右各一，是**蝶骨大翼**（greater wing of sphenoid）下表面的垂直骨性突起（圖 8.244A）。每個棘緊鄰** foramen spinosum**（棘孔）的後內側。棘的內側面為**軟腭**（soft palate）**tensor veli palatini**（腭帆張肌）最外側部分的附著點。
@@ -6765,8 +6597,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 顳骨（Temporal Bone）
-
+## Temporal Bone（顳骨）
 ### 莖突（Styloid Process）與岩部下面（Inferior Aspect of Petrous Part）
 
 莖突與顳骨岩部的下面分別為與**舌**及**軟腭**相關肌肉的附著處。
@@ -6779,8 +6610,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 咽鼓管軟骨部（Cartilaginous Part of the Pharyngotympanic Tube）
-
+## Cartilaginous Part of the Pharyngotympanic Tube（咽鼓管軟骨部）
 咽鼓管軟骨部呈喇叭狀，位於**顳骨岩部**前緣與**蝶骨大翼**後緣之間的溝中（圖 8.244A）。
 
 咽鼓管軟骨部的內側壁與外側壁主要由軟骨構成，而更靠下外側的壁則以纖維組織為主，稱為**membranous lamina**（膜性板）。
@@ -6793,8 +6623,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 下頜骨（Mandible）
-
+## Mandible（下頜骨）
 下頜骨（mandible）是下頜的骨骼（圖 8.245），由左右兩側融合於正中線（**mandibular symphysis**（下頜聯合））的**體**（body）以及兩個**分支**（ramus）所組成。融合处在骨外表面尤其明顯，呈正中線上的小垂直嵴。
 
 下頜骨體的上表面有承托下排牙齒的**齒槽弓**（alveolar arch）（圖 8.245B），兩側外表面各有**mental foramen**（頦孔）（圖 8.245B）。
@@ -6815,8 +6644,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 舌骨（Hyoid Bone）
-
+## Hyoid Bone（舌骨）
 舌骨是位於頸部喉與下頜骨之間的小型 U 形骨，前面有**舌骨體**（body of hyoid bone），兩側向後上方各延伸出一個大型**大角**（greater horn）；在大角與舌骨體交界處的上表面有兩個小型錐狀**小角**（lesser horn）。**stylohyoid ligaments**（莖突舌骨韌帶）附著於小角尖端（圖 8.246）。
 
 舌骨是頸部重要的骨頭，因為它連接前方的**口腔底**與後方的**咽**，以及下方的**喉**。
@@ -6825,8 +6653,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 口腔壁：臉頰（The Cheeks）
-
+## The Cheeks（口腔壁：臉頰）
 口腔壁由**臉頰**（cheeks）構成。每側臉頰由外側的**皮膚**、內側的**口腔黏膜**，以及介於兩者之間的**筋膜**與**骨骼肌層**共同組成。臉頰內的薄層骨骼肌主要是**buccinator muscle**（頰肌）。
 
 ### Buccinator Muscle（頰肌）
@@ -6847,8 +6674,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 口腔底（Floor of the Oral Cavity）
-
+## Floor of the Oral Cavity（口腔底）
 口腔本體的底部主要由三個結構形成：
 
 - **肌性膈膜**：填充於下頜骨體左右兩側之間的 U 形間隙，由成對的**mylohyoid muscles**（下頜舌骨肌）組成；
@@ -6888,8 +6714,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 口腔底的通道：口咽三角（Oropharyngeal Triangle）
-
+## Oropharyngeal Triangle（口腔底的通道：口咽三角）
 除了界定口腔底的下界外，每側**mylohyoid muscle** 的遊離後緣還形成了大型三角形開口（**口咽三角**）的三條邊之一，這是頸部上方與顳下窩的結構通往口腔底的主要通道（圖 8.249）。其餘兩條邊由**咽上縮肌**（superior constrictor）與**咽中縮肌**（middle constrictor）構成。
 
 穿過此口的主要結構均與舌頭相關，包括：
@@ -6905,14 +6730,12 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 舌（Tongue）
-
+## Tongue（舌）
 舌是一個肌性結構，構成口腔底的一部分，同時也是**口咽**（oropharynx）的前壁（圖 8.250A）。其前方部分位於口腔內，形狀略呈三角形，舌尖圓鈍，向前正對切牙。舌根附著於下頜骨與舌骨。
 
 口腔部（即舌前三分之二）的上表面呈水平方向。咽部表面（即舌後三分之一）向下彎曲，更趨向垂直方向。口腔部與咽部表面以 **V 形舌後界溝**（terminal sulcus of the tongue）分開。該溝構成口腔與咽腔之間**oropharyngeal isthmus**（口咽峽）的下界。V 形溝的頂點有一個小凹陷（**foramen cecum of the tongue**（舌盲孔）），標誌著胚胎時期上皮內陷形成甲狀腺的部位。某些人的**甲狀舌管**（thyroglossal duct）持續存在，連接舌盲孔與頸部的甲狀腺。
 
-### 舌乳頭（Papillae）
-
+### Papillae（舌乳頭）
 舌口腔部的上表面覆蓋數百個**乳頭**（papillae）（圖 8.250B）：
 
 - **絲狀乳頭**（Filiform papillae）：黏膜形成的小圓錐狀突起，頂端單或多尖。
@@ -6924,8 +6747,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 > **臨床重點**：**輪廓乳頭**位於舌後三分之一，是該區域感覺（**舌咽神經 [IX]**）的重要標誌，亦是**von Ebner's gland**（味腺）導管開口處。臨床上此區域的乳頭狀病灶需與惡性腫瘤鑑別。
 
-### 舌下面（Inferior Surface of the Tongue）
-
+### Inferior Surface of the Tongue（舌下面）
 舌口腔部的下面無乳頭，但有多條線狀黏膜皺襞（見圖 8.261）。正中線有一條單一皺襞（**frenulum of the tongue**（舌繫帶）），與口腔底黏膜延續，覆蓋於分隔舌左右兩半的正中矢狀隔下緣。繫帶兩側各有**舌靜脈**（lingual vein），靜脈外側為粗糙的傘狀皺襞。
 
 咽部表面無乳頭。
@@ -6938,16 +6760,14 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 ---
 
-## 舌肌（Muscles of the Tongue）
-
+## Muscles of the Tongue（舌肌）
 舌的主體由肌肉組成（圖 8.250 與表 8.21）。
 
 舌由纖維性正中矢狀隔完整分為左右兩半，因此所有舌肌均為成對存在，分為**內在肌**（intrinsic muscles）與**外在肌**（extrinsic muscles）。
 
 除**palatoglossus**（腭舌肌）由**迷走神經 [X]** 支配外，所有舌肌均由**舌下神經 [XII]** 支配。
 
-### 內在肌（Intrinsic Muscles）
-
+### Intrinsic Muscles（內在肌）
 舌內在肌（圖 8.251）起源並附著於舌內部，分為：
 
 - **上縱肌**（Superior longitudinal）
@@ -6963,8 +6783,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 
 成對或單側工作時，舌內在肌有助於言語、進食與吞嚥所需的精確舌運動。
 
-### 外在肌（Extrinsic Muscles）
-
+### Extrinsic Muscles（外在肌）
 舌外在肌（圖 8.251 與表 8.21）起源於舌外部結構，附著於舌內。兩側各有四塊主要外在肌：**genioglossus**（頦舌肌）、**hyoglossus**（舌骨舌肌）、**styloglossus**（莖突舌肌）與**palatoglossus**（腭舌肌）。這些肌肉可使舌頭突出、後退、下降與上抬。
 
 #### Genioglossus（頦舌肌）
@@ -7024,7 +6843,7 @@ L 形腭骨對口腔頂部有貢獻的部分是**水平板（horizontal plate）
 ---
 
 > **臨床重點摘要（Key Clinical Pearls）**：
-> 
+>
 > 1. **甲狀舌管囊腫**（Thyroglossal duct cyst）源於胚胎髮育時甲狀腺組織沿**foramen cecum** 下降的路徑残留，典型表現為頸部中線可移動的囊性腫塊，隨吞嚥與伸舌而移動。
 > 2. **口腔底蜂窩組織炎 / Ludwig's angina** 為口腔底的快速擴散性感染，常起源於**下頜磨牙**感染，表現為口腔底、舌體抬高，嚴重時可導致氣道阻塞，需緊急氣道管理。
 > 3. **舌下神經 [XII]** 損傷的臨床徵象：伸舌時舌尖偏向**患側**（因對側 genioglossus 功能正常，持續將舌尖拉向患側）。
@@ -7576,8 +7395,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 牙齒神經支配（Teeth Innervation）
-
+## Teeth Innervation（牙齒神經支配）
 所有上排牙齒皆由 **anterior superior alveolar nerve**、**middle superior alveolar nerve** 及 **posterior superior alveolar nerve** 支配，這些神經直接或間接源自 **maxillary nerve [V2]**（圖 8.276 與 8.277）。
 
 ### Posterior Superior Alveolar Nerve
@@ -7596,35 +7414,30 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 牙齦神經支配（Innervation of Gingivae）
-
+## Innervation of Gingivae（牙齦神經支配）
 與牙齒類似，牙齦的神經支配同樣源自 **trigeminal nerve [V]**（圖 8.277）：
 
 - **上排牙齒相關牙齦**：由 **maxillary nerve [V2]** 的分支支配
 - **下排牙齒相關牙齦**：由 **mandibular nerve [V3]** 的分支支配
 
-### 上排牙齒牙齦（Upper Gingiva）
-
+### Upper Gingiva（上排牙齒牙齦）
 - **臉側（Buccal side）**：由支配相鄰牙齒的 **anterior superior alveolar nerve**、**middle superior alveolar nerve** 及 **posterior superior alveolar nerve** 支配
 - **腭側（Palatal/lingual side）**：由 **nasopalatine nerve** 與 **greater palatine nerve** 支配
-  - **Nasopalatine nerve**：支配 **incisor** 與 **canine** 齒相關牙齦
-  - **Greater palatine nerve**：支配其餘牙齒相關牙齦
+ - **Nasopalatine nerve**：支配 **incisor** 與 **canine** 齒相關牙齦
+ - **Greater palatine nerve**：支配其餘牙齒相關牙齦
 
-### 下排牙齒牙齦（Lower Gingiva）
-
+### Lower Gingiva（下排牙齒牙齦）
 - **臉側（Buccal side）**：
-  - **Mandibular incisor**、**canine**、**premolar** 齒相關牙齦：由 **inferior alveolar nerve** 的 **mental branch**（**mental nerve**）支配
-  - **Mandibular molar** 齒相關牙齦：由起源於 **infratemporal fossa** 之 **mandibular nerve [V3]** 的 **buccal nerve** 支配
+ - **Mandibular incisor**、**canine**、**premolar** 齒相關牙齦：由 **inferior alveolar nerve** 的 **mental branch**（**mental nerve**）支配
+ - **Mandibular molar** 齒相關牙齦：由起源於 **infratemporal fossa** 之 **mandibular nerve [V3]** 的 **buccal nerve** 支配
 - **舌側（Lingual side）**：由 **lingual nerve** 支配所有下排牙齒相鄰牙齦
 
 ---
 
-## 頸部表面解剖（Surface Anatomy of Head and Neck）
-
+## Surface Anatomy of Head and Neck（頸部表面解剖）
 頭頸部的骨骼標誌可用於定位主要血管、腺體及肌肉，亦為氣道入口點。神經學檢查則透過評估頭頸部功能來進行。此外，觀察表面特徵、眼睛、口腔及語音特質亦可獲得全身健康狀態的資訊。
 
-### 頭部標準姿勢與主要標誌（Anatomical Position of the Head）
-
+### Anatomical Position of the Head（頭部標準姿勢與主要標誌）
 頭部處於標準姿勢時，**眼眶骨性下緣**與**外耳道 superior margins** 位於同一水平面（**Frankfort plane**）。
 
 其他可觸及的結構包括：**mandible head**、**zygomatic arch**、**zygomatic bone**、**mastoid process** 及 **external occipital protuberance**（圖 8.278）。
@@ -7640,10 +7453,8 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 頸部前三角與後三角（Anterior and Posterior Triangles of the Neck）
-
-### 前三角（Anterior Triangle）
-
+## Anterior and Posterior Triangles of the Neck（頸部前三角與後三角）
+### Anterior Triangle（前三角）
 - **底（Base）**：**mandible 下緣**
 - **前緣（Anterior margin）**：頸部正中線
 - **後緣（Posterior margin）**：**Sternocleidomastoid muscle** 前緣
@@ -7651,8 +7462,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 前三角與氣道、消化道、甲状腺、甲狀旁腺及通過胸廓與頭部間的神經血管結構相關。
 
-### 後三角（Posterior Triangle）
-
+### Posterior Triangle（後三角）
 - **底（Base）**：**clavicle** 中三分之一
 - **內側緣（Medial margin）**：**Sternocleidomastoid muscle** 後緣
 - **外側緣（Lateral margin）**：**Trapezius muscle** 前緣
@@ -7662,8 +7472,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 如何定位環甲韌帶（How to Locate the Cricothyroid Ligament）
-
+## How to Locate the Cricothyroid Ligament（如何定位環甲韌帶）
 **Cricothyroid ligament**（又稱 **cricovocal membrane** 或 **cricothyroid membrane**，圖 8.281）是頸部重要的緊急氣道開放結構。在緊急情況下，經此韌帶人工穿刺可提供進入下氣道的通道。
 
 ### 定位方法
@@ -7678,8 +7487,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 > **臨床重點**：經 **cricothyroid ligament** 插入的管子會進入聲帶下方、喉部下方約 **vocal folds** 的氣道。皮膚與此韌帶之間的結構可能包括甲狀腺的錐體葉（**pyramidal lobe**）及小血管。
 
-### 甲狀腺定位（How to Find the Thyroid Gland）
-
+### How to Find the Thyroid Gland（甲狀腺定位）
 甲狀腺左右葉位於下頸部前三角，**airway** 與 **digestive tract** 的兩側，**thyroid cartilage** 斜線（**oblique line**）下方（圖 8.282）。
 
 定位技巧：
@@ -7690,8 +7498,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 中腦膜动脉位置評估（Estimating the Position of the Middle Meningeal Artery）
-
+## Estimating the Position of the Middle Meningeal Artery（中腦膜动脉位置評估）
 **Middle meningeal artery**（圖 8.283）是 **infratemporal fossa** 中 **maxillary artery** 的分支，穿過 **foramen spinosum** 進入顱腔，位於硬腦膜內。
 
 > **臨床重點**：頭部側面撞擊可導致 **middle meningeal artery** 破裂，造成 **extradural hemorrhage**（硬膜外血腫），若未治療可致命。最常受損的是 **middle meningeal artery** 的前分支，位於眼眶上緣與外耳道上部之間的 **pterion** 區域（約太陽穴位置）。**Pterion** 是蝶骨、額骨、頂骨與顳骨交匯的小圓形區域。
@@ -7700,8 +7507,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 面部主要特徵（Major Features of the Face）
-
+## Major Features of the Face（面部主要特徵）
 面部主要特徵與**眼眶前孔**、**鼻腔**及**口腔**的前開口的相關結構（圖 8.284）。
 
 - **Palpebral fissure（瞼裂）**：上下眼瞼之間的裂隙，可開合
@@ -7716,14 +7522,12 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 眼部與淚器（Eye and Lacrimal Apparatus）
-
+## Eye and Lacrimal Apparatus（眼部與淚器）
 ### 眼部主要結構
 
 主要結構包括 **sclera**、**cornea**、**iris** 與 **pupil**（圖 8.285）。**Cornea** 延續自 **sclera**，是眼球外覆蓋的透明圓形區域，可見 **pupil** 與 **iris**。**Sclera** 不透明，正常呈白色。
 
-### 淚器系統（Lacrimal Apparatus）
-
+### Lacrimal Apparatus（淚器系統）
 淚器由 **lacrimal gland** 及收集淚液並引流至鼻腔的管道系統組成。
 
 - **Lacrimal gland**：位於眼眶外側屋頂、眶緣後方的小凹陷中，多條小管開口於眼瞼與角膜間的結膜囊上方
@@ -7733,12 +7537,10 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 外耳（External Ear）
-
+## External Ear（外耳）
 外耳由 **auricle（耳廓）** 與 **external acoustic meatus（外耳道）** 組成（圖 8.286）。
 
-### Auricle 結構
-
+### Auricle（結構）
 | 結構 | 描述 |
 |------|------|
 | **Helix（耳輪）** | 耳廓最外側的折疊邊緣，下端延伸為 **lobule（耳垂）** |
@@ -7752,8 +7554,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 脈搏檢測點（Pulse Points）
-
+## Pulse Points（脈搏檢測點）
 頭頸部有四個可觸及动脉搏動的位置（圖 8.287）：
 
 | 脈搏位置 | 动脉 | 觸摸方法 |
@@ -7765,8 +7566,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 
 ---
 
-## 臨床案例：多結節性甲狀腺腫（Multinodular Goiter）
-
+## Multinodular Goiter（臨床案例：多結節性甲狀腺腫）
 ### 病例報告
 
 一名 50 歲體重過重的女性因聲音嘶啞、呼吸有噪音及頸部腫大就診。檢查發現心率緩慢（45 次/分），頸部前下方有不規則結節狀腫塊，氣管向右偏移。
@@ -7919,8 +7719,7 @@ The upper teeth are innervated by the **anterior, middle, and posterior superior
 - 腦部病灶位於左側。
 - 右側身體運動皮質代表區位於左側**中央前回（precentral gyrus）**。
 
-### 超音波檢查（Duplex Doppler）
-
+### Duplex Doppler（超音波檢查）
 - 左側**頸內動膜（internal carotid artery）**顯著狹窄（約 **90%**），可見粥狀硬化斑塊形成及該區域異常血流。
 
 ### 治療
@@ -8038,8 +7837,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - 囑患者向上看時，右眼內收時無法向上轉動（**上斜（superior oblique）**功能異常特定表現）。
 - 其他眼外肌（外直肌[VI]、上斜肌[IV]、其餘眼外肌[III]）功能正常。
 
-### CT 掃描
-
+### CT（掃描）
 顏面骨 CT（冠狀面，圖 8.289）顯示**眼眶底（floor of orbit）骨折**（**爆裂骨折/blowout fracture**）。
 
 ### 病理機制
@@ -8086,8 +7884,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 2. **追蹤**：數年來腫瘤持續縮小。
 3. **復發**：患者再次出現泌乳素分泌，手術治療。
 4. **經蝶竇手術（transsphenoidal approach）**：
-   - 精密工具由鼻腔進入蝶骨
-   - 鑽開骨質，經此路徑移除腦下垂體
+ - 精密工具由鼻腔進入蝶骨
+ - 鑽開骨質，經此路徑移除腦下垂體
 
 ### 術中解剖要點
 
@@ -8151,12 +7949,12 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Anastomoses
 - **arterial**
-  - around knee：613f
-  - around shoulder：720f
-  - and collateral circulation：**28b**
-  - cruciate：601f
-  - femoral arterial：582f
-  - in nasal cavity：1083f
+ - around knee：613f
+ - around shoulder：720f
+ - and collateral circulation：**28b**
+ - cruciate：601f
+ - femoral arterial：582f
+ - in nasal cavity：1083f
 - **portacaval**：275
 - **portosystemic**：356–357
 
@@ -8190,33 +7988,33 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - long vertebral column and short spinal cord：62
 - **pain**：79b, 110b, 118b
 - relationship to：
-  - head：61
-  - limbs：62
-  - thorax, abdomen, and pelvis：62
-  - upper limb：694–695
+ - head：61
+ - limbs：62
+ - thorax, abdomen, and pelvis：62
+ - upper limb：694–695
 - skeletal framework：64–73
 - **spinal cord**：99–109
 - **spinal nerves**：60
-  - intervertebral foramina and：63
+ - intervertebral foramina and：63
 - surface anatomy：111–116
 - vertebral canal：59
 
 ### Back muscles
 - 57, 84–99, 695f
 - **deep group**
-  - erector spinae muscles：93–95
-  - segmental muscles：97
-  - spinotransversales muscles：92
-  - thoracolumbar fascia：92
-  - transversospinales muscles：95–97
-  - identifying major muscles：116
+ - erector spinae muscles：93–95
+ - segmental muscles：97
+ - spinotransversales muscles：92
+ - thoracolumbar fascia：92
+ - transversospinales muscles：95–97
+ - identifying major muscles：116
 - **intermediate group**：90, 911
 - **suboccipital muscles**：97–99
 - **superficial group**：84–90
-  - latissimus dorsi：89
-  - levator scapulae：89
-  - rhomboid minor and rhomboid major：89–90
-  - trapezius：87
+ - latissimus dorsi：89
+ - levator scapulae：89
+ - rhomboid minor and rhomboid major：89–90
+ - trapezius：87
 
 ### Balance, organs of
 - 968
@@ -8396,11 +8194,11 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Brachial plexus
 - 49f, 130f, 696f, 738–742, 851f
 - **branches**
-  - of lateral cord：742
-  - of medial cord：742
-  - of posterior cord：746
-  - of roots：740–741
-  - of trunks：741–742
+ - of lateral cord：742
+ - of medial cord：742
+ - of posterior cord：746
+ - of roots：740–741
+ - of trunks：741–742
 - **cords**：739
 - **divisions**：739
 - **nerve block**：**830b**
@@ -8435,9 +8233,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Brain. See also Meninges
 - **blood supply**：880–883
-  - cerebral arterial circle (of Willis)：883
-  - internal carotid arteries：882
-  - vertebral arteries：882
+ - cerebral arterial circle (of Willis)：883
+ - internal carotid arteries：882
+ - vertebral arteries：882
 - **diencephalon**：879
 - **hemispheres**：31–32
 - hydrocephalus：**877l:r–878b**
@@ -8466,14 +8264,12 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 *Gray's Anatomy, 32nd Edition — Head & Neck Index (Segment 32)*
 
 # Gray's Anatomy — Head & Neck Segment 33
-## 索引（Index）
-
+## Index（索引）
 ---
 
 ## A
 
-### 腦部與血管（Brain & Vessels）
-
+### Brain & Vessels（腦部與血管）
 - **Primary brain hemorrhage**，891
 - **Stroke**，883b
 - **T2 MRI**，89f
@@ -8484,17 +8280,16 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Brainstem**，39f；tumor，835
 
-### 心血管系統（Cardiovascular System）
-
+### Cardiovascular System（心血管系統）
 - **Branches of abdominal aorta**，388t
 - **Branches of aortic arch**，216
 - **Coronary arteries**，198–201
 - **Coronary artery disease**，202
 - **Coronary sinus**，185f, 191f, 192, 199f, 205f
 - **Cardiac conduction system**，206
-  - Atrioventricular bundle，206
-  - Atrioventricular node，206
-  - Sinuatrial node，206
+ - Atrioventricular bundle，206
+ - Atrioventricular node，206
+ - Sinuatrial node，206
 - **Cardiac innervation**，206–209
 - **Cardiac veins**，204, 205f
 
@@ -8527,8 +8322,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 > **臨床重點**：**Bronchoscopy**（支氣管鏡檢查）是診斷肺部病變的重要工具，178b。
 
-### 骨性結構（Bone & Joints）
-
+### Bone & Joints（骨性結構）
 - **Calcaneus**，542f, 622f, 636–637
 - **Calvaria, lateral portion**，858
 - **Capitate bone**，793
@@ -8558,27 +8352,26 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 > **臨床重點**：**Cranial nerve lesions**（腦神經損傷）可導致感覺、運動或自主神經功能障礙，需仔細檢查各腦神經功能。
 
-### 特定神經分支（Specific Nerve Branches）
-
+### Specific Nerve Branches（特定神經分支）
 - **Branches of mandibular nerve**
-  - **Auriculotemporal nerve**，985–986
-  - **Buccal nerve**，985
-  - **Deep temporal nerves**，985
-  - **Inferior alveolar nerve**，987
-  - **Lingual nerve**，986–987
-  - **Masseteric nerve**，985
-  - **Meningeal branch**，984
-  - **Nerve to lateral pterygoid**，985
-  - **Nerve to medial pterygoid**，985
+ - **Auriculotemporal nerve**，985–986
+ - **Buccal nerve**，985
+ - **Deep temporal nerves**，985
+ - **Inferior alveolar nerve**，987
+ - **Lingual nerve**，986–987
+ - **Masseteric nerve**，985
+ - **Meningeal branch**，984
+ - **Nerve to lateral pterygoid**，985
+ - **Nerve to medial pterygoid**，985
 
 - **Branches of maxillary nerve**
-  - **Greater and lesser palatine nerves**，995
-  - **Infraorbital nerve**，996
-  - **Nasal nerves**，995–996
-  - **Orbital branches**，995
-  - **Pharyngeal nerve**，996
-  - **Posterior superior alveolar nerve**，996
-  - **Zygomatic nerve**，996
+ - **Greater and lesser palatine nerves**，995
+ - **Infraorbital nerve**，996
+ - **Nasal nerves**，995–996
+ - **Orbital branches**，995
+ - **Pharyngeal nerve**，996
+ - **Posterior superior alveolar nerve**，996
+ - **Zygomatic nerve**，996
 
 ---
 
@@ -8588,22 +8381,21 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Cranial cavity**，837
 - **Floor**，870f
-  - **Anterior cranial fossa**，865–867
-  - **Middle cranial fossa**，867–868
-  - **Posterior cranial fossa**，868–869
+ - **Anterior cranial fossa**，865–867
+ - **Middle cranial fossa**，867–868
+ - **Posterior cranial fossa**，868–869
 - **Roof**，864–865
 
 - **Cranial dura mater**，873–876
-  - **Arterial supply**，875
-  - **Dural partitions**
-    - **Diaphragma sellae**，874
-    - **Falx cerebelli**，874
-    - **Falx cerebri**，874
-    - **Tentorium cerebelli**，874
-  - **Innervation**，876
+ - **Arterial supply**，875
+ - **Dural partitions**
+ - **Diaphragma sellae**，874
+ - **Falx cerebelli**，874
+ - **Falx cerebri**，874
+ - **Tentorium cerebelli**，874
+ - **Innervation**，876
 
-### Cavernous Sinuses 海綿竇
-
+### Cavernous Sinuses（海綿竇）
 - **Cavernous sinuses**，888–889, 890f
 
 ### 腦室與 CSF
@@ -8684,24 +8476,24 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### 深層肌肉群 Deep Muscle Groups
 
 - **Deep group of back muscles**
-  - **Erector spinae muscles**，93–95
-  - **Segmental muscles**，97
-  - **Spinotransversales muscles**，92
-  - **Thoracolumbar fascia**，92
-  - **Transversospinales muscles**，95–97
+ - **Erector spinae muscles**，93–95
+ - **Segmental muscles**，97
+ - **Spinotransversales muscles**，92
+ - **Thoracolumbar fascia**，92
+ - **Transversospinales muscles**，95–97
 
 - **Deep group of gluteal muscles**
-  - **Gemellus inferior muscle**，575t, 577
-  - **Gemellus superior muscle**，575t, 577
-  - **Obturator internus muscle**，575t, 576–577
-  - **Piriformis muscle**，575t, 576
-  - **Quadratus femoris muscle**，575t, 577
+ - **Gemellus inferior muscle**，575t, 577
+ - **Gemellus superior muscle**，575t, 577
+ - **Obturator internus muscle**，575t, 576–577
+ - **Piriformis muscle**，575t, 576
+ - **Quadratus femoris muscle**，575t, 577
 
 - **Deep group of leg muscles**
-  - **Flexor digitorum longus muscle**，624, 624t
-  - **Flexor hallucis longus muscle**，624, 624t
-  - **Popliteus muscle**，623–624
-  - **Tibialis posterior muscle**，624–625, 624t
+ - **Flexor digitorum longus muscle**，624, 624t
+ - **Flexor hallucis longus muscle**，624, 624t
+ - **Popliteus muscle**，623–624
+ - **Tibialis posterior muscle**，624–625, 624t
 
 ---
 
@@ -8767,18 +8559,18 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### 喉部 Larynx
 
 - **Cavity of larynx**
-  - **Borders**，1059
-  - **Division into regions**，1059
-  - **Laryngeal ventricles and saccules**，1059
-  - **Rima vestibuli and rima glottidis**，1059–1061
+ - **Borders**，1059
+ - **Division into regions**，1059
+ - **Laryngeal ventricles and saccules**，1059
+ - **Rima vestibuli and rima glottidis**，1059–1061
 
 - **Cartilages of larynx**
-  - **Arytenoid cartilages**，1055
-  - **Corniculate cartilages**，1056
-  - **Cricoid cartilage**，840f, 848f, 1053
-  - **Cuneiform cartilages**，1056
-  - **Epiglottis**，1055
-  - **Thyroid cartilage**，1054
+ - **Arytenoid cartilages**，1055
+ - **Corniculate cartilages**，1056
+ - **Cricoid cartilage**，840f, 848f, 1053
+ - **Cuneiform cartilages**，1056
+ - **Epiglottis**，1055
+ - **Thyroid cartilage**，1054
 
 - **Cricoarytenoid joints**，1059
 - **Cricothyroid joints**，1058–1059
@@ -8803,7 +8595,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Choanae**，846f, 1069f, 1081
 - **Concha**
-  - **Nasal cavity concha**，1070–1071, 1073f, 1078f–1079f
+ - **Nasal cavity concha**，1070–1071, 1073f, 1078f–1079f
 - **Cribriform plate**，1072, 1073f, 1077f, 1082
 - **Crista galli**，1072, 1073f
 
@@ -8820,7 +8612,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### 會陰 Perineum
 
 - **Bulb of penis**，507f, 525f–526f
-  - **Artery of**，516
+ - **Artery of**，516
 - **Bulb of vestibule**，475f, 506, 523f–524f
 - **Bulbospongiosus muscle**，439f, 508–510
 - **Deep perineal pouch**，457–459, 467f–468f, 502, 505f
@@ -8895,14 +8687,14 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Dermatomes
 
 - **Dermatomes** — 34-35, 37b
-  - of anterolateral abdominal wall — 290f
-  - of back — 63f
-  - of head and neck — 851f
-  - herpes zoster along — 109
-  - of lower limb — 547
-  - of perineum — 436f
-  - thoracic — 134f-135f
-  - of upper limb — 696, 697f
+ - of anterolateral abdominal wall — 290f
+ - of back — 63f
+ - of head and neck — 851f
+ - herpes zoster along — 109
+ - of lower limb — 547
+ - of perineum — 436f
+ - thoracic — 134f-135f
+ - of upper limb — 696, 697f
 
 ### Dermatomyotome
 
@@ -8923,8 +8715,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Ultrasound** — 7
 - **Doppler ultrasound** — 7
 - **Digital subtraction angiography** — 6f
-  - of celiac trunk — 345f
-  - of marginal artery — 353f
+ - of celiac trunk — 345f
+ - of marginal artery — 353f
 
 > **臨床重點**：Digital subtraction angiography (DSA) 為血管疾病診斷的金標準，可用於評估血管狹窄、栓塞及動靜脈畸形。
 
@@ -8939,19 +8731,19 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Diaphragm
 
 - **Diaphragm** — 12, 127, 369-371
-  - attachments — 161
-  - blood supply — 371
-  - central tendon — 130f
-  - crus of — 105f, 262, 262f, 369f, 370
-  - domes of — 127, 371
-  - hernias — 372b
-  - innervation — 138, 371
-  - in inspiration — 137f
-  - ligament anchors — 262-263
-  - movements during breathing — 162
-  - posterior abdominal region — 369-371
-  - structures passing through — 130-131, 370
-  - traumatic rupture — 410b
+ - attachments — 161
+ - blood supply — 371
+ - central tendon — 130f
+ - crus of — 105f, 262, 262f, 369f, 370
+ - domes of — 127, 371
+ - hernias — 372b
+ - innervation — 138, 371
+ - in inspiration — 137f
+ - ligament anchors — 262-263
+ - movements during breathing — 162
+ - posterior abdominal region — 369-371
+ - structures passing through — 130-131, 370
+ - traumatic rupture — 410b
 
 > **臨床重點**：橫膈膜裂孔疝氣（hiatal hernia）常見於中年後族群，可能導致胃食道逆流，嚴重者需手術修補。創傷性橫膈膜破裂為急診重大創傷，需立即手術處理。
 
@@ -8959,9 +8751,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Diaphragmatic nodes** — 158
 - **Diaphragmatic pleura** — 164
 - **Diaphragmatic surface**
-  - of heart — 187f
-  - of liver — 328, 329f
-  - of spleen — 339f
+ - of heart — 187f
+ - of liver — 328, 329f
+ - of spleen — 339f
 
 ### Diencephalon
 
@@ -8996,14 +8788,14 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Distribution Patterns
 
 - **Distribution patterns**
-  - of common hepatic artery — 347f
-  - of coronary arteries — 198-201
-  - cutaneous of deep fibular nerve — 661f
-  - of nerves from lumbar plexus — 400f
-  - of plantar nerves — 660f
-  - of trigeminal nerve — 915f
-  - of inferior mesenteric artery — 351f
-  - of superior mesenteric artery — 349f
+ - of common hepatic artery — 347f
+ - of coronary arteries — 198-201
+ - cutaneous of deep fibular nerve — 661f
+ - of nerves from lumbar plexus — 400f
+ - of plantar nerves — 660f
+ - of trigeminal nerve — 915f
+ - of inferior mesenteric artery — 351f
+ - of superior mesenteric artery — 349f
 
 ### Diverticular & Duodenal Pathology
 
@@ -9026,14 +8818,14 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Dura Mater
 
 - **Dura mater**
-  - cranial — 873-876, 886f, 966f
-  - spinal — 59f-60f, 102f, 103
+ - cranial — 873-876, 886f, 966f
+ - spinal — 59f-60f, 102f, 103
 - **Dural venous sinuses** — 886-889, 887t
-  - cavernous sinuses — 888-889
-  - confluence of — 888
-  - **inferior sagittal and straight sinuses** — 888
-  - **superior and inferior petrosal sinuses** — 889
-  - **superior sagittal sinus** — 888
+ - cavernous sinuses — 888-889
+ - confluence of — 888
+ - **inferior sagittal and straight sinuses** — 888
+ - **superior and inferior petrosal sinuses** — 889
+ - **superior sagittal sinus** — 888
 
 > **臨床重點**：硬膜外血腫（Extradural hematoma）通常由中腦膜动脉撕裂引起，典型表現為昏迷-清醒-昏迷序列，緊急開顱手術為主要治療方式。
 
@@ -9046,18 +8838,18 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Ear — General
 
 - **Ear**
-  - examination of — 957b
-  - external ear — 1127
-  - internal ear — 965-971
-  - middle ear — 953f, 958-964
-  - parts of — 953
+ - examination of — 957b
+ - external ear — 1127
+ - internal ear — 965-971
+ - middle ear — 953f, 958-964
+ - parts of — 953
 
 #### External Ear
 
 - **Auricle** — 954-955
-  - innervation — 954-955
-  - muscles — 954
-  - vessels — 955
+ - innervation — 954-955
+ - muscles — 954
+ - vessels — 955
 - **External acoustic meatus** — 955-956
 - **Tympanic membrane** — 956-957
 
@@ -9087,19 +8879,19 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Elbow Joint
 
 - **Elbow joint** — 764-768
-  - arthritis — 768b
-  - articulations — 764-766
-  - bones — 690
-  - developmental changes — 767b
-  - fractures
-    - of head of radius — 768b
-    - supracondylar fracture of humerus — 766b
-  - joint capsule and ligaments — 765f
-  - movements — 688f
-  - pulled elbow — 766b
-  - synovial membrane — 765f
-  - tennis and golfer's elbow — 768b
-  - ulnar nerve injury at — 768b
+ - arthritis — 768b
+ - articulations — 764-766
+ - bones — 690
+ - developmental changes — 767b
+ - fractures
+ - of head of radius — 768b
+ - supracondylar fracture of humerus — 766b
+ - joint capsule and ligaments — 765f
+ - movements — 688f
+ - pulled elbow — 766b
+ - synovial membrane — 765f
+ - tennis and golfer's elbow — 768b
+ - ulnar nerve injury at — 768b
 
 > **臨床重點**：橈骨頭骨折常見於摔倒時手部撐地，為成人肘部骨折常見類型。兒童則以髁上骨折（supracondylar fracture）最常見，需注意血管神經損傷。
 
@@ -9148,14 +8940,14 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Esophageal plexus** — 40f, 49f, 176f, 224
 - **Esophageal varices** — 357
 - **Esophagus** — 126f, 130, 171f, 211f, 218
-  - abdominal — 310, 315b
-  - arterial supply — 222-223
-  - cancer of — 224b, 250b
-  - hiatus hernia and — 373f
-  - innervation — 223-224
-  - relationship to structures in posterior mediastinum — 222
-  - rupture of — 225b
-  - venous and lymphatic drainage — 223
+ - abdominal — 310, 315b
+ - arterial supply — 222-223
+ - cancer of — 224b, 250b
+ - hiatus hernia and — 373f
+ - innervation — 223-224
+ - relationship to structures in posterior mediastinum — 222
+ - rupture of — 225b
+ - venous and lymphatic drainage — 223
 
 > **臨床重點**：食道癌好發於亞洲男性，與吸菸、喝酒及檳榔嚼食密切相關。食道破裂為急診急症，死亡率極高，需立即手術處理。
 
@@ -9174,11 +8966,11 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Extension Movements
 
 - **Extension**
-  - back — 55f
-  - elbow joint — 764f
-  - hip — 538f
-  - interphalangeal joints — 803f
-  - knee — 539f
+ - back — 55f
+ - elbow joint — 764f
+ - hip — 538f
+ - interphalangeal joints — 803f
+ - knee — 539f
 
 ### Extensor Muscles — Upper Limb
 
@@ -9195,8 +8987,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Extensor hallucis brevis muscle** — 651
 - **Extensor hallucis longus muscle** — 630f, 631
 - **Extensor hoods**
-  - of foot — 650
-  - of hand — 802-804
+ - of foot — 650
+ - of hand — 802-804
 - **Extensor indicis muscle** — 790
 - **Extensor pollicis brevis muscle** — 790
 - **Extensor pollicis brevis tendon** — 824f
@@ -9206,23 +8998,23 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Eye — General
 
 - **Eye**
-  - examination of — 940b-941b, 949b
-  - major features of — 1126-1127
+ - examination of — 940b-941b, 949b
+ - major features of — 1126-1127
 
 #### Eyeball
 
 - **Anterior and posterior chambers** — 947
 - **Arterial supply** — 948
 - **Extrinsic muscles** — 936, 937t
-  - and eyeball movements — 940
-  - levator palpebrae superioris muscle — 937-938
-  - oblique muscles — 940
-  - origins — 939f
-  - rectus muscles — 938-940
+ - and eyeball movements — 940
+ - levator palpebrae superioris muscle — 937-938
+ - oblique muscles — 940
+ - origins — 939f
+ - rectus muscles — 938-940
 - **Fascial sheath** — 936
 - **Fibrous layers**
-  - **cornea** — 949
-  - **sclera** — 949
+ - **cornea** — 949
+ - **sclera** — 949
 - **Inner layer** — optic part of retina — 951
 - **Intrinsic muscles** — 950t
 - **Lens** — 947-948
@@ -9251,37 +9043,37 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Face — General
 
 - **Face** — See also *Ear; Oral cavity; Orbit*
-  - arteries — 917-919
-  - innervation
-    - motor — 916
-    - sensory — 914
-  - lymphatic drainage — 920
-  - major features of — 1125-1126
-  - parotid gland — 911-912
-  - veins — 919-920
-  - vessels — 916-920
+ - arteries — 917-919
+ - innervation
+ - motor — 916
+ - sensory — 914
+ - lymphatic drainage — 920
+ - major features of — 1125-1126
+ - parotid gland — 911-912
+ - veins — 919-920
+ - vessels — 916-920
 
 #### Facial Nerve (CN VII)
 
 - **Facial nerve (VII)** — 850f, 894t-895t, 898-899, 901b, 902f
-  - in anterior triangle of neck — 1013
-  - and Bell's palsy — 921b
-  - innervation of face — 916, 917f
-  - innervation of tongue — 1101
-  - in parotid gland — 912
-  - in temporal bone — 969-971
+ - in anterior triangle of neck — 1013
+ - and Bell's palsy — 921b
+ - innervation of face — 916, 917f
+ - innervation of tongue — 1101
+ - in parotid gland — 912
+ - in temporal bone — 969-971
 
 > **臨床重點**：Bell's palsy 為急性周邊顏面神經麻痺最常見原因，典型表現為單側臉部表情肌癱瘓，需早期給予類固醇治療以促進恢復。
 
 #### Face Muscles
 
 - **Face muscles** — 839f, 904-910
-  - auricular muscles — 910
-  - nasal group — 907
-  - occipitofrontalis muscles — 910
-  - oral group — 908-910
-  - orbital group — 905-906
-  - platysma muscle — 910
+ - auricular muscles — 910
+ - nasal group — 907
+ - occipitofrontalis muscles — 910
+ - oral group — 908-910
+ - orbital group — 905-906
+ - platysma muscle — 910
 
 ### Facial Vasculature
 
@@ -9293,22 +9085,22 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Fascia
 
 - **Fascia** — 24-25
-  - clavipectoral — 142f
-  - endothoracic — 150
-  - extraperitoneal — 24-25, 288
-  - neck — 1000-1003
-  - pelvic cavity — 481, 482f
-  - pelvic floor and perineum — intersection at perineal body — 439
-  - pharyngeal — 1043f, 1045
-  - renal — 376
-  - specializations in bony orbit
-    - check ligaments — 936
-    - fascial sheath of eyeball — 936
-    - periorbita — 935
-  - superficial — of abdominal wall — 280-282
-  - temporal — 980f
-  - thoracolumbar — 92
-  - transversalis — 285, 286f
+ - clavipectoral — 142f
+ - endothoracic — 150
+ - extraperitoneal — 24-25, 288
+ - neck — 1000-1003
+ - pelvic cavity — 481, 482f
+ - pelvic floor and perineum — intersection at perineal body — 439
+ - pharyngeal — 1043f, 1045
+ - renal — 376
+ - specializations in bony orbit
+ - check ligaments — 936
+ - fascial sheath of eyeball — 936
+ - periorbita — 935
+ - superficial — of abdominal wall — 280-282
+ - temporal — 980f
+ - thoracolumbar — 92
+ - transversalis — 285, 286f
 - **Fascia lata of thigh** — 281f, 513f, 571
 
 ### Fascial Spaces
@@ -9320,19 +9112,19 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Extradural fat** — spinal cord — 102f
 - **Renal fat** — 376
 - **Fat pads** — 18-19, 19f
-  - elbow joint — 765f
-  - infrapatellar — 607f-608f, 609
+ - elbow joint — 765f
+ - infrapatellar — 607f-608f, 609
 
 ### Female Reproductive System
 
 - **Female reproductive system** — 475-481
-  - **cervix** — 479
-  - **external genitalia** — 510-511
-  - **ovaries** — 476
-  - **urogenital triangle structures** — 523-524
-  - **uterine tubes** — 478
-  - **uterus** — 477-478
-  - **vagina** — 480-481
+ - **cervix** — 479
+ - **external genitalia** — 510-511
+ - **ovaries** — 476
+ - **urogenital triangle structures** — 523-524
+ - **uterine tubes** — 478
+ - **uterus** — 477-478
+ - **vagina** — 480-481
 
 #### Uterus Pathology
 
@@ -9344,21 +9136,21 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Femoral artery** — 296f, 403f, 561f, 566, 600-602, 664
 - **Femoral head**
-  - blood supply to — 557
-  - yellow marrow — 1f
+ - blood supply to — 557
+ - yellow marrow — 1f
 - **Femoral hernias** — 302
 - **Femoral neck fracture** — 557b, 676b
 - **Femoral nerve** — 399f, 401, 548f, 563, 604
 - **Femoral nodes** — 30f
 - **Femoral pulse** — 671f
 - **Femoral shaft** — 556, 584-586, 585f
-  - fracture — 558b
+ - fracture — 558b
 - **Femoral triangle** — 537, 572-573, 664
 - **Femoral vein** — 296f, 568f
 - **Femur** — 541f
-  - distal end — 584-586, 585f
-  - ligament of head — 559
-  - proximal — 554-556
+ - distal end — 584-586, 585f
+ - ligament of head — 559
+ - proximal — 554-556
 
 > **臨床重點**：股骨頸骨折好發於骨質疏鬆老年病患，常因低能量創傷（如跌倒）所致。建議早期手術固定或關節置換以減少併發症。
 
@@ -9376,8 +9168,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Fibrous digital sheaths** — 801-802
 - **Fibrous joints** — 20
 - **Fibrous membrane** — 18
-  - of glenohumeral joint — 708
-  - of knee joint — 610
+ - of glenohumeral joint — 708
+ - of knee joint — 610
 - **Fibrous pericardium** — 181-182
 - **Fibrous sheaths of toes** — 649-650
 - **Fibrous trigone** — 197
@@ -9385,8 +9177,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Fibula
 
 - **Fibula** — 539, 541f
-  - proximal end — 588-589
-  - shaft and distal end — 619-620
+ - proximal end — 588-589
+ - shaft and distal end — 619-620
 - **Fibular artery** — 626
 - **Fibular collateral ligament** — 610f, 611
 - **Fibular retinacula** — 647
@@ -9405,26 +9197,26 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **First branch of arch of aorta** — 216
 - **First dorsal metatarsal artery** — 658
 - **First layer of sole muscles**
-  - abductor digiti minimi muscle — 653
-  - abductor hallucis muscle — 652
-  - flexor digitorum brevis muscle — 652-653
+ - abductor digiti minimi muscle — 653
+ - abductor hallucis muscle — 652
+ - flexor digitorum brevis muscle — 652-653
 - **First perforating artery** — 561f, 601f
 - **First rib** — 126f, 146, 231f
-  - fractured and arterial trauma — 737
-  - complication of — 830b
+ - fractured and arterial trauma — 737
+ - complication of — 830b
 
 > **臨床重點**：第一肋骨骨折可能併發鎖骨下血管損傷，臨床上需高度警覺。若骨折導致氣胸或血胸，應立即處理。
 
 ### Fissures
 
 - **Fissures**
-  - of lungs — visualizing — 236-238
-  - oral fissures — 1113-1114
-  - of orbit — 934-935
-  - palpebral — 1126f
-  - of face — 1125f
-  - of right lung — 169
-  - of sphenoid bone — 867-868
+ - of lungs — visualizing — 236-238
+ - oral fissures — 1113-1114
+ - of orbit — 934-935
+ - palpebral — 1126f
+ - of face — 1125f
+ - of right lung — 169
+ - of sphenoid bone — 867-868
 
 ### Fistula
 
@@ -9436,18 +9228,18 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Flat bones** — 13
 - **Flat muscles of abdominal wall**
-  - external oblique muscle — 282-283
-  - internal oblique muscle — 284
-  - transversus abdominis muscle — 284
+ - external oblique muscle — 282-283
+ - internal oblique muscle — 284
+ - transversus abdominis muscle — 284
 
 ### Flexion Movements
 
 - **Flexion**
-  - back — 55f
-  - elbow joint — 764f
-  - hip — 538f
-  - knee — 539f
-  - metacarpophalangeal joint — 803f
+ - back — 55f
+ - elbow joint — 764f
+ - hip — 538f
+ - knee — 539f
+ - metacarpophalangeal joint — 803f
 
 ### Flexor Muscles — Upper Limb
 
@@ -9463,40 +9255,40 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Flexor digitorum superficialis muscle** — 779
 - **Flexor hallucis brevis muscle** — 655, 655t
 - **Flexor hallucis longus muscle** — 624, 624t
-  - groove for — 635f
+ - groove for — 635f
 - **Flexor hallucis longus tendon** — 649f
 - **Flexor muscles** — of hip joint — 544f
 - **Flexor pollicis brevis muscle** — 808t, 809-810
 - **Flexor pollicis longus muscle** — 781
 - **Flexor pollicis longus tendon** — 807f
 - **Flexor retinaculum**
-  - of foot — 646, 667f
-  - of hand — 826
-  - upper limb — 780f
+ - of foot — 646, 667f
+ - of hand — 826
+ - upper limb — 780f
 
 ### Floor Structures
 
 - **Floor of axilla** — 731, 820f
 - **Floor of cranial cavity**
-  - **anterior cranial fossa** — 865-867
-  - **lesser wings of sphenoid** — 866-867
-  - **foramina and fissures** — 870f
-  - **middle cranial fossa** — 867-868
-    - sphenoid — 867-868
-    - temporal bone — 868
-  - **posterior cranial fossa** — 868
-    - boundaries — 868
-    - foramen magnum — 868
-    - grooves and foramina — 868-869
-    - squamous part of occipital bone — 869
+ - **anterior cranial fossa** — 865-867
+ - **lesser wings of sphenoid** — 866-867
+ - **foramina and fissures** — 870f
+ - **middle cranial fossa** — 867-868
+ - sphenoid — 867-868
+ - temporal bone — 868
+ - **posterior cranial fossa** — 868
+ - boundaries — 868
+ - foramen magnum — 868
+ - grooves and foramina — 868-869
+ - squamous part of occipital bone — 869
 - **Floor of inguinal canal** — 296
 - **Floor of mouth** — 845f
 - **Floor of nasal cavity** — 1077
 - **Floor of oral cavity**
-  - gateway into — 1094-1095
-  - geniohyoid muscles — 1093-1094
-  - lingual nerve in — 1101f
-  - mylohyoid muscles — 1092-1093
+ - gateway into — 1094-1095
+ - geniohyoid muscles — 1093-1094
+ - lingual nerve in — 1101f
+ - mylohyoid muscles — 1092-1093
 - **Floor of orbit** — 928
 
 ### Flow & Fluoroscopy
@@ -9508,35 +9300,35 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Foot — Comprehensive
 
 - **Foot** — 536f
-  - **arches** — 543f, 648-649
-  - **arteries**
-    - dorsalis pedis artery — 658, 669
-    - posterior tibial artery and plantar arch — 657-658, 669
-  - **digits** — 633
-  - **extensor hoods** — 650
-  - **extensor retinacula** — 647
-  - **fibular retinacula** — 647
-  - **flexor retinaculum** — 646
-  - **intrinsic muscles** — 650-657
-    - on dorsal aspect — 651
-    - in sole — 651-657
-  - **metatarsals** — 542f, 633f, 637-638
-  - **nerves** — 659-662
-    - deep fibular nerve — 661-662
-    - saphenous nerve — 662
-    - superficial fibular nerve — 662
-    - sural nerve — 662
-    - tibial nerve — 660-661
-  - **phalanges** — 542f, 633f, 637f, 638
-  - **plantar aponeurosis** — 649
-  - **tarsal bones** — 542f
-    - distal group — 637
-    - navicular — 637
-    - proximal group — 634-637
-  - **tarsal tunnel** — 646, 667
-  - **tendons** — 668-669
-  - **toes** — 542f
-  - **veins** — 659
+ - **arches** — 543f, 648-649
+ - **arteries**
+ - dorsalis pedis artery — 658, 669
+ - posterior tibial artery and plantar arch — 657-658, 669
+ - **digits** — 633
+ - **extensor hoods** — 650
+ - **extensor retinacula** — 647
+ - **fibular retinacula** — 647
+ - **flexor retinaculum** — 646
+ - **intrinsic muscles** — 650-657
+ - on dorsal aspect — 651
+ - in sole — 651-657
+ - **metatarsals** — 542f, 633f, 637-638
+ - **nerves** — 659-662
+ - deep fibular nerve — 661-662
+ - saphenous nerve — 662
+ - superficial fibular nerve — 662
+ - sural nerve — 662
+ - tibial nerve — 660-661
+ - **phalanges** — 542f, 633f, 637f, 638
+ - **plantar aponeurosis** — 649
+ - **tarsal bones** — 542f
+ - distal group — 637
+ - navicular — 637
+ - proximal group — 634-637
+ - **tarsal tunnel** — 646, 667
+ - **tendons** — 668-669
+ - **toes** — 542f
+ - **veins** — 659
 
 #### Foot Drop
 
@@ -9545,14 +9337,14 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 #### Foot Joints
 
 - **Ankle joint** — 638-640
-  - lateral ligament — 640
-  - medial (deltoid) ligament — 639-640
+ - lateral ligament — 640
+ - medial (deltoid) ligament — 639-640
 - **Deep transverse metatarsal joint** — 645
 - **Interphalangeal joints** — 646
 - **Intertarsal joints**
-  - calcaneocuboid joint — 644
-  - subtalar joint — 642
-  - talocalcaneonavicular joint — 642-644
+ - calcaneocuboid joint — 644
+ - subtalar joint — 642
+ - talocalcaneonavicular joint — 642-644
 - **Metatarsophalangeal joints** — 645
 - **Tarsometatarsal joints** — 644-645
 
@@ -9560,7 +9352,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Foramen magnum** — 844f, 868
 - **Foramen ovale** — 868
-  - valve of — 194, 195f
+ - valve of — 194, 195f
 - **Foramen rotundum** — 933f, 993f, 1074f-1075f
 
 ### Frontal Bone (Implied)
@@ -9583,25 +9375,25 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Foramen spinosum** — *page 867f*
 - **Foramen transversarium** — *pages 69f–71f*
 - **Fractures** — *16b*
-  - Ankle — *641b–642b*
-  - Clavicle — *711b*
-  - Epiphyseal — *18b*
-  - Femoral neck — *557b, 676b*
-  - Femoral shaft — *558b*
-  - Humeral midshaft — *763f*
-  - Humeral proximal — *705b*
-  - Humeral supracondylar — *766b*
-  - Intertrochanteric — *558b*
-  - Orbital — *928b* / *complication: 1134b*
-  - Pelvic — *446b, 553b–554b*
-  - Radial head — *768b*
-  - Radius and ulna — *774b*
-  - Rib — *152b* / *complication: 830b*
-  - Scaphoid — *797b*
-  - Skull — *871b*
-  - Skull vault — *872b*
-  - Talus — *638b*
-  - Vertebral — *82b–83b*
+ - Ankle — *641b–642b*
+ - Clavicle — *711b*
+ - Epiphyseal — *18b*
+ - Femoral neck — *557b, 676b*
+ - Femoral shaft — *558b*
+ - Humeral midshaft — *763f*
+ - Humeral proximal — *705b*
+ - Humeral supracondylar — *766b*
+ - Intertrochanteric — *558b*
+ - Orbital — *928b* / *complication: 1134b*
+ - Pelvic — *446b, 553b–554b*
+ - Radial head — *768b*
+ - Radius and ulna — *774b*
+ - Rib — *152b* / *complication: 830b*
+ - Scaphoid — *797b*
+ - Skull — *871b*
+ - Skull vault — *872b*
+ - Talus — *638b*
+ - Vertebral — *82b–83b*
 
 > **臨床重點**：**Orbital fracture** 可能伴隨**眼球運動障礙**或**視力受損**，需特別注意是否涉及**篩竇**（ethmoid sinus）相關併發症。**Rib fracture** 常見於胸部鈍傷，需排除氣胸（pneumothorax）與血胸（hemothorax）的可能性。
 
@@ -9609,42 +9401,42 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Frankfort Line** — *1121f, 1125f*
 - **Frenulum**
-  - of clitoris — *510f, 523f–524f*
-  - of glans penis — *511f, 512, 525f–526f*
-  - of tongue — *1096*
+ - of clitoris — *510f, 523f–524f*
+ - of glans penis — *511f, 512, 525f–526f*
+ - of tongue — *1096*
 - **Frontal bone** — *855f, 856, 864f*
-  - zygomatic process — *978f*
+ - zygomatic process — *978f*
 - **Frontal nerve** — *945*
 - **Frontal sinuses** — *1074f–1075f, 1075, 1078–1080*
 - **Fovea centralis** — *942f, 951*
 - **Forearm** — *771–776*
-  - Anterior compartment — *693f, 771f*
-    - arteries and veins — *782–783*
-    - muscles — *776–781*
-    - nerves — *784–785*
-  - Compartments — *772*
-  - Distal radioulnar joint — *774–776*
-  - Interosseous membrane — *775*
-  - Locating major vessels and nerves — *824–825*
-  - Movement — *688f*
-  - Muscle components — *693f*
-  - Posterior compartment — *771f*
-    - arteries and veins — *791–792*
-    - muscles — *785–790*
-    - nerves — *792*
-  - Pronation and supination — *775–776*
-    - muscles — *776*
-  - Radius shaft and distal end — *772f, 773*
-  - Shaft and distal end of ulna — *773–774*
-  - Tendons — *824–825*
+ - Anterior compartment — *693f, 771f*
+ - arteries and veins — *782–783*
+ - muscles — *776–781*
+ - nerves — *784–785*
+ - Compartments — *772*
+ - Distal radioulnar joint — *774–776*
+ - Interosseous membrane — *775*
+ - Locating major vessels and nerves — *824–825*
+ - Movement — *688f*
+ - Muscle components — *693f*
+ - Posterior compartment — *771f*
+ - arteries and veins — *791–792*
+ - muscles — *785–790*
+ - nerves — *792*
+ - Pronation and supination — *775–776*
+ - muscles — *776*
+ - Radius shaft and distal end — *772f, 773*
+ - Shaft and distal end of ulna — *773–774*
+ - Tendons — *824–825*
 - **Foregut** — *272f, 344*
-  - development — *265*
+ - development — *265*
 - **Fossa ovalis** — *191f, 192*
 - **Four-quadrant pattern of abdomen** — *277, 407f*
 - **Fourchette** — *510f, 523f–524f*
 - **Fourth layer of sole muscles**
-  - Dorsal interossei muscles — *656*
-  - Plantar interossei muscles — *656–657*
+ - Dorsal interossei muscles — *656*
+ - Plantar interossei muscles — *656–657*
 - **Fungiform papillae** — *1095*
 - **Fused bodies of cervical vertebrae** — *76f*
 - **Fundiform ligament of penis** — *508, 509f*
@@ -9668,15 +9460,15 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 > **臨床重點**：**Gallstones**（膽結石）可能導致**膽囊炎**（cholecystitis），典型症狀為**右上腹疼痛**（right upper quadrant pain）並向右肩放射。結石阻塞**膽囊管**（cystic duct）時需考慮外科手術處理。
 
 - **Ganglia** — *38f*
-  - Abdominal prevertebral plexus — *361, 362f, 395–396*
-  - Cervical — *359f, 738f*
-  - **Ciliary ganglion** — *451, 850f, 899t, 946–947*
-    - medial branches from — *229–230*
-  - Parasympathetic ganglia of head — *899t*
-  - **Pterygopalatine ganglion** — *997–998*
-  - Spinal ganglia — *59f, 62f, 108f*
-  - Sympathetic trunks — *359f*
-  - **Trigeminal ganglion** — *898*
+ - Abdominal prevertebral plexus — *361, 362f, 395–396*
+ - Cervical — *359f, 738f*
+ - **Ciliary ganglion** — *451, 850f, 899t, 946–947*
+ - medial branches from — *229–230*
+ - Parasympathetic ganglia of head — *899t*
+ - **Pterygopalatine ganglion** — *997–998*
+ - Spinal ganglia — *59f, 62f, 108f*
+ - Sympathetic trunks — *359f*
+ - **Trigeminal ganglion** — *898*
 - **Ganglion impar** — *49f, 360f, 488f, 492f–493f*
 - **Gaps in pharyngeal wall** — *1046*
 - **Gastric vessels** — *305f*
@@ -9686,52 +9478,52 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Gastroduodenal artery** — *313f, 345f*
 - **Gastroesophageal junction** — *357, 373f*
 - **Gastrointestinal (GI) system**
-  - Arterial supply — *271*
-  - Contrast examinations — *10*
-  - Pelvic parts
-    - Anal canal — *460–462*
-    - Rectum — *460*
-  - Terminal parts — *424f*
-  - Vascular supply — *280f*
-  - Venous drainage through liver — *274–275*
+ - Arterial supply — *271*
+ - Contrast examinations — *10*
+ - Pelvic parts
+ - Anal canal — *460–462*
+ - Rectum — *460*
+ - Terminal parts — *424f*
+ - Vascular supply — *280f*
+ - Venous drainage through liver — *274–275*
 - **Gastrointestinal (GI) tract**
-  - Congenital disorders — *325b*
-  - Lymphatic drainage of abdominal part — *358*
-  - Upper GI examination — *316*
-  - Venous drainage of abdominal portion — *355f*
+ - Congenital disorders — *325b*
+ - Lymphatic drainage of abdominal part — *358*
+ - Upper GI examination — *316*
+ - Venous drainage of abdominal portion — *355f*
 - **Gastrosplenic ligament** — *338f*
 - **Gastrostomy** — *327*
 - **Gateway into floor of oral cavity** — *1094–1095*
 - **Gateways in nasal cavities** — *1082*
 - **Gateways in posterior wall of axilla**
-  - Quadrangular space — *730*
-  - Triangular interval — *731*
-  - Triangular space — *730–731*
+ - Quadrangular space — *730*
+ - Triangular interval — *731*
+ - Triangular space — *730–731*
 - **Gateways in pterygopalatine fossa** — *994*
 - **Gateways to lower limb**
-  - Gap between inguinal ligament and pelvic bone — *563*
-  - Greater sciatic foramen — *562–563*
-  - Lesser sciatic foramen — *563*
-  - Obturator canal — *562*
+ - Gap between inguinal ligament and pelvic bone — *563*
+ - Greater sciatic foramen — *562–563*
+ - Lesser sciatic foramen — *563*
+ - Obturator canal — *562*
 - **Gateways to posterior scapular region**
-  - Quadrangular space — *718*
-  - Suprascapular foramen — *717–718*
-  - Triangular interval — *719*
-  - Triangular space — *719*
+ - Quadrangular space — *718*
+ - Suprascapular foramen — *717–718*
+ - Triangular interval — *719*
+ - Triangular space — *719*
 - **Gemellus inferior muscle** — *575t, 577*
 - **Gemellus superior muscle** — *575t, 577*
 - **Geniculate ganglion** — *969, 970f*
-  - Lesions around — *921*
+ - Lesions around — *921*
 - **Genioglossus muscle** — *1097–1098*
 - **Geniohyoid muscle** — *1008, 1092t, 1093–1094*
 - **Genital tubercle** — *269f–270f*
 - **Genitalia, external**
-  - Roots of — *425f, 431f*
-  - Superficial features — *510–512*
+ - Roots of — *425f, 431f*
+ - Superficial features — *510–512*
 - **Genitofemoral nerve** — *399f, 401, 564t–565t, 566*
 - **Gingivae** — *1114–1119*
-  - Arterial supply — *1116–1117*
-  - Innervation — *1119*
+ - Arterial supply — *1116–1117*
+ - Innervation — *1119*
 - **Glans clitoris** — *475f, 506, 523f–524f*
 - **Glans penis** — *508, 511f, 525f–526f*
 - **Glasgow Coma Scale** — *893*
@@ -9743,35 +9535,35 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 > **臨床重點**：**Glaucoma**（青光眼）是由於**眼內壓**（intraocular pressure）升高導致**視神經乳頭**（optic disc）受損的疾病。急性隅角閉合性青光眼（acute angle-closure glaucoma）屬眼科急症，表現為**劇烈眼痛**、視力模糊、噁心嘔吐。
 
 - **Glenohumeral joint** — *686–688, 707–710*
-  - Dislocation of — *712b*
+ - Dislocation of — *712b*
 - **Glenoid cavity** — *690f, 703f*
 - **Glenoid labrum** — *707*
 - **Glossopharyngeal nerve (IX)** — *894t–895t, 899–900, 901b, 902f*
-  - in anterior triangle of neck — *1014*
-  - innervation of tongue — *1100–1101*
-  - in relation to pharynx — *1051–1052*
+ - in anterior triangle of neck — *1014*
+ - innervation of tongue — *1100–1101*
+ - in relation to pharynx — *1051–1052*
 - **Gluteal line** — *551f*
 - **Gluteal nerves** — *565–566*
 - **Gluteal region** — *536f*
-  - Arteries
-    - Inferior gluteal — *582*
-    - Superior gluteal — *582*
-  - Fascia lata superior aspect — *571*
-  - Lymphatics — *583*
-  - Muscles — *543f, 574–579*
-    - Deep group — *576–577*
-    - Superficial group — *577–579*
-  - Sensory alteration in — *120*
-  - Veins — *583*
+ - Arteries
+ - Inferior gluteal — *582*
+ - Superior gluteal — *582*
+ - Fascia lata superior aspect — *571*
+ - Lymphatics — *583*
+ - Muscles — *543f, 574–579*
+ - Deep group — *576–577*
+ - Superficial group — *577–579*
+ - Sensory alteration in — *120*
+ - Veins — *583*
 - **Gluteal region nerves**
-  - Inferior gluteal nerve — *580*
-  - Nerve to obturator internus — *580*
-  - Nerve to quadratus femoris — *580*
-  - Perforating cutaneous nerve — *580*
-  - Posterior cutaneous nerve of thigh — *580*
-  - Pudendal nerve — *580*
-  - **Sciatic nerve** — *579–580*
-  - **Superior gluteal nerve** — *579*
+ - Inferior gluteal nerve — *580*
+ - Nerve to obturator internus — *580*
+ - Nerve to quadratus femoris — *580*
+ - Perforating cutaneous nerve — *580*
+ - Posterior cutaneous nerve of thigh — *580*
+ - Pudendal nerve — *580*
+ - **Sciatic nerve** — *579–580*
+ - **Superior gluteal nerve** — *579*
 - **Gluteal surface of pelvic bone** — *443f*
 - **Gluteal tuberosity** — *555f, 574f*
 - **Gluteus maximus muscle** — *543f, 575t, 578, 665f*
@@ -9805,9 +9597,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Greenstick fracture** — *16f*
 - **Gubernaculum** — *269, 293f*
 - **Gut**
-  - Blood supply — *272f*
-  - Development — *266f–267f*
-  - Pain referred from — *408*
+ - Blood supply — *272f*
+ - Development — *266f–267f*
+ - Pain referred from — *408*
 - **Gut tube** — *260f*
 
 ---
@@ -9819,108 +9611,108 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Hamate bone** — *793*
 - **Hamstring muscles** — *665f*
 - **Hand**
-  - Anatomical snuffbox — *800–801*
-  - Blood supply — *810–814*
-  - Bones — *691*
-    - Carpal bones — *793*
-    - Metacarpals — *793*
-    - Phalanges — *795*
-  - Carpal tunnel and structures at wrist — *798, 799f*
-  - Examination of — *833b*
-  - Extensor hoods — *802–804*
-  - Fibrous digital sheaths — *801–802*
-  - Fingers, adduction and abduction — *792f*
-  - Joints
-    - Carpal joints — *795*
-    - Carpometacarpal joints — *796*
-    - Interphalangeal joints — *796*
-    - Metacarpophalangeal joints — *796*
-    - Wrist joint — *795*
-  - As mechanical tool — *689*
-  - Movements at wrist joint — *689f*
-  - Normal appearance — *825*
-  - Palmar aponeurosis — *800*
-  - Positioning in space — *686–689*
-  - Positions of superficial and deep palmar arches — *827*
-  - Radial artery and deep palmar arch — *812–814*
-  - As sensory tool — *689–690*
-  - Subdivisions — *792*
-  - Thumb, orientation — *701*
-  - Ulnar artery and superficial palmar arch — *812*
-  - Veins — *814*
-    - Dorsal venous network — *700f, 825f*
+ - Anatomical snuffbox — *800–801*
+ - Blood supply — *810–814*
+ - Bones — *691*
+ - Carpal bones — *793*
+ - Metacarpals — *793*
+ - Phalanges — *795*
+ - Carpal tunnel and structures at wrist — *798, 799f*
+ - Examination of — *833b*
+ - Extensor hoods — *802–804*
+ - Fibrous digital sheaths — *801–802*
+ - Fingers, adduction and abduction — *792f*
+ - Joints
+ - Carpal joints — *795*
+ - Carpometacarpal joints — *796*
+ - Interphalangeal joints — *796*
+ - Metacarpophalangeal joints — *796*
+ - Wrist joint — *795*
+ - As mechanical tool — *689*
+ - Movements at wrist joint — *689f*
+ - Normal appearance — *825*
+ - Palmar aponeurosis — *800*
+ - Positioning in space — *686–689*
+ - Positions of superficial and deep palmar arches — *827*
+ - Radial artery and deep palmar arch — *812–814*
+ - As sensory tool — *689–690*
+ - Subdivisions — *792*
+ - Thumb, orientation — *701*
+ - Ulnar artery and superficial palmar arch — *812*
+ - Veins — *814*
+ - Dorsal venous network — *700f, 825f*
 - **Hand muscles**
-  - Adductor pollicis muscle — *805f, 809*
-  - Dorsal interossei muscles — *804f, 808–809*
-  - Hypothenar muscles — *806f, 810*
-  - Intrinsic muscles — *693, 804–810*
-  - Lumbrical muscles — *807f, 810*
-  - Palmar interossei muscles — *804f, 809*
-  - Palmaris brevis muscle — *800*
-  - Thenar muscles — *806f, 809–810*
+ - Adductor pollicis muscle — *805f, 809*
+ - Dorsal interossei muscles — *804f, 808–809*
+ - Hypothenar muscles — *806f, 810*
+ - Intrinsic muscles — *693, 804–810*
+ - Lumbrical muscles — *807f, 810*
+ - Palmar interossei muscles — *804f, 809*
+ - Palmaris brevis muscle — *800*
+ - Thenar muscles — *806f, 809–810*
 - **Hand nerves**
-  - Median nerve — *817, 817f, 826–827, 833*
-  - Radial nerve — *833*
-  - Recurrent branch of median nerve — *826*
-  - Superficial branch of radial nerve — *818*
-  - Ulnar nerve — *814–816, 815f, 826–827, 833*
+ - Median nerve — *817, 817f, 826–827, 833*
+ - Radial nerve — *833*
+ - Recurrent branch of median nerve — *826*
+ - Superficial branch of radial nerve — *818*
+ - Ulnar nerve — *814–816, 815f, 826–827, 833*
 - **Hard palate** — *861, 1070f, 1099f, 1105–1106*
 - **Hartmann's pouch** — *341*
 - **Head** *(See also Face; Infratemporal fossa; Nasal cavities; Skull; Temporal fossa)*
-  - Anatomical position — *1120–1121*
-  - Anatomically defined regions — *838–839*
-  - Clinical lymphatic drainage — *1039b–1040b*
-  - Component parts — *842–846*
-  - Cranial cavity — *864–869*
-  - Cranial nerves — *850, 894–900*
-  - CT scan — *111*
-  - Fascial planes — *1004b*
-  - Functions — *841*
-  - Hyoid bone — *845*
-  - Major compartments — *837, 838f*
-  - Major landmarks — *1120–1121*
-  - Medical imaging — *871b*
-  - Meninges — *873–877*
-  - Muscles — *846*
-  - Pterygopalatine fossa — *992–999*
-  - Pulse points — *1128*
-  - Scalp — *839f, 922–927*
-  - Soft palate — *846*
-  - Supported by ligamentum nuchae — *81–82*
-  - Surface anatomy — *1120*
+ - Anatomical position — *1120–1121*
+ - Anatomically defined regions — *838–839*
+ - Clinical lymphatic drainage — *1039b–1040b*
+ - Component parts — *842–846*
+ - Cranial cavity — *864–869*
+ - Cranial nerves — *850, 894–900*
+ - CT scan — *111*
+ - Fascial planes — *1004b*
+ - Functions — *841*
+ - Hyoid bone — *845*
+ - Major compartments — *837, 838f*
+ - Major landmarks — *1120–1121*
+ - Medical imaging — *871b*
+ - Meninges — *873–877*
+ - Muscles — *846*
+ - Pterygopalatine fossa — *992–999*
+ - Pulse points — *1128*
+ - Scalp — *839f, 922–927*
+ - Soft palate — *846*
+ - Supported by ligamentum nuchae — *81–82*
+ - Surface anatomy — *1120*
 
 > **臨床重點**：Head 的**淋巴引流**（lymphatic drainage）在感染與腫瘤分期中至關重要。**面部**（face）淋巴主要流向**下頜下淋巴結**（submandibular lymph nodes），而**头皮**（scalp）淋巴則流向**枕淋巴結**（occipital lymph nodes）與**耳後淋巴結**（postauricular lymph nodes）。
 
 - **Head injury** — *891b*
-  - Clinical assessment — *893b*
-  - Treatment — *893b*
+ - Clinical assessment — *893b*
+ - Treatment — *893b*
 
 > **臨床重點**：**Head injury**（頭部外傷）評估首重**ABCDE**原則，並以 **Glasgow Coma Scale**（GCS）判斷意識狀態。**Epidural hematoma**（硬膜外血腫）典型表現為**中間清醒期**（lucid interval），需緊急手術處理。**Subdural hematoma**（硬膜下血腫）則因橋靜脈撕裂而起。
 
 - **Hearing, organs of** — *968–969*
 - **Heart**
-  - Auscultation — *204b*
-  - Cardiac orientation — *184–190*
-  - Cardiac plexus — *43f, 49f, 208f*
-  - Cardiac skeleton — *197–198*
-  - Chambers — *190–196*
-  - Conduction system — *206, 207f*
-  - Congenital defects — *203b*
-  - Coronary vasculature — *198–204, 199f*
-  - Innervation — *206–209*
-  - Sympathetic nerves to — *43f*
-  - Visualizing margins — *235*
+ - Auscultation — *204b*
+ - Cardiac orientation — *184–190*
+ - Cardiac plexus — *43f, 49f, 208f*
+ - Cardiac skeleton — *197–198*
+ - Chambers — *190–196*
+ - Conduction system — *206, 207f*
+ - Congenital defects — *203b*
+ - Coronary vasculature — *198–204, 199f*
+ - Innervation — *206–209*
+ - Sympathetic nerves to — *43f*
+ - Visualizing margins — *235*
 - **Heart attack** — *202b–203b*
 
 > **臨床重點**：**Heart attack**（心肌梗塞）典型症狀為**胸口壓迫性疼痛**（crushing chest pain），可能向左臂、頸部或下巴放射。需注意**性別差異**（gender differences）：女性可能出現**非典型症狀**（atypical symptoms）如疲勞、呼吸困難與消化不良，易被忽略。
 
 - **Heart sounds** — *204f*
-  - Listening for — *236*
+ - Listening for — *236*
 - **Helicotrema** — *966f, 967, 971f*
 - **Helix** — *954f, 1127f*
 - **Hematoma**
-  - Extradural — *1131b*
-  - Subdural — *892*
+ - Extradural — *1131b*
+ - Subdural — *892*
 - **Hemiarthroplasty** — *676*
 - **Hemiazygos vein** — *131f, 157f, 226f, 227, 369f*
 - **Hemivertebra** — *76f*
@@ -9935,33 +9727,33 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Hepatoduodenal ligament** — *308f*
 - **Hepatorenal recess** — *328, 329f*
 - **Hernias**
-  - Diaphragmatic — *372b*
-  - Femoral — *302*
-  - Hiatus — *373b*
-  - Inguinal — *301–302, 413b*
-    - Direct — *300*
-    - Indirect — *299*
+ - Diaphragmatic — *372b*
+ - Femoral — *302*
+ - Hiatus — *373b*
+ - Inguinal — *301–302, 413b*
+ - Direct — *300*
+ - Indirect — *299*
 - **Herniation**
-  - Falcine — *893*
-  - Of intervertebral discs — *79b*
-  - Of nucleus pulposus — *78*
+ - Falcine — *893*
+ - Of intervertebral discs — *79b*
+ - Of nucleus pulposus — *78*
 - **Herpes zoster** — *109b*
 - **Hiatus hernia** — *373b*
 - **High definition optical coherence tomography** — *951b*
 - **Hilum**
-  - of kidney — *377*
-  - of lung — *167–169, 168f*
-  - of spleen — *339f*
+ - of kidney — *377*
+ - of lung — *167–169, 168f*
+ - of spleen — *339f*
 - **Hindgut** — *272f, 344*
-  - development — *268*
+ - development — *268*
 - **Hinge joints** — *20, 691*
 - **Hip joint** — *541f*
-  - Acetabulum — *558–561*
-  - Avascular necrosis — *16f*
-  - Flexors — *544f*
-  - Ligaments — *560–561*
-  - Movements — *538f*
-  - Total replacement — *24f*
+ - Acetabulum — *558–561*
+ - Avascular necrosis — *16f*
+ - Flexors — *544f*
+ - Ligaments — *560–561*
+ - Movements — *538f*
+ - Total replacement — *24f*
 - **Hoarseness** — *221b*
 
 > **臨床重點**：**Hoarseness**（聲音嘶啞）常與**喉返神經**（recurrent laryngeal nerve）損傷相關，甲狀腺手術或胸腔手術後需特別警覺。持續超過兩週的嘶啞應排除**喉癌**（laryngeal carcinoma）。
@@ -9976,14 +9768,14 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Horns of hyoid bone** — *845f, 1091f*
 - **Humeral (lateral) nodes** — *748*
 - **Humerus** — *690f, 692f*
-  - Fractures
-    - Midshaft — *763f*
-    - Supracondylar — *766b*
-  - Head — *707f*
-    - Anterior dislocation — *737*
-  - Nerves related to — *699f*
-  - Proximal end — *704–705*
-  - Shaft and distal end — *751–752*
+ - Fractures
+ - Midshaft — *763f*
+ - Supracondylar — *766b*
+ - Head — *707f*
+ - Anterior dislocation — *737*
+ - Nerves related to — *699f*
+ - Proximal end — *704–705*
+ - Shaft and distal end — *751–752*
 - **Hyaline cartilage** — *12, 18, 19f, 77f*
 - **Hydrocephalus** — *877b–878b*
 
@@ -9997,8 +9789,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Hypogastric nerves** — *394f, 492f–493f*
 - **Hypoglossal canal** — *870f*
 - **Hypoglossal nerve (XII)** — *894t–895t, 900, 901b, 902f*
-  - in anterior triangle of neck — *1015–1016*
-  - innervation of tongue — *1101–1102*
+ - in anterior triangle of neck — *1015–1016*
+ - innervation of tongue — *1101–1102*
 - **Hypophyseal fossa** — *1074f–1075f*
 - **Hypothalamus** — *880f*
 - **Hypothenar eminence** — *825f*
@@ -10035,15 +9827,15 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Iliotibial tract** — *665f*
 - **Ilium** — *367f, 443–444, 446f, 551–552*
 - **Imaging**
-  - Blood supply to upper limb — *737b*
-  - Diagnostic techniques — *5–8*
-  - Evaluation of stroke — *884f*
-  - Examination of bowel lumen — *316*
-  - of head — *871b*
-  - Image interpretation — *10–11*
-  - of lungs — *178b*
-  - Nuclear medicine — *8–10*
-  - Safety in — *11*
+ - Blood supply to upper limb — *737b*
+ - Diagnostic techniques — *5–8*
+ - Evaluation of stroke — *884f*
+ - Examination of bowel lumen — *316*
+ - of head — *871b*
+ - Image interpretation — *10–11*
+ - of lungs — *178b*
+ - Nuclear medicine — *8–10*
+ - Safety in — *11*
 - **Impotence, prostatectomy and** — *495b*
 - **Impressions on liver** — *331f*
 - **Incisional hernias** — *302*
@@ -10058,9 +9850,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 > **臨床重點**：**Myocardial infarction**（心肌梗塞）的診斷基於**心電圖**（ECG）變化與**心肌酶**（cardiac enzymes）升高。典型 ECG 變化包括 **ST 段抬高**（ST elevation）與 **T 波倒置**。治療目標為早期再灌流（early reperfusion），包括 **PCI**（percutaneous coronary intervention）或 **血栓溶解**（thrombolysis）。
 
 - **Infection**
-  - Limited by fascia — *25*
-  - Upper lobe — *249f*
-  - Urinary bladder — *469b*
+ - Limited by fascia — *25*
+ - Upper lobe — *249f*
+ - Urinary bladder — *469b*
 - **Inferior alveolar artery** — *991, 1116*
 - **Inferior alveolar nerve** — *987, 989, 1118*
 - **Inferior cervical ganglion** — *1036*
@@ -10078,9 +9870,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Inferior margin of orbit** — *1120f*
 - **Inferior mediastinum** — *128f*
 - **Inferior mesenteric artery** — *271, 272f, 343f, 351, 358*
-  - Left colic artery — *350*
-  - Sigmoid arteries — *350*
-  - Superior rectal artery — *350*
+ - Left colic artery — *350*
+ - Sigmoid arteries — *350*
+ - Superior rectal artery — *350*
 - **Inferior mesenteric ganglion** — *394f, 397f*
 - **Inferior mesenteric vein** — *354f, 356*
 - **Inferior nasal concha** — *855f*
@@ -10102,36 +9894,36 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Inferior subscapular nerve** — *746*
 - **Inferior suprarenal artery** — *386f*
 - **Inferior thoracic aperture** — *126, 127f, 255, 262*
-  - Flexible wall and — *136, 137f*
+ - Flexible wall and — *136, 137f*
 - **Inferior thyroid artery** — *1019, 1026f, 1032*
 - **Inferior vena cava** — *130f, 133f, 183f, 255f–256f*
-  - Access via superior vena cava — *215b*
-  - and anterior surface of heart — *186f*
-  - Chronic thrombosis — *410b*
-  - Course — *390–391*
-  - Diaphragm and — *161f*
-  - Filter — *391b*
-  - Passing between abdomen and thigh — *265f*
-  - in pericardial sac — *210*
-  - in posterior abdomen — *366f*
-  - in relation to greater and lesser sacs — *305f*
-  - in relation to right lung — *170f*
+ - Access via superior vena cava — *215b*
+ - and anterior surface of heart — *186f*
+ - Chronic thrombosis — *410b*
+ - Course — *390–391*
+ - Diaphragm and — *161f*
+ - Filter — *391b*
+ - Passing between abdomen and thigh — *265f*
+ - in pericardial sac — *210*
+ - in posterior abdomen — *366f*
+ - in relation to greater and lesser sacs — *305f*
+ - in relation to right lung — *170f*
 - **Inferior vesical artery** — *496*
 - **Inferior view of skull** — *856t, 860–864, 862f*
-  - Anterior part — *861*
-  - Middle part
-    - Anterior half — *861–863*
-    - Posterior half — *863*
-  - Posterior part
-    - Occipital bone — *863*
-    - Temporal bone — *863–864*
+ - Anterior part — *861*
+ - Middle part
+ - Anterior half — *861–863*
+ - Posterior half — *863*
+ - Posterior part
+ - Occipital bone — *863*
+ - Temporal bone — *863–864*
 - **Inflammation of subacromial bursa** — *713b*
 - **Infraglottic space** — *1059, 1060f*
 - **Infra-byoid muscles** — *1007t, 1008–1010*
-  - Omohyoid muscle — *1009*
-  - Sternohyoid muscle — *1009*
-  - Sternothyroid muscle — *1010*
-  - Thyrohyoid muscle — *1010*
+ - Omohyoid muscle — *1009*
+ - Sternohyoid muscle — *1009*
+ - Sternothyroid muscle — *1010*
+ - Thyrohyoid muscle — *1010*
 - **Infraorbital artery** — *930f, 999, 1116f*
 - **Infraorbital foramen** — *935*
 - **Infraorbital groove** — *934f*
@@ -10140,38 +9932,38 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Infrapatellar fat pad** — *609*
 - **Infraspinatus muscle** — *692f, 709t, 716t, 717, 819f*
 - **Infratemporal fossa** — *838, 972–992*
-  - Bony framework
-    - Maxilla — *974*
-    - Ramus of mandible — *975*
-    - Sphenoid bone — *974*
-    - Temporal bone — *973–974*
-    - Zygomatic bone — *974–975*
-  - Masseter muscle — *977–978*
-  - Middle meningeal artery — *1124–1125*
-  - Roof and walls — *981*
-  - Temporomandibular joints — *975–977*
+ - Bony framework
+ - Maxilla — *974*
+ - Ramus of mandible — *975*
+ - Sphenoid bone — *974*
+ - Temporal bone — *973–974*
+ - Zygomatic bone — *974–975*
+ - Masseter muscle — *977–978*
+ - Middle meningeal artery — *1124–1125*
+ - Roof and walls — *981*
+ - Temporomandibular joints — *975–977*
 - **Infratemporal fossa: contents**
-  - Chorda tympani — *987*
-  - Lateral pterygoid muscle — *983*
-  - Lesser petrosal nerve — *989*
-  - Mandibular nerve — *983–987*
-  - Maxillary artery — *990–991*
-  - Medial pterygoid muscle — *982*
-  - Pterygoid plexus — *991–992*
-  - Sphenomandibular ligament — *981–982*
+ - Chorda tympani — *987*
+ - Lateral pterygoid muscle — *983*
+ - Lesser petrosal nerve — *989*
+ - Mandibular nerve — *983–987*
+ - Maxillary artery — *990–991*
+ - Medial pterygoid muscle — *982*
+ - Pterygoid plexus — *991–992*
+ - Sphenomandibular ligament — *981–982*
 - **Infra-trochlear nerve** — *946*
 - **Infundibulum** — *478*
-  - Ethmoidal — *1072, 1078f–1079f*
+ - Ethmoidal — *1072, 1078f–1079f*
 - **Inguinal canal** — *471f–472f*
-  - Anterior wall — *296*
-  - Contents — *296–297*
-  - Deep inguinal ring — *294*
-  - Floor — *296*
-  - Posterior wall — *296*
-  - Roof — *296*
-  - Round ligament of uterus — *297*
-  - Spermatic cord — *297*
-  - Superficial inguinal ring — *295*
+ - Anterior wall — *296*
+ - Contents — *296–297*
+ - Deep inguinal ring — *294*
+ - Floor — *296*
+ - Posterior wall — *296*
+ - Roof — *296*
+ - Round ligament of uterus — *297*
+ - Spermatic cord — *297*
+ - Superficial inguinal ring — *295*
 
 # Gray's Anatomy — Head & Neck: Segment 36
 
@@ -10202,19 +9994,19 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ## Injury
 
-> **臨床重點**：Brachial plexus injury — 747b  
-> **臨床重點**：Cervical spinal cord injury — 118b  
-> **臨床重點**：Head injury — 891b  
-> **臨床重點**：Iatrogenic ureteric injury — 530b  
-> **臨床重點**：Knee joint injury — 673b-674b  
-> **臨床重點**：Lingual nerve injury — 987b  
-> **臨床重點**：Lower limb muscle injury — 599b  
-> **臨床重點**：Nerve injury affecting superficial back muscles — 99b  
-> **臨床重點**：Radial nerve injury in arm — 763b  
-> **臨床重點**：Radial nerve injury in hand — 818b  
-> **臨床重點**：Soft tissue injury of knee joint — 613b  
-> **臨床重點**：Ulnar nerve injury — 816b  
-> **臨床重點**：Ulnar nerve injury at elbow — 768b  
+> **臨床重點**：Brachial plexus injury — 747b
+> **臨床重點**：Cervical spinal cord injury — 118b
+> **臨床重點**：Head injury — 891b
+> **臨床重點**：Iatrogenic ureteric injury — 530b
+> **臨床重點**：Knee joint injury — 673b-674b
+> **臨床重點**：Lingual nerve injury — 987b
+> **臨床重點**：Lower limb muscle injury — 599b
+> **臨床重點**：Nerve injury affecting superficial back muscles — 99b
+> **臨床重點**：Radial nerve injury in arm — 763b
+> **臨床重點**：Radial nerve injury in hand — 818b
+> **臨床重點**：Soft tissue injury of knee joint — 613b
+> **臨床重點**：Ulnar nerve injury — 816b
+> **臨床重點**：Ulnar nerve injury at elbow — 768b
 > **臨床重點**：General muscle injury — 26b
 
 ## Innervation
@@ -10333,8 +10125,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ## Internal Ear
 
 - **Internal ear** — bony labyrinth
-  - **Cochlea**, 966-967
-  - **Semicircular canals**, 966
+ - **Cochlea**, 966-967
+ - **Semicircular canals**, 966
 - **Membranous labyrinth**, 967-969
 - **Innervation of internal ear**, 969-971
 - **Organs of balance**, 968
@@ -10401,7 +10193,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ## Intracranial Structures
 
-> **臨床重點**：Intracerebral aneurysm — 885b  
+> **臨床重點**：Intracerebral aneurysm — 885b
 > **臨床重點**：Intracranial hemorrhage — 891b-892b
 
 - **Intracranial venous connections of facial vein**, 920
@@ -10432,7 +10224,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Synovial joints**, 18-20
 
-> **臨床重點**：Degenerative joint disease — 22b-23b, 614b  
+> **臨床重點**：Degenerative joint disease — 22b-23b, 614b
 > **臨床重點**：Joint replacement — 24b
 
 ### Thoracic Wall Joints
@@ -10460,7 +10252,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Kidneys**, 255f-256f, 366f, 373-378
 
-> **臨床重點**：Pelvic kidney — 528b  
+> **臨床重點**：Pelvic kidney — 528b
 > **臨床重點**：Kidney transplantation — 383b-384b
 
 - **Relationships to other structures**, 374-375
@@ -10475,8 +10267,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Knee joint** — articular surfaces, 606-607
 
-> **臨床重點**：Knee joint examination — 614b-615b  
-> **臨床重點**：Knee joint injury — 673b-674b  
+> **臨床重點**：Knee joint examination — 614b-615b
+> **臨床重點**：Knee joint injury — 673b-674b
 > **臨床重點**：Knee joint replacement — 23f
 
 - **Fibrous membrane of knee joint**, 610
@@ -10589,11 +10381,11 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Lateral arcuate ligament**, 262f, 263, 370f
 - **Lateral circumflex femoral artery**, 561f, 601
 - **Lateral compartment of leg**, 544
-  - **Arteries**, 629
-  - **Muscles**, 628-629
-  - **Nerves**, 548, 630
+ - **Arteries**, 629
+ - **Muscles**, 628-629
+ - **Nerves**, 548, 630
 - **Lateral cord of brachial plexus**, 739
-  - **Branches of lateral cord**, 742, 743f
+ - **Branches of lateral cord**, 742, 743f
 - **Lateral cricoarytenoid muscle**, 1061t, 1062-1063
 - **Lateral cutaneous branch T7 to T12**, 289f
 - **Lateral cutaneous nerve of forearm**, 760f
@@ -10614,7 +10406,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Lateral plantar nerve**, 660-661
 - **Lateral position**, 4
 - **Lateral pterygoid muscle**, 977t, 983
-  - **Nerve to lateral pterygoid**, 985
+ - **Nerve to lateral pterygoid**, 985
 - **Lateral rectus muscle**, 939-940
 - **Lateral sacral artery**, 100f-101f, 496
 - **Lateral thoracic artery**, 735
@@ -10745,8 +10537,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ## Liver
 
-> **臨床重點**：Liver biopsy — 411b  
-> **臨床重點**：Cirrhosis of liver — 356b-357b  
+> **臨床重點**：Liver biopsy — 411b
+> **臨床重點**：Cirrhosis of liver — 356b-357b
 > **臨床重點**：Metastatic lesions in liver — 420b
 
 - **Segmental anatomy of liver**, 339b-340b
@@ -10799,7 +10591,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ## Lower Limb
 
-> **臨床重點**：Chronic leg ischemia — 603  
+> **臨床重點**：Chronic leg ischemia — 603
 > **臨床重點**：Left leg ischemia — 247-248
 
 ### Lower Limb: Arteries
@@ -10889,24 +10681,24 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Lumbar curvature**, 54f, 112f
 - **Lumbar ganglia**, 359f
 - **Lumbar nerves**, 109
-  - anterior rami, 564f
+ - anterior rami, 564f
 - **Lumbar nodes**, 392-393
 - **Lumbar plexus**, 49f, 398-401
-  - innervation of lower limb, 545-548
+ - innervation of lower limb, 545-548
 - **Lumbar puncture**, 104, 106b
 - **Lumbar region of back**, 61f, 73f, 105f
 - **Lumbar splanchnic nerves**, 44, 276f, 361, 394f
 - **Lumbar veins**, 391
 - **Lumbar vertebrae**, 56, 64, 66, 72
-  - determination of levels, 404-405
-  - intrapedicular needles in, 17f
-  - L1 level, 271
-  - visualizing structures at, 405
-  - LIV and LV, 265f
-  - pars interarticularis fracture, 83f
-  - in posterior abdominal area, 367
-  - red marrow, 15f
-  - zygapophysial joint, 78f
+ - determination of levels, 404-405
+ - intrapedicular needles in, 17f
+ - L1 level, 271
+ - visualizing structures at, 405
+ - LIV and LV, 265f
+ - pars interarticularis fracture, 83f
+ - in posterior abdominal area, 367
+ - red marrow, 15f
+ - zygapophysial joint, 78f
 
 > **臨床重點**：**Lumbar puncture** (腰椎穿刺) — 使用於診斷與治療，需注意定位 L3/L4 或 L4/L5 椎間隙以避免損傷脊髓。
 
@@ -10926,8 +10718,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Ilioinguinal and genitofemoral nerves**, 566
 - **Lateral cutaneous nerve of thigh**, 566
 - **Nerve to**
-  - **obturator internus**, 566
-  - **quadratus femoris**, 566
+ - **obturator internus**, 566
+ - **quadratus femoris**, 566
 - **Obturator nerve**, 565
 - **Perforating cutaneous nerve**, 566
 - **Posterior cutaneous nerve of thigh**, 566
@@ -10953,9 +10745,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Pulmonary veins**, 174
 - **Pulmonary vessels**, 175f
 - **Right lung**, 169, 170f
-  - apex of, 126f, 129f
-  - root and hilum, 167-169, 168f
-  - surfaces of, 167, 168f
+ - apex of, 126f, 129f
+ - root and hilum, 167-169, 168f
+ - surfaces of, 167, 168f
 - **Visualizing**, 236-238
 
 ### Lymph Nodes
@@ -10997,14 +10789,14 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Lymphatic ducts**, 30
 - **Lymphatic trunks**, 30
 - **Lymphatic vessels**, 29
-  - **Axilla**, 748f
-  - **Breast**, 131
-  - **Lower limb**, 570-571
-  - **Neck**, 1038-1039
-  - **Pelvic viscera**, 501-502
-  - **Perineum**, 519
-  - **Pharynx**, 1050
-  - **Thoracic wall**, 158f
+ - **Axilla**, 748f
+ - **Breast**, 131
+ - **Lower limb**, 570-571
+ - **Neck**, 1038-1039
+ - **Pelvic viscera**, 501-502
+ - **Perineum**, 519
+ - **Pharynx**, 1050
+ - **Thoracic wall**, 158f
 
 > **臨床重點**：**Lymphatic system** — 了解淋巴引流路徑對腫瘤分期與淋巴結清掃手術至關重要。
 
@@ -11050,17 +10842,17 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Mandible
 
 - **Mandible**, 855f, 974f
-  - anterior view of skull, 856-857
-  - lateral view of skull, 859
-  - movements of, 976-977
-  - in oral cavity, 1090-1091
-  - ramus of, 838f, 972f, 975
+ - anterior view of skull, 856-857
+ - lateral view of skull, 859
+ - movements of, 976-977
+ - in oral cavity, 1090-1091
+ - ramus of, 838f, 972f, 975
 
 ### Mandibular Nerve (V3)
 
 - **Mandibular nerve (V3)**, 850f, 898, 983-987
-  - branches, 984
-  - innervation of face, 916
+ - branches, 984
+ - innervation of face, 916
 
 > **臨床重點**：**Mandibular nerve block** — 牙科手術常用，麻醉下頜牙齒與軟組織。
 
@@ -11084,10 +10876,10 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Maxilla**, 856, 858, 974, 1081f, 1088
 - **Maxillary artery**, 998-999, 1012f, 1013
-  - branches, 918f, 919, 990, 999
+ - branches, 918f, 919, 990, 999
 - **Maxillary nerve (V2)**, 898
-  - branches, 995-996, 1086
-  - innervation of face, 915
+ - branches, 995-996, 1086
+ - innervation of face, 915
 - **Maxillary sinuses**, 1071f, 1074f-1075f, 1076
 - **Maxillary vein**, 1112f
 
@@ -11108,12 +10900,12 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Meninges**, 32
 - **Arachnoid mater**, 103, 876
 - **Cranial dura mater**, 873-876
-  - arterial supply, 875
-  - dural partitions, 874
-  - innervation, 876
+ - arterial supply, 875
+ - dural partitions, 874
+ - innervation, 876
 - **Extradural space**, 877
 - ** Pia mater**, 104, 877
-  - and scalp, 890f
+ - and scalp, 890f
 - **Spinal dura mater**, 103
 - **Subarachnoid space**, 103-104, 877
 - **Subdural space**, 877
@@ -11131,32 +10923,32 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Mesenteric angina**, 353
 - **Mesentery**, 47f, 255f-256f, 260f-261f
-  - development, 266f-267f
-  - sigmoid mesocolon, 309
-  - transverse mesocolon, 309
+ - development, 266f-267f
+ - sigmoid mesocolon, 309
+ - transverse mesocolon, 309
 - **Mesoappendix**, 321f
 
 ### Middle Ear
 
 - **Middle ear**, 958-964
 - **Auditory ossicles**
-  - **Incus**, 963
-  - **Malleus**, 962
-  - **Stapes**, 963
-  - muscles associated with, 963
+ - **Incus**, 963
+ - **Malleus**, 962
+ - **Stapes**, 963
+ - muscles associated with, 963
 - **Boundaries**
-  - anterior wall, 960
-  - jugular wall, 959
-  - labyrinthine wall, 960-961
-  - mastoid wall, 960
-  - membranous wall, 959
-  - tegmental wall, 959
+ - anterior wall, 960
+ - jugular wall, 959
+ - labyrinthine wall, 960-961
+ - mastoid wall, 960
+ - membranous wall, 959
+ - tegmental wall, 959
 - **Functions of**, 958
 - **Innervation**, 963-964
 - **Mastoid area**, 961
 - **Pharyngotympanic tube**
-  - innervation, 961
-  - vessels, 961
+ - innervation, 961
+ - vessels, 961
 - **Vessels**, 963
 
 ### Middle Mediastinum
@@ -11187,18 +10979,18 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 ### Muscles
 
 - **Muscle(s)**, 25
-  - **Cardiac muscle**, 25
-  - **Skeletal muscle**, 25
-  - **Smooth muscle**, 25
+ - **Cardiac muscle**, 25
+ - **Skeletal muscle**, 25
+ - **Smooth muscle**, 25
 - **Muscle compartments of arm**, 750
 - **Muscle compartments of leg**
-  - anterior, 630-633
-  - lateral, 628-630
-  - posterior, 621-628
+ - anterior, 630-633
+ - lateral, 628-630
+ - posterior, 621-628
 - **Muscle compartments of thigh**
-  - anterior, 544f, 584, 589
-  - medial, 589, 594-597
-  - posterior, 584, 589, 595f, 598-599
+ - anterior, 544f, 584, 589
+ - medial, 589, 594-597
+ - posterior, 584, 589, 595f, 598-599
 - **Muscle layers of enteric system**, 364f
 - **Muscular system**, 25
 
@@ -11231,10 +11023,10 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Muscles to lower limb**, 599b
 - **Muscles of lower limb**, 543-544
 - **Muscles in sole**
-  - first layer, 652-653
-  - fourth layer, 656-657
-  - second layer, 653-654
-  - third layer, 654-655
+ - first layer, 652-653
+ - fourth layer, 656-657
+ - second layer, 653-654
+ - third layer, 654-655
 
 ### Muscles — Posterior Abdominal
 
@@ -11274,30 +11066,30 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **External nose**, 1074
 - **Floor**, 1077
 - **Gateways**
-  - cribriform plate, 1082
-  - incisive canal, 1082
-  - small foramina in lateral wall, 1082
-  - sphenopalatine foramen, 1082
+ - cribriform plate, 1082
+ - incisive canal, 1082
+ - small foramina in lateral wall, 1082
+ - sphenopalatine foramen, 1082
 - **Innervation**
-  - branches from maxillary nerve, 1086
-  - branches from ophthalmic nerve, 1085-1086
-  - olfactory nerve, 1085
-  - parasympathetic, 1086
-  - sympathetic, 1086
+ - branches from maxillary nerve, 1086
+ - branches from ophthalmic nerve, 1085-1086
+ - olfactory nerve, 1085
+ - parasympathetic, 1086
+ - sympathetic, 1086
 - **Lymphatics**, 1086-1087
 - **Nares**, 1080-1081
 - **Paranasal sinuses**
-  - ethmoidal cells, 1075-1076
-  - frontal sinuses, 1075
-  - maxillary sinuses, 1076
-  - sphenoidal sinuses, 1076
+ - ethmoidal cells, 1075-1076
+ - frontal sinuses, 1075
+ - maxillary sinuses, 1076
+ - sphenoidal sinuses, 1076
 - **Regions**, 1071-1072
 - **Roof**, 1077
 - **Skeletal framework**, ethmoid bone, 1072-1074
 - **Veins**, 1084
 - **Walls**
-  - lateral, 1070-1071, 1077-1080, 1082
-  - medial, 1076
+ - lateral, 1070-1071, 1077-1080, 1082
+ - medial, 1076
 
 ### Nasal Structures
 
@@ -11340,8 +11132,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Surface anatomy**, 1120
 - **Thyroid gland**, 1124
 - **Triangles**
-  - anterior, 1000, 1006-1022, 1122
-  - posterior, 1000, 1023-1030, 1122
+ - anterior, 1000, 1006-1022, 1122
+ - posterior, 1000, 1023-1030, 1122
 - **Vertebral levels CIII/IV and CV/VI**, 848
 - **Vertebral level CVI**, 1121
 
@@ -11352,13 +11144,13 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Phrenic nerves**, 1033-1036
 - **Recurrent laryngeal nerves**, 1034
 - **Subclavian arteries**, 1031-1033
-  - costocervical trunk, 1032-1033
-  - internal thoracic artery, 1032
-  - thyrocervical trunk, 1032
-  - vertebral artery, 1032
+ - costocervical trunk, 1032-1033
+ - internal thoracic artery, 1032
+ - thyrocervical trunk, 1032
+ - vertebral artery, 1032
 - **Sympathetic nervous system**
-  - cervical part of sympathetic trunk, 1036
-  - ganglia, 1036
+ - cervical part of sympathetic trunk, 1036
+ - ganglia, 1036
 - **Termination of lymphatic trunks in**, 1037f
 - **Vagus nerves**, 1034
 - **Veins**, 1033
@@ -11385,17 +11177,17 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Nerve plexuses**, 48
 - **Nervous system**
-  - **CNS**, 31-32
-  - **Dermatomes**, 34-35
-  - **Enteric system**, 47-48
-  - **Myotomes**, 35-36
-  - **Nerve plexuses**, 48
-  - **Parasympathetic system**, 45-46
-  - **Somatic part**, 33-34
-  - **Somatic plexuses**, 48
-  - **Sympathetic system**, 40-45
-  - **Visceral part**, 38-39
-  - **Visceral plexuses**, 48
+ - **CNS**, 31-32
+ - **Dermatomes**, 34-35
+ - **Enteric system**, 47-48
+ - **Myotomes**, 35-36
+ - **Nerve plexuses**, 48
+ - **Parasympathetic system**, 45-46
+ - **Somatic part**, 33-34
+ - **Somatic plexuses**, 48
+ - **Sympathetic system**, 40-45
+ - **Visceral part**, 38-39
+ - **Visceral plexuses**, 48
 - **Neural crest**, 33f
 - **Notochord**, 33f
 
@@ -11439,730 +11231,730 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ## O
 
-**Obturator artery** — 496, 561f, 566–568, 602  
-**Obturator canal** — 432f–433f, 452, 562  
-**Obturator externus muscle** — 594t, 597  
-**Obturator foramen** — 426f, 428f, 552f  
-**Obturator internus muscle** — 426, 427f, 450–451, 457f–458f, 575t, 576–577  
-&nbsp;&nbsp;&nbsp;&nbsp;nerve to — 491, 564t–565t, 566, 580  
-**Obturator nerve** — 399f, 401, 492, 548f, 564t–565t, 604, 605f  
-**Obturator vein** — 500f, 568f  
-**Obtuse margin of heart** — 188  
+**Obturator artery** — 496, 561f, 566–568, 602
+**Obturator canal** — 432f–433f, 452, 562
+**Obturator externus muscle** — 594t, 597
+**Obturator foramen** — 426f, 428f, 552f
+**Obturator internus muscle** — 426, 427f, 450–451, 457f–458f, 575t, 576–577
+&nbsp;&nbsp;&nbsp;&nbsp;nerve to — 491, 564t–565t, 566, 580
+**Obturator nerve** — 399f, 401, 492, 548f, 564t–565t, 604, 605f
+**Obturator vein** — 500f, 568f
+**Obtuse margin of heart** — 188
 
-**Occipital artery** — 925f, 1012t, 1013  
-**Occipital bone** — 860f, 863  
-&nbsp;&nbsp;&nbsp;&nbsp;squamous part — 869  
-**Occipital condyles** — 863  
-**Occipital nodes** — 926f, 1038f, 1039  
-**Occipital triangle of neck** — 1023f  
-**Occipital vein** — 925f, 926  
-**Occipitofrontalis muscle** — 905t–906t, 910, 923f  
+**Occipital artery** — 925f, 1012t, 1013
+**Occipital bone** — 860f, 863
+&nbsp;&nbsp;&nbsp;&nbsp;squamous part — 869
+**Occipital condyles** — 863
+**Occipital nodes** — 926f, 1038f, 1039
+**Occipital triangle of neck** — 1023f
+**Occipital vein** — 925f, 926
+**Occipitofrontalis muscle** — 905t–906t, 910, 923f
 
 > **臨床重點**：Occipital artery 與枕大神經（greater occipital nerve）伴行，臨床上可用於評估顱外血流。
 
-**Oculomotor nerve (III)** — 850f, 894t–895t, 897, 901f, 902f, 943  
+**Oculomotor nerve (III)** — 850f, 894t–895t, 897, 901f, 902f, 943
 
-**Olecranon** — 716f, 822f  
-**Olecranon fossa** — 752  
+**Olecranon** — 716f, 822f
+**Olecranon fossa** — 752
 
-**Olfactory nerve (I)** — 894t–895t, 896, 901b, 902f  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation of nasal cavities — 1085  
-**Olfactory region of nasal cavity** — 1071  
+**Olfactory nerve (I)** — 894t–895t, 896, 901b, 902f
+&nbsp;&nbsp;&nbsp;&nbsp;innervation of nasal cavities — 1085
+**Olfactory region of nasal cavity** — 1071
 
-**Omenta** — 307  
-**Omental appendices** — 319f  
-**Omental bursa** — 266f–267f, 304  
-**Omental foramen** — 266f–267f, 305f, 308f  
+**Omenta** — 307
+**Omental appendices** — 319f
+**Omental bursa** — 266f–267f, 304
+**Omental foramen** — 266f–267f, 305f, 308f
 
-**Omohyoid muscle** — 849f, 1009, 1024, 1038f  
+**Omohyoid muscle** — 849f, 1009, 1024, 1038f
 
-**Openings into bony orbit** — 934f  
+**Openings into bony orbit** — 934f
 
-**Ophthalmic artery** — 934f  
-&nbsp;&nbsp;&nbsp;&nbsp;branches — 919, 926  
+**Ophthalmic artery** — 934f
+&nbsp;&nbsp;&nbsp;&nbsp;branches — 919, 926
 
-**Ophthalmic nerve (V1)** — 850f, 898, 944–946  
-&nbsp;&nbsp;&nbsp;&nbsp;branches from — 1085–1086  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation of face — 914–915  
+**Ophthalmic nerve (V1)** — 850f, 898, 944–946
+&nbsp;&nbsp;&nbsp;&nbsp;branches from — 1085–1086
+&nbsp;&nbsp;&nbsp;&nbsp;innervation of face — 914–915
 
 > **臨床重點**：Ophthalmic nerve (V1) 為三叉神經第一分支，支配額部、鼻外側及上瞼之感覺。眼部手術前須確認 V1 分布區域之感覺阻滯。
 
-**Ophthalmoscopy** — 949b  
+**Ophthalmoscopy** — 949b
 
-**Opponens digiti minimi muscle** — 808t, 810  
-**Opponens pollicis muscle** — 806f, 808t, 809  
-**Opposition of thumb** — 701f  
+**Opponens digiti minimi muscle** — 808t, 810
+**Opponens pollicis muscle** — 806f, 808t, 809
+**Opposition of thumb** — 701f
 
-**Optic canal** — 934  
-**Optic chiasm** — disruption of — 1135  
-**Optic disc** — 947f, 951  
-**Optic nerve (II)** — 894t–895t, 896–897, 901b, 902f, 942–943  
+**Optic canal** — 934
+**Optic chiasm** — disruption of — 1135
+**Optic disc** — 947f, 951
+**Optic nerve (II)** — 894t–895t, 896–897, 901b, 902f, 942–943
 
-**Oral cavity** — *See also* Tongue  
+**Oral cavity** — *See also* Tongue
 
 ### 口腔結構
 
-**buccinator muscle** — 1092  
-**cheeks** — 1091–1092  
-**floor**  
-&nbsp;&nbsp;&nbsp;&nbsp;gateway into — 1094–1095  
-&nbsp;&nbsp;&nbsp;&nbsp;geniohyoid muscles — 1093–1094  
-&nbsp;&nbsp;&nbsp;&nbsp;mylohyoid muscles — 1092–1093  
-**functions** — 1087  
-**innervation** — 1088  
-**oral fissure and lips** — 1113–1114  
-**oropharyngeal isthmus** — 1114  
-&nbsp;&nbsp;&nbsp;&nbsp;in relation to larynx — 1052f  
-&nbsp;&nbsp;&nbsp;&nbsp;relationship to nasal cavities — 1069f  
-**roof**  
-&nbsp;&nbsp;&nbsp;&nbsp;arteries — 1110–1111  
-&nbsp;&nbsp;&nbsp;&nbsp;hard palate — 1105–1106  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation — 1112–1113  
-&nbsp;&nbsp;&nbsp;&nbsp;lymphatic drainage — 1112f  
-&nbsp;&nbsp;&nbsp;&nbsp;soft palate — 1106–1110  
-&nbsp;&nbsp;&nbsp;&nbsp;veins — 1112  
-**salivary glands**  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation — 1104–1105  
-&nbsp;&nbsp;&nbsp;&nbsp;parotid gland — 1102  
-&nbsp;&nbsp;&nbsp;&nbsp;sublingual glands — 1103–1104  
-&nbsp;&nbsp;&nbsp;&nbsp;submandibular glands — 1103  
-&nbsp;&nbsp;&nbsp;&nbsp;vessels — 1104  
-**teeth and gingivae** — 1114–1119  
-&nbsp;&nbsp;&nbsp;&nbsp;arteries — 1116–1117  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation — 1118–1119  
-&nbsp;&nbsp;&nbsp;&nbsp;lymphatic drainage — 1117f  
-&nbsp;&nbsp;&nbsp;&nbsp;veins — 1117  
+**buccinator muscle** — 1092
+**cheeks** — 1091–1092
+**floor**
+&nbsp;&nbsp;&nbsp;&nbsp;gateway into — 1094–1095
+&nbsp;&nbsp;&nbsp;&nbsp;geniohyoid muscles — 1093–1094
+&nbsp;&nbsp;&nbsp;&nbsp;mylohyoid muscles — 1092–1093
+**functions** — 1087
+**innervation** — 1088
+**oral fissure and lips** — 1113–1114
+**oropharyngeal isthmus** — 1114
+&nbsp;&nbsp;&nbsp;&nbsp;in relation to larynx — 1052f
+&nbsp;&nbsp;&nbsp;&nbsp;relationship to nasal cavities — 1069f
+**roof**
+&nbsp;&nbsp;&nbsp;&nbsp;arteries — 1110–1111
+&nbsp;&nbsp;&nbsp;&nbsp;hard palate — 1105–1106
+&nbsp;&nbsp;&nbsp;&nbsp;innervation — 1112–1113
+&nbsp;&nbsp;&nbsp;&nbsp;lymphatic drainage — 1112f
+&nbsp;&nbsp;&nbsp;&nbsp;soft palate — 1106–1110
+&nbsp;&nbsp;&nbsp;&nbsp;veins — 1112
+**salivary glands**
+&nbsp;&nbsp;&nbsp;&nbsp;innervation — 1104–1105
+&nbsp;&nbsp;&nbsp;&nbsp;parotid gland — 1102
+&nbsp;&nbsp;&nbsp;&nbsp;sublingual glands — 1103–1104
+&nbsp;&nbsp;&nbsp;&nbsp;submandibular glands — 1103
+&nbsp;&nbsp;&nbsp;&nbsp;vessels — 1104
+**teeth and gingivae** — 1114–1119
+&nbsp;&nbsp;&nbsp;&nbsp;arteries — 1116–1117
+&nbsp;&nbsp;&nbsp;&nbsp;innervation — 1118–1119
+&nbsp;&nbsp;&nbsp;&nbsp;lymphatic drainage — 1117f
+&nbsp;&nbsp;&nbsp;&nbsp;veins — 1117
 
 ### 口腔骨骼框架
 
-**cartilaginous part of pharyngotympanic tube** — 1090  
-**hyoid bone** — 1091  
-**mandible** — 1090–1091  
-**maxillae** — 1088  
-**palatine bones** — 1088  
-**sphenoid bone** — 1088–1090  
-**temporal bone** — 1090  
+**cartilaginous part of pharyngotympanic tube** — 1090
+**hyoid bone** — 1091
+**mandible** — 1090–1091
+**maxillae** — 1088
+**palatine bones** — 1088
+**sphenoid bone** — 1088–1090
+**temporal bone** — 1090
 
-**Oral fissure** — 1113–1114  
+**Oral fissure** — 1113–1114
 
-**Oral group of face muscles** — 905t–906t, 908–910  
+**Oral group of face muscles** — 905t–906t, 908–910
 
-**Orbicularis oculi muscle** — 839f, 904f, 906, 928–929, 1125f  
-**Orbicularis oris muscle** — 839f, 904f, 908–909, 1092f, 1113f  
+**Orbicularis oculi muscle** — 839f, 904f, 906, 928–929, 1125f
+**Orbicularis oris muscle** — 839f, 904f, 908–909, 1092f, 1113f
 
 ### Orbit
 
-**Orbit** — 837 — *See also* Eyeball  
-**arteries** — 941–942  
-**bony orbit** — 927–931  
-**eyeball** — 947–951  
-**fascial specializations**  
-&nbsp;&nbsp;&nbsp;&nbsp;check ligaments — 936  
-&nbsp;&nbsp;&nbsp;&nbsp;fascial sheath of eyeball — 936  
-&nbsp;&nbsp;&nbsp;&nbsp;periorbita — 935  
-**fissures and foramina** — 934–935  
-**fracture** — 928b  
-&nbsp;&nbsp;&nbsp;&nbsp;complication of — 1134b  
-**lacrimal apparatus** — 932–933, 1126–1127  
-**muscles** — 936–940  
-**veins** — 942  
+**Orbit** — 837 — *See also* Eyeball
+**arteries** — 941–942
+**bony orbit** — 927–931
+**eyeball** — 947–951
+**fascial specializations**
+&nbsp;&nbsp;&nbsp;&nbsp;check ligaments — 936
+&nbsp;&nbsp;&nbsp;&nbsp;fascial sheath of eyeball — 936
+&nbsp;&nbsp;&nbsp;&nbsp;periorbita — 935
+**fissures and foramina** — 934–935
+**fracture** — 928b
+&nbsp;&nbsp;&nbsp;&nbsp;complication of — 1134b
+**lacrimal apparatus** — 932–933, 1126–1127
+**muscles** — 936–940
+**veins** — 942
 
 > **臨床重點**：Orbital floor fracture（blow-out fracture）常因眼部鈍挫傷所致，需注意眼球運動受限及復視之評估。
 
 ### Orbit: Innervation
 
-**abducent nerve** — 944  
-**oculomotor nerve** — 943  
-**ophthalmic nerve** — 944–946  
-**optic nerve** — 942–943  
-**postganglionic sympathetic fibers** — 944  
-**trochlear nerve** — 943–944  
+**abducent nerve** — 944
+**oculomotor nerve** — 943
+**ophthalmic nerve** — 944–946
+**optic nerve** — 942–943
+**postganglionic sympathetic fibers** — 944
+**trochlear nerve** — 943–944
 
-**Orbital branches of maxillary nerve** — 995  
-**Orbital group of face muscles** — 905–906, 907f  
-**Orbital septum** — 929, 932f, 935f  
+**Orbital branches of maxillary nerve** — 995
+**Orbital group of face muscles** — 905–906, 907f
+**Orbital septum** — 929, 932f, 935f
 
-**Orientation of heart**  
-&nbsp;&nbsp;&nbsp;&nbsp;base and apex — 184–186  
-&nbsp;&nbsp;&nbsp;&nbsp;external sulci — 188–190, 189f  
-&nbsp;&nbsp;&nbsp;&nbsp;margins and borders — 187–188, 235  
-&nbsp;&nbsp;&nbsp;&nbsp;surfaces of heart — 184f, 187  
+**Orientation of heart**
+&nbsp;&nbsp;&nbsp;&nbsp;base and apex — 184–186
+&nbsp;&nbsp;&nbsp;&nbsp;external sulci — 188–190, 189f
+&nbsp;&nbsp;&nbsp;&nbsp;margins and borders — 187–188, 235
+&nbsp;&nbsp;&nbsp;&nbsp;surfaces of heart — 184f, 187
 
-**Orientation of pelvis** — 434f, 448, 520  
-**Orientation of thumb** — 701  
+**Orientation of pelvis** — 434f, 448, 520
+**Orientation of thumb** — 701
 
-**Oropharyngeal isthmus** — 837, 838f, 852f–853f, 1114  
-&nbsp;&nbsp;&nbsp;&nbsp;closure of — 1108f  
-**Oropharyngeal triangle** — 1046  
-**Oropharynx** — 846f, 1048, 1051, 1069f  
+**Oropharyngeal isthmus** — 837, 838f, 852f–853f, 1114
+&nbsp;&nbsp;&nbsp;&nbsp;closure of — 1108f
+**Oropharyngeal triangle** — 1046
+**Oropharynx** — 846f, 1048, 1051, 1069f
 
-**Ossification of wrist bones** — 14f  
+**Ossification of wrist bones** — 14f
 
-**Osteoarthritis** — 22, 614b  
-**Osteophytes** — 22f  
-**Osteoporosis** — 17b, 77b, 676  
+**Osteoarthritis** — 22, 614b
+**Osteophytes** — 22f
+**Osteoporosis** — 17b, 77b, 676
 
-**Ostomies** — 327b–328b  
+**Ostomies** — 327b–328b
 
-**Outpouchings** — 327f  
+**Outpouchings** — 327f
 
-**Oval window** — 954f, 958f, 960, 971f  
+**Oval window** — 954f, 958f, 960, 971f
 
-**Ovarian arteries** — 498  
-**Ovarian veins** — 501  
-**Ovaries** — 476  
-&nbsp;&nbsp;&nbsp;&nbsp;cancer of — 477b  
-&nbsp;&nbsp;&nbsp;&nbsp;imaging of — 477b  
+**Ovarian arteries** — 498
+**Ovarian veins** — 501
+**Ovaries** — 476
+&nbsp;&nbsp;&nbsp;&nbsp;cancer of — 477b
+&nbsp;&nbsp;&nbsp;&nbsp;imaging of — 477b
 
 ---
 
 ## P
 
-**Pacemaker, broken** — 246b  
+**Pacemaker, broken** — 246b
 
-**Pain**  
-&nbsp;&nbsp;&nbsp;&nbsp;back — 79b, 110b, 118b  
-&nbsp;&nbsp;&nbsp;&nbsp;referred — 48b, 50f  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of cholecystitis — 341  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from gut — 408  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from heart — 209, 244  
-&nbsp;&nbsp;&nbsp;&nbsp;pathways — 397t  
-&nbsp;&nbsp;&nbsp;&nbsp;related to pericardial problem — 183  
+**Pain**
+&nbsp;&nbsp;&nbsp;&nbsp;back — 79b, 110b, 118b
+&nbsp;&nbsp;&nbsp;&nbsp;referred — 48b, 50f
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of cholecystitis — 341
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from gut — 408
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from heart — 209, 244
+&nbsp;&nbsp;&nbsp;&nbsp;pathways — 397t
+&nbsp;&nbsp;&nbsp;&nbsp;related to pericardial problem — 183
 
 ### Palate
 
-**Palate**  
-**hard palate** — 861, 1070f, 1099f, 1105–1106  
-**soft palate** — 846, 852f–853f, 1069f, 1077f, 1106–1110  
+**Palate**
+**hard palate** — 861, 1070f, 1099f, 1105–1106
+**soft palate** — 846, 852f–853f, 1069f, 1077f, 1106–1110
 
-**Palatine aponeurosis** — 1106–1108  
-**Palatine bone** — 973f, 1081f, 1088  
-**Palatine tonsil** — 1044f, 1108f–1109f  
+**Palatine aponeurosis** — 1106–1108
+**Palatine bone** — 973f, 1081f, 1088
+**Palatine tonsil** — 1044f, 1108f–1109f
 
-**Palatoglossal arches** — 1108f  
-**Palatoglossus muscle** — 846f, 1099, 1106t, 1109–1110  
-**Palatopharyngeal sphincter** — 1043  
-**Palatopharyngeus muscle** — 846f, 1044f, 1045, 1106t, 1107f, 1108–1109  
+**Palatoglossal arches** — 1108f
+**Palatoglossus muscle** — 846f, 1099, 1106t, 1109–1110
+**Palatopharyngeal sphincter** — 1043
+**Palatopharyngeus muscle** — 846f, 1044f, 1045, 1106t, 1107f, 1108–1109
 
-**Palatovaginal canal** — 994  
+**Palatovaginal canal** — 994
 
-**Palmar aponeurosis** — 778f, 800  
-**Palmar branch of median nerve** — 817f  
-**Palmar branch of ulnar nerve** — 815f  
-**Palmar brevis muscle** — 800  
-**Palmar digital artery** — 812f  
-**Palmar digital nerves** — 817  
-**Palmar interossei muscles** — 804f, 808t, 809  
-**Palmar metacarpal arteries** — 813f, 814  
-**Palmaris brevis muscle** — 808t  
-**Palmaris longus muscle** — 777  
+**Palmar aponeurosis** — 778f, 800
+**Palmar branch of median nerve** — 817f
+**Palmar branch of ulnar nerve** — 815f
+**Palmar brevis muscle** — 800
+**Palmar digital artery** — 812f
+**Palmar digital nerves** — 817
+**Palmar interossei muscles** — 804f, 808t, 809
+**Palmar metacarpal arteries** — 813f, 814
+**Palmaris brevis muscle** — 808t
+**Palmaris longus muscle** — 777
 
-**Pancreas** — 312f, 333–336  
-&nbsp;&nbsp;&nbsp;&nbsp;arterial supply — 346f  
-&nbsp;&nbsp;&nbsp;&nbsp;cancer of — 336b  
-&nbsp;&nbsp;&nbsp;&nbsp;carcinoma of head of — 417b  
-&nbsp;&nbsp;&nbsp;&nbsp;in relation to kidney — 374f  
-**Pancreatic buds** — 266f–267f  
-**Pancreatic duct** — 335  
+**Pancreas** — 312f, 333–336
+&nbsp;&nbsp;&nbsp;&nbsp;arterial supply — 346f
+&nbsp;&nbsp;&nbsp;&nbsp;cancer of — 336b
+&nbsp;&nbsp;&nbsp;&nbsp;carcinoma of head of — 417b
+&nbsp;&nbsp;&nbsp;&nbsp;in relation to kidney — 374f
+**Pancreatic buds** — 266f–267f
+**Pancreatic duct** — 335
 
 ### Papillae
 
-**Papillae**  
-&nbsp;&nbsp;&nbsp;&nbsp;duodenal — 312–313, 335  
-&nbsp;&nbsp;&nbsp;&nbsp;incisive — 1105f  
-&nbsp;&nbsp;&nbsp;&nbsp;renal — 377f  
-&nbsp;&nbsp;&nbsp;&nbsp;of tongue — 1095  
-**Papillary muscles** — 192, 193f, 194, 196f  
+**Papillae**
+&nbsp;&nbsp;&nbsp;&nbsp;duodenal — 312–313, 335
+&nbsp;&nbsp;&nbsp;&nbsp;incisive — 1105f
+&nbsp;&nbsp;&nbsp;&nbsp;renal — 377f
+&nbsp;&nbsp;&nbsp;&nbsp;of tongue — 1095
+**Papillary muscles** — 192, 193f, 194, 196f
 
-**Para-umbilical hernias** — 302  
-**Para-umbilical veins** — 357  
+**Para-umbilical hernias** — 302
+**Para-umbilical veins** — 357
 
-**Paralysis, muscle** — 26b  
+**Paralysis, muscle** — 26b
 
-**Paranasal sinuses** — 1071f, 1074–1076  
+**Paranasal sinuses** — 1071f, 1074–1076
 
-**Paranephric fat** — 376  
+**Paranephric fat** — 376
 
-**Parasternal nodes** — 131f, 140f, 158, 177f  
+**Parasternal nodes** — 131f, 140f, 158, 177f
 
-**Parasympathetic fibers**  
-&nbsp;&nbsp;&nbsp;&nbsp;to glands within oral cavity — 1088  
-&nbsp;&nbsp;&nbsp;&nbsp;prevertebral plexus — 494  
+**Parasympathetic fibers**
+&nbsp;&nbsp;&nbsp;&nbsp;to glands within oral cavity — 1088
+&nbsp;&nbsp;&nbsp;&nbsp;prevertebral plexus — 494
 
-**Parasympathetic ganglia of head** — 899t  
+**Parasympathetic ganglia of head** — 899t
 
-**Parasympathetic innervation**  
-&nbsp;&nbsp;&nbsp;&nbsp;of abdominal part of GI tract — 361–364  
-&nbsp;&nbsp;&nbsp;&nbsp;of head — 850f  
-&nbsp;&nbsp;&nbsp;&nbsp;of heart — 209  
-&nbsp;&nbsp;&nbsp;&nbsp;of lacrimal gland — 933  
-&nbsp;&nbsp;&nbsp;&nbsp;of nasal cavity — 1086  
-&nbsp;&nbsp;&nbsp;&nbsp;to salivary glands — 1104–1105  
-&nbsp;&nbsp;&nbsp;&nbsp;from spinal cord levels S2 to S4: control of erection — 438  
+**Parasympathetic innervation**
+&nbsp;&nbsp;&nbsp;&nbsp;of abdominal part of GI tract — 361–364
+&nbsp;&nbsp;&nbsp;&nbsp;of head — 850f
+&nbsp;&nbsp;&nbsp;&nbsp;of heart — 209
+&nbsp;&nbsp;&nbsp;&nbsp;of lacrimal gland — 933
+&nbsp;&nbsp;&nbsp;&nbsp;of nasal cavity — 1086
+&nbsp;&nbsp;&nbsp;&nbsp;to salivary glands — 1104–1105
+&nbsp;&nbsp;&nbsp;&nbsp;from spinal cord levels S2 to S4: control of erection — 438
 
-**Parasympathetic root of ciliary ganglion** — 946  
+**Parasympathetic root of ciliary ganglion** — 946
 
-**Parasympathetic system** — 45–46  
+**Parasympathetic system** — 45–46
 
 ### Parathyroid Glands
 
-**Parathyroid glands**  
-&nbsp;&nbsp;&nbsp;&nbsp;in anterior triangle of neck — 1020  
-&nbsp;&nbsp;&nbsp;&nbsp;ectopic — 1022b  
-&nbsp;&nbsp;&nbsp;&nbsp;in thymus — 212b  
+**Parathyroid glands**
+&nbsp;&nbsp;&nbsp;&nbsp;in anterior triangle of neck — 1020
+&nbsp;&nbsp;&nbsp;&nbsp;ectopic — 1022b
+&nbsp;&nbsp;&nbsp;&nbsp;in thymus — 212b
 
 > **臨床重點**：副甲狀腺（Parathyroid glands）位於甲狀腺後方，術中誤傷或切除可致低血鈣，表現為手足抽搐（tetany）。
 
-**Paratracheal nodes** — 1050f  
+**Paratracheal nodes** — 1050f
 
-**Paravertebral sympathetic trunk** — 42, 136f, 492–494  
+**Paravertebral sympathetic trunk** — 42, 136f, 492–494
 
-**Parietal bone** — 859f, 864f  
-**Parietal peritoneum** — 260f  
-**Parietal pleura** — 129f, 151f–152f, 164  
-&nbsp;&nbsp;&nbsp;&nbsp;parts of — 164  
-&nbsp;&nbsp;&nbsp;&nbsp;peripheral reflections of — 165–166  
+**Parietal bone** — 859f, 864f
+**Parietal peritoneum** — 260f
+**Parietal pleura** — 129f, 151f–152f, 164
+&nbsp;&nbsp;&nbsp;&nbsp;parts of — 164
+&nbsp;&nbsp;&nbsp;&nbsp;peripheral reflections of — 165–166
 
-**Parotid duct calculus** — 913, 1130b–1131b  
+**Parotid duct calculus** — 913, 1130b–1131b
 
-**Parotid gland** — 911–912, 1102  
-&nbsp;&nbsp;&nbsp;&nbsp;arterial supply — 912  
-&nbsp;&nbsp;&nbsp;&nbsp;important relationships — 912  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation — 912  
-&nbsp;&nbsp;&nbsp;&nbsp;tumors — 913  
+**Parotid gland** — 911–912, 1102
+&nbsp;&nbsp;&nbsp;&nbsp;arterial supply — 912
+&nbsp;&nbsp;&nbsp;&nbsp;important relationships — 912
+&nbsp;&nbsp;&nbsp;&nbsp;innervation — 912
+&nbsp;&nbsp;&nbsp;&nbsp;tumors — 913
 
 > **臨床重點**：Parotid gland 腫瘤（tumors）以多形性腺瘤（pleomorphic adenoma）最常見，因面神經（facial nerve）穿越其中，手術時須小心保存神經功能。
 
-**Parotid nodes** — 920  
+**Parotid nodes** — 920
 
-**Pars interarticularis fractures** — 83  
+**Pars interarticularis fractures** — 83
 
-**Patella** — 541f, 586  
-&nbsp;&nbsp;&nbsp;&nbsp;cartilage loss — 22f  
-**Patellar ligament** — 593, 611  
+**Patella** — 541f, 586
+&nbsp;&nbsp;&nbsp;&nbsp;cartilage loss — 22f
+**Patellar ligament** — 593, 611
 
-**Patent ductus arteriosus** — 203  
+**Patent ductus arteriosus** — 203
 
-**Pectineal (Cooper's) ligament** — 283  
+**Pectineal (Cooper's) ligament** — 283
 
-**Pectineal line**  
-&nbsp;&nbsp;&nbsp;&nbsp;pelvic bone — 443f, 596f  
-&nbsp;&nbsp;&nbsp;&nbsp;pubis — 444  
-&nbsp;&nbsp;&nbsp;&nbsp;(spiral line), proximal femur — 555f  
+**Pectineal line**
+&nbsp;&nbsp;&nbsp;&nbsp;pelvic bone — 443f, 596f
+&nbsp;&nbsp;&nbsp;&nbsp;pubis — 444
+&nbsp;&nbsp;&nbsp;&nbsp;(spiral line), proximal femur — 555f
 
-**Pectineus muscle** — 594t, 596, 605f  
+**Pectineus muscle** — 594t, 596, 605f
 
-**Pectoral (anterior) nodes** — 748  
+**Pectoral (anterior) nodes** — 748
 
 ### Pectoral Region
 
-**Pectoral region**  
-**breast** — 139–141  
-**muscles**  
-&nbsp;&nbsp;&nbsp;&nbsp;pectoralis major — 142–143  
-&nbsp;&nbsp;&nbsp;&nbsp;pectoralis minor — 143  
-&nbsp;&nbsp;&nbsp;&nbsp;subclavius — 143  
+**Pectoral region**
+**breast** — 139–141
+**muscles**
+&nbsp;&nbsp;&nbsp;&nbsp;pectoralis major — 142–143
+&nbsp;&nbsp;&nbsp;&nbsp;pectoralis minor — 143
+&nbsp;&nbsp;&nbsp;&nbsp;subclavius — 143
 
-**Pectoralis major muscle** — 131f, 142–143, 692f, 695f, 723t, 724, 727f  
-**Pectoralis minor muscle** — 142f, 143, 723t, 725, 733, 736f  
+**Pectoralis major muscle** — 131f, 142–143, 692f, 695f, 723t, 724, 727f
+**Pectoralis minor muscle** — 142f, 143, 723t, 725, 733, 736f
 
-**Pedicles** — 57f  
-&nbsp;&nbsp;&nbsp;&nbsp;lumbar — 67f  
-&nbsp;&nbsp;&nbsp;&nbsp;of vertebrae — 62f, 99f, 108f  
+**Pedicles** — 57f
+&nbsp;&nbsp;&nbsp;&nbsp;lumbar — 67f
+&nbsp;&nbsp;&nbsp;&nbsp;of vertebrae — 62f, 99f, 108f
 
 ### Pelvic Bone & Pelvis
 
-**Pelvic bone** — 53f, 367, 441–444, 541f  
-&nbsp;&nbsp;&nbsp;&nbsp;components of — 443–444  
-&nbsp;&nbsp;&nbsp;&nbsp;and inguinal ligament: gap between — 563  
-&nbsp;&nbsp;&nbsp;&nbsp;lateral and medial views — 442f  
+**Pelvic bone** — 53f, 367, 441–444, 541f
+&nbsp;&nbsp;&nbsp;&nbsp;components of — 443–444
+&nbsp;&nbsp;&nbsp;&nbsp;and inguinal ligament: gap between — 563
+&nbsp;&nbsp;&nbsp;&nbsp;lateral and medial views — 442f
 
-**Pelvic cavity** — 429, 430f  
-&nbsp;&nbsp;&nbsp;&nbsp;continuous with abdominal cavity — 264f  
-&nbsp;&nbsp;&nbsp;&nbsp;orientation of — 263f  
-&nbsp;&nbsp;&nbsp;&nbsp;posterior projection of — 434  
-&nbsp;&nbsp;&nbsp;&nbsp;structures crossing ureters in — 435  
-&nbsp;&nbsp;&nbsp;&nbsp;supportive functions of — 423–425  
+**Pelvic cavity** — 429, 430f
+&nbsp;&nbsp;&nbsp;&nbsp;continuous with abdominal cavity — 264f
+&nbsp;&nbsp;&nbsp;&nbsp;orientation of — 263f
+&nbsp;&nbsp;&nbsp;&nbsp;posterior projection of — 434
+&nbsp;&nbsp;&nbsp;&nbsp;structures crossing ureters in — 435
+&nbsp;&nbsp;&nbsp;&nbsp;supportive functions of — 423–425
 
-**Pelvic diaphragm** — 429, 454–456  
+**Pelvic diaphragm** — 429, 454–456
 
-**Pelvic extensions of prevertebral plexus** — 492f–493f, 494  
+**Pelvic extensions of prevertebral plexus** — 492f–493f, 494
 
-**Pelvic floor** — 429  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation from spinal cord levels S2 to S4 — 438  
-&nbsp;&nbsp;&nbsp;&nbsp;muscles and fascia, intersection at perineal body — 439  
-&nbsp;&nbsp;&nbsp;&nbsp;pelvic diaphragm — 454–456  
-&nbsp;&nbsp;&nbsp;&nbsp;perineal membrane and deep perineal pouch — 457–459  
+**Pelvic floor** — 429
+&nbsp;&nbsp;&nbsp;&nbsp;innervation from spinal cord levels S2 to S4 — 438
+&nbsp;&nbsp;&nbsp;&nbsp;muscles and fascia, intersection at perineal body — 439
+&nbsp;&nbsp;&nbsp;&nbsp;pelvic diaphragm — 454–456
+&nbsp;&nbsp;&nbsp;&nbsp;perineal membrane and deep perineal pouch — 457–459
 
-**Pelvic inlet** — 255, 259f, 263, 379f, 426, 430f, 435f, 449f  
+**Pelvic inlet** — 255, 259f, 263, 379f, 426, 430f, 435f, 449f
 
-**Pelvic kidney** — 528b  
+**Pelvic kidney** — 528b
 
 > **臨床重點**：Pelvic kidney（骨盆腔腎）為腎臟發育停滯於骨盆腔內，屬於腎臟異位（renal ectopia）的一種，常伴隨血管供應異常。
 
-**Pelvic measurements in obstetrics** — 454b  
+**Pelvic measurements in obstetrics** — 454b
 
-**Pelvic outlet** — 428, 453  
+**Pelvic outlet** — 428, 453
 
-**Pelvic splanchnic nerves** — 276f, 361, 363–364, 487–488, 487f  
-&nbsp;&nbsp;&nbsp;&nbsp;control of erection — 438f  
+**Pelvic splanchnic nerves** — 276f, 361, 363–364, 487–488, 487f
+&nbsp;&nbsp;&nbsp;&nbsp;control of erection — 438f
 
-**Pelvic viscera**  
-&nbsp;&nbsp;&nbsp;&nbsp;sympathetic innervation — 44–45  
-&nbsp;&nbsp;&nbsp;&nbsp;T2 MRI — 5f  
+**Pelvic viscera**
+&nbsp;&nbsp;&nbsp;&nbsp;sympathetic innervation — 44–45
+&nbsp;&nbsp;&nbsp;&nbsp;T2 MRI — 5f
 
-**Pelvic walls** — 426, 427f  
-&nbsp;&nbsp;&nbsp;&nbsp;apertures in — 452–453  
-&nbsp;&nbsp;&nbsp;&nbsp;ligaments — 450  
-&nbsp;&nbsp;&nbsp;&nbsp;muscles — 450–451  
+**Pelvic walls** — 426, 427f
+&nbsp;&nbsp;&nbsp;&nbsp;apertures in — 452–453
+&nbsp;&nbsp;&nbsp;&nbsp;ligaments — 450
+&nbsp;&nbsp;&nbsp;&nbsp;muscles — 450–451
 
 ### Pelvis — *See also* True Pelvis
 
-**Pelvis**  
-**arteries** — 495–498  
-&nbsp;&nbsp;&nbsp;&nbsp;internal iliac artery — 496–498  
-&nbsp;&nbsp;&nbsp;&nbsp;median sacral artery — 498  
-&nbsp;&nbsp;&nbsp;&nbsp;ovarian arteries — 498  
-**bones**  
-&nbsp;&nbsp;&nbsp;&nbsp;coccyx — 445  
-&nbsp;&nbsp;&nbsp;&nbsp;pelvic bone — 441–444  
-&nbsp;&nbsp;&nbsp;&nbsp;sacrum — 444–445  
-**CT scan** — 11f  
-**fascia** — 481, 482f  
-**fracture** — 446b, 553b–554b  
-**gender differences** — 448  
-**joints**  
-&nbsp;&nbsp;&nbsp;&nbsp;lumbosacral — 446  
-&nbsp;&nbsp;&nbsp;&nbsp;pubic symphysis — 448  
-&nbsp;&nbsp;&nbsp;&nbsp;sacroiliac — 446–447  
-**lymphatics** — 501–502  
-**nerves**  
-&nbsp;&nbsp;&nbsp;&nbsp;related to bone — 437  
-&nbsp;&nbsp;&nbsp;&nbsp;somatic plexuses — 486–492  
-&nbsp;&nbsp;&nbsp;&nbsp;visceral plexuses — 492–494  
-**orientation of** — 434f, 448, 520  
-**palpable bony features** — 520  
-**peritoneum** — 481–485, 484f–485f  
-**relationship to**  
-&nbsp;&nbsp;&nbsp;&nbsp;abdomen — 263–264, 432  
-&nbsp;&nbsp;&nbsp;&nbsp;back — 62  
-&nbsp;&nbsp;&nbsp;&nbsp;lower limb — 433, 545  
-**veins** — 499–501  
-**viscera**  
-&nbsp;&nbsp;&nbsp;&nbsp;GI system — 460–462  
-&nbsp;&nbsp;&nbsp;&nbsp;reproductive system — 470–481  
-&nbsp;&nbsp;&nbsp;&nbsp;urinary system — 462–468  
+**Pelvis**
+**arteries** — 495–498
+&nbsp;&nbsp;&nbsp;&nbsp;internal iliac artery — 496–498
+&nbsp;&nbsp;&nbsp;&nbsp;median sacral artery — 498
+&nbsp;&nbsp;&nbsp;&nbsp;ovarian arteries — 498
+**bones**
+&nbsp;&nbsp;&nbsp;&nbsp;coccyx — 445
+&nbsp;&nbsp;&nbsp;&nbsp;pelvic bone — 441–444
+&nbsp;&nbsp;&nbsp;&nbsp;sacrum — 444–445
+**CT scan** — 11f
+**fascia** — 481, 482f
+**fracture** — 446b, 553b–554b
+**gender differences** — 448
+**joints**
+&nbsp;&nbsp;&nbsp;&nbsp;lumbosacral — 446
+&nbsp;&nbsp;&nbsp;&nbsp;pubic symphysis — 448
+&nbsp;&nbsp;&nbsp;&nbsp;sacroiliac — 446–447
+**lymphatics** — 501–502
+**nerves**
+&nbsp;&nbsp;&nbsp;&nbsp;related to bone — 437
+&nbsp;&nbsp;&nbsp;&nbsp;somatic plexuses — 486–492
+&nbsp;&nbsp;&nbsp;&nbsp;visceral plexuses — 492–494
+**orientation of** — 434f, 448, 520
+**palpable bony features** — 520
+**peritoneum** — 481–485, 484f–485f
+**relationship to**
+&nbsp;&nbsp;&nbsp;&nbsp;abdomen — 263–264, 432
+&nbsp;&nbsp;&nbsp;&nbsp;back — 62
+&nbsp;&nbsp;&nbsp;&nbsp;lower limb — 433, 545
+**veins** — 499–501
+**viscera**
+&nbsp;&nbsp;&nbsp;&nbsp;GI system — 460–462
+&nbsp;&nbsp;&nbsp;&nbsp;reproductive system — 470–481
+&nbsp;&nbsp;&nbsp;&nbsp;urinary system — 462–468
 
-**Penis** — 467f–468f  
-&nbsp;&nbsp;&nbsp;&nbsp;body of — 508  
-&nbsp;&nbsp;&nbsp;&nbsp;bulb of — 525f–526f  
-&nbsp;&nbsp;&nbsp;&nbsp;dorsal nerve of — 514f–515f, 515  
-&nbsp;&nbsp;&nbsp;&nbsp;root of — 457f–458f  
+**Penis** — 467f–468f
+&nbsp;&nbsp;&nbsp;&nbsp;body of — 508
+&nbsp;&nbsp;&nbsp;&nbsp;bulb of — 525f–526f
+&nbsp;&nbsp;&nbsp;&nbsp;dorsal nerve of — 514f–515f, 515
+&nbsp;&nbsp;&nbsp;&nbsp;root of — 457f–458f
 
-**Perforating arteries**  
-&nbsp;&nbsp;&nbsp;&nbsp;of sole of foot — 657f  
-&nbsp;&nbsp;&nbsp;&nbsp;of thigh — 601f, 602  
+**Perforating arteries**
+&nbsp;&nbsp;&nbsp;&nbsp;of sole of foot — 657f
+&nbsp;&nbsp;&nbsp;&nbsp;of thigh — 601f, 602
 
-**Perforating cutaneous nerve** — 486f, 491, 564t–565t, 566, 580  
+**Perforating cutaneous nerve** — 486f, 491, 564t–565t, 566, 580
 
-**Perforation of tympanic membrane** — 958b  
+**Perforation of tympanic membrane** — 958b
 
-**Pericardiacophrenic vessels** — 182f  
+**Pericardiacophrenic vessels** — 182f
 
-**Pericardial branches of thoracic aorta** — 225t  
+**Pericardial branches of thoracic aorta** — 225t
 
-**Pericardial effusion** — 184b  
+**Pericardial effusion** — 184b
 
-**Pericardial sac** — 212f, 220f  
+**Pericardial sac** — 212f, 220f
 
-**Pericarditis** — 184b  
+**Pericarditis** — 184b
 
-**Pericardium** — 138f  
-&nbsp;&nbsp;&nbsp;&nbsp;fibrous — 181–182  
-&nbsp;&nbsp;&nbsp;&nbsp;nerves — 183  
-&nbsp;&nbsp;&nbsp;&nbsp;pericardiacophrenic vessels — 182f  
-&nbsp;&nbsp;&nbsp;&nbsp;serous — 182–183  
+**Pericardium** — 138f
+&nbsp;&nbsp;&nbsp;&nbsp;fibrous — 181–182
+&nbsp;&nbsp;&nbsp;&nbsp;nerves — 183
+&nbsp;&nbsp;&nbsp;&nbsp;pericardiacophrenic vessels — 182f
+&nbsp;&nbsp;&nbsp;&nbsp;serous — 182–183
 
-**Pericranial ring** — 30f  
+**Pericranial ring** — 30f
 
-**Pericranium** — 923  
+**Pericranium** — 923
 
-**Perilymph** — 965  
+**Perilymph** — 965
 
-**Perineal artery** — 516, 517f  
-**Perineal body** — 439, 459–460, 509f  
-**Perineal membrane** — 429, 431f, 457–459, 502  
-**Perineal nerve** — 515  
+**Perineal artery** — 516, 517f
+**Perineal body** — 439, 459–460, 509f
+**Perineal membrane** — 429, 431f, 457–459, 502
+**Perineal nerve** — 515
 
 ### Perineum
 
-**Perineum**  
-**anal triangle** — 504, 522  
-**arteries** — 516, 517f  
-**borders and ceiling** — 502, 503f  
-**communication with other regions** — 432f–433f  
-**defining margins of** — 520–522  
-**innervation by sacral spinal cord segments** — 436  
-**ischioanal fossae and recesses** — 504, 505f  
-**lymphatics** — 519  
-**muscles and fascia, intersection at perineal body** — 439  
-**nerves related to bone** — 437  
-**orientation of** — 520  
-**relationship to lower limb** — 545  
-**roots of external genitalia anchored in** — 425  
-**somatic nerves** — 513–515  
-**triangular regions** — 430  
-**urogenital triangle**  
-&nbsp;&nbsp;&nbsp;&nbsp;external genitalia — 510–512  
-&nbsp;&nbsp;&nbsp;&nbsp;female — 523–524  
-&nbsp;&nbsp;&nbsp;&nbsp;male — 524–525  
-&nbsp;&nbsp;&nbsp;&nbsp;structures in superficial perineal pouch — 506–510  
-**superficial fascia of** — 512  
-**veins** — 516–519  
-**visceral nerves** — 515  
+**Perineum**
+**anal triangle** — 504, 522
+**arteries** — 516, 517f
+**borders and ceiling** — 502, 503f
+**communication with other regions** — 432f–433f
+**defining margins of** — 520–522
+**innervation by sacral spinal cord segments** — 436
+**ischioanal fossae and recesses** — 504, 505f
+**lymphatics** — 519
+**muscles and fascia, intersection at perineal body** — 439
+**nerves related to bone** — 437
+**orientation of** — 520
+**relationship to lower limb** — 545
+**roots of external genitalia anchored in** — 425
+**somatic nerves** — 513–515
+**triangular regions** — 430
+**urogenital triangle**
+&nbsp;&nbsp;&nbsp;&nbsp;external genitalia — 510–512
+&nbsp;&nbsp;&nbsp;&nbsp;female — 523–524
+&nbsp;&nbsp;&nbsp;&nbsp;male — 524–525
+&nbsp;&nbsp;&nbsp;&nbsp;structures in superficial perineal pouch — 506–510
+**superficial fascia of** — 512
+**veins** — 516–519
+**visceral nerves** — 515
 
-**Periorbita** — 935–936  
+**Periorbita** — 935–936
 
-**Periosteal layer of dura mater** — 873  
+**Periosteal layer of dura mater** — 873
 
-**Periosteum** — 929f, 935f  
+**Periosteum** — 929f, 935f
 
-**Peripheral nervous system (PNS)** — 32f  
-&nbsp;&nbsp;&nbsp;&nbsp;autonomic division — 38  
-&nbsp;&nbsp;&nbsp;&nbsp;enteric system — 47–48  
-&nbsp;&nbsp;&nbsp;&nbsp;nerve plexuses — 48  
-&nbsp;&nbsp;&nbsp;&nbsp;parasympathetic system — 45–46  
-&nbsp;&nbsp;&nbsp;&nbsp;somatic plexuses — 48  
-&nbsp;&nbsp;&nbsp;&nbsp;sympathetic system — 40–45  
-&nbsp;&nbsp;&nbsp;&nbsp;visceral plexuses — 48  
-&nbsp;&nbsp;&nbsp;&nbsp;visceral sensory and motor fibers — 39  
+**Peripheral nervous system (PNS)** — 32f
+&nbsp;&nbsp;&nbsp;&nbsp;autonomic division — 38
+&nbsp;&nbsp;&nbsp;&nbsp;enteric system — 47–48
+&nbsp;&nbsp;&nbsp;&nbsp;nerve plexuses — 48
+&nbsp;&nbsp;&nbsp;&nbsp;parasympathetic system — 45–46
+&nbsp;&nbsp;&nbsp;&nbsp;somatic plexuses — 48
+&nbsp;&nbsp;&nbsp;&nbsp;sympathetic system — 40–45
+&nbsp;&nbsp;&nbsp;&nbsp;visceral plexuses — 48
+&nbsp;&nbsp;&nbsp;&nbsp;visceral sensory and motor fibers — 39
 
-**Peripheral reflections of parietal pleura** — 165–166  
+**Peripheral reflections of parietal pleura** — 165–166
 
-**Peripheral vascular disease** — 603b  
+**Peripheral vascular disease** — 603b
 
-**Peritoneal cavity** — 255, 255f–256f  
-&nbsp;&nbsp;&nbsp;&nbsp;dialysis — 305–306  
-&nbsp;&nbsp;&nbsp;&nbsp;ligaments — 309  
-&nbsp;&nbsp;&nbsp;&nbsp;mesenteries — 309  
-&nbsp;&nbsp;&nbsp;&nbsp;omenta — 307  
-&nbsp;&nbsp;&nbsp;&nbsp;spread of disease — 306  
-&nbsp;&nbsp;&nbsp;&nbsp;subdivisions — 304–309  
-&nbsp;&nbsp;&nbsp;&nbsp;ventriculoperitoneal shunts — 305  
+**Peritoneal cavity** — 255, 255f–256f
+&nbsp;&nbsp;&nbsp;&nbsp;dialysis — 305–306
+&nbsp;&nbsp;&nbsp;&nbsp;ligaments — 309
+&nbsp;&nbsp;&nbsp;&nbsp;mesenteries — 309
+&nbsp;&nbsp;&nbsp;&nbsp;omenta — 307
+&nbsp;&nbsp;&nbsp;&nbsp;spread of disease — 306
+&nbsp;&nbsp;&nbsp;&nbsp;subdivisions — 304–309
+&nbsp;&nbsp;&nbsp;&nbsp;ventriculoperitoneal shunts — 305
 
-**Peritoneal dialysis** — 305–306  
+**Peritoneal dialysis** — 305–306
 
-**Peritoneum** — 47f, 288, 430f  
-&nbsp;&nbsp;&nbsp;&nbsp;abdominal, innervation — 303  
-&nbsp;&nbsp;&nbsp;&nbsp;pelvic — 481–485  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in men — 485  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in women — 483  
+**Peritoneum** — 47f, 288, 430f
+&nbsp;&nbsp;&nbsp;&nbsp;abdominal, innervation — 303
+&nbsp;&nbsp;&nbsp;&nbsp;pelvic — 481–485
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in men — 485
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in women — 483
 
-**Pes anserinus** — 592f, 593, 595f  
+**Pes anserinus** — 592f, 593, 595f
 
-**Petromastoid part of temporal bone** — 858  
+**Petromastoid part of temporal bone** — 858
 
-**Petrotympanic fissure** — 951f  
+**Petrotympanic fissure** — 951f
 
-**Phalanges**  
-&nbsp;&nbsp;&nbsp;&nbsp;of foot — 633f, 637f, 638  
-&nbsp;&nbsp;&nbsp;&nbsp;of hand — 690f, 794f–795f, 795  
+**Phalanges**
+&nbsp;&nbsp;&nbsp;&nbsp;of foot — 633f, 637f, 638
+&nbsp;&nbsp;&nbsp;&nbsp;of hand — 690f, 794f–795f, 795
 
-**Pharyngeal branch of maxillary artery** — 999  
-**Pharyngeal nerve** — 996  
-**Pharyngeal plexus** — 1051  
-**Pharyngeal surface of tongue** — 1096  
-**Pharyngeal tonsil** — 1046  
-**Pharyngobasilar fascia** — 1045  
-**Pharyngotympanic tube** — 954f, 966f, 1046–1048  
-&nbsp;&nbsp;&nbsp;&nbsp;cartilaginous part — 1090  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation — 961  
-&nbsp;&nbsp;&nbsp;&nbsp;vessels — 961  
+**Pharyngeal branch of maxillary artery** — 999
+**Pharyngeal nerve** — 996
+**Pharyngeal plexus** — 1051
+**Pharyngeal surface of tongue** — 1096
+**Pharyngeal tonsil** — 1046
+**Pharyngobasilar fascia** — 1045
+**Pharyngotympanic tube** — 954f, 966f, 1046–1048
+&nbsp;&nbsp;&nbsp;&nbsp;cartilaginous part — 1090
+&nbsp;&nbsp;&nbsp;&nbsp;innervation — 961
+&nbsp;&nbsp;&nbsp;&nbsp;vessels — 961
 
 ### Pharynx
 
-**Pharynx** — 840f, 851–852, 1040–1052  
-&nbsp;&nbsp;&nbsp;&nbsp;in anterior triangle of neck — 1017  
-&nbsp;&nbsp;&nbsp;&nbsp;arteries — 1049  
-&nbsp;&nbsp;&nbsp;&nbsp;fascia — 1043f, 1045  
-&nbsp;&nbsp;&nbsp;&nbsp;laryngopharynx — 1048  
-&nbsp;&nbsp;&nbsp;&nbsp;lymphatics — 1050  
-&nbsp;&nbsp;&nbsp;&nbsp;nasopharynx — 1046–1048  
-&nbsp;&nbsp;&nbsp;&nbsp;nerves — 1051–1052  
-&nbsp;&nbsp;&nbsp;&nbsp;oropharynx — 1048  
-&nbsp;&nbsp;&nbsp;&nbsp;pharyngeal wall  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gaps in — 1046  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lateral — 1042  
-&nbsp;&nbsp;&nbsp;&nbsp;muscles — 1042–1045  
-&nbsp;&nbsp;&nbsp;&nbsp;skeletal framework — 1041–1042  
-&nbsp;&nbsp;&nbsp;&nbsp;tonsils — 1048  
-&nbsp;&nbsp;&nbsp;&nbsp;veins — 1050  
+**Pharynx** — 840f, 851–852, 1040–1052
+&nbsp;&nbsp;&nbsp;&nbsp;in anterior triangle of neck — 1017
+&nbsp;&nbsp;&nbsp;&nbsp;arteries — 1049
+&nbsp;&nbsp;&nbsp;&nbsp;fascia — 1043f, 1045
+&nbsp;&nbsp;&nbsp;&nbsp;laryngopharynx — 1048
+&nbsp;&nbsp;&nbsp;&nbsp;lymphatics — 1050
+&nbsp;&nbsp;&nbsp;&nbsp;nasopharynx — 1046–1048
+&nbsp;&nbsp;&nbsp;&nbsp;nerves — 1051–1052
+&nbsp;&nbsp;&nbsp;&nbsp;oropharynx — 1048
+&nbsp;&nbsp;&nbsp;&nbsp;pharyngeal wall
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gaps in — 1046
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lateral — 1042
+&nbsp;&nbsp;&nbsp;&nbsp;muscles — 1042–1045
+&nbsp;&nbsp;&nbsp;&nbsp;skeletal framework — 1041–1042
+&nbsp;&nbsp;&nbsp;&nbsp;tonsils — 1048
+&nbsp;&nbsp;&nbsp;&nbsp;veins — 1050
 
-**Philtrum** — 1113f, 1114, 1125f  
+**Philtrum** — 1113f, 1114, 1125f
 
-**Phonation, function of larynx** — 1064f, 1065  
+**Phonation, function of larynx** — 1064f, 1065
 
-**Phrenic nerves** — 161f, 214f, 218f, 221, 369f, 851f  
-&nbsp;&nbsp;&nbsp;&nbsp;innervation of diaphragm — 138f  
-&nbsp;&nbsp;&nbsp;&nbsp;in posterior triangle of neck — 1028  
-&nbsp;&nbsp;&nbsp;&nbsp;in root of neck — 1033–1036  
+**Phrenic nerves** — 161f, 214f, 218f, 221, 369f, 851f
+&nbsp;&nbsp;&nbsp;&nbsp;innervation of diaphragm — 138f
+&nbsp;&nbsp;&nbsp;&nbsp;in posterior triangle of neck — 1028
+&nbsp;&nbsp;&nbsp;&nbsp;in root of neck — 1033–1036
 
-**Pia mater** — 59f–60f, 103f, 104, 876f, 877, 886f  
+**Pia mater** — 59f–60f, 103f, 104, 876f, 877, 886f
 
-**Piriform aperture** — 855f  
-**Piriform fossa** — 1047f  
-**Piriformis muscle** — 426, 427f, 451, 575t, 576, 605f  
-&nbsp;&nbsp;&nbsp;&nbsp;nerve to — 491  
+**Piriform aperture** — 855f
+**Piriform fossa** — 1047f
+**Piriformis muscle** — 426, 427f, 451, 575t, 576, 605f
+&nbsp;&nbsp;&nbsp;&nbsp;nerve to — 491
 
-**Pisiform bone** — 778f, 793  
-**Pisohamate ligament** — 778f  
+**Pisiform bone** — 778f, 793
+**Pisohamate ligament** — 778f
 
-**Pituitary fossa** — 1076f  
-**Pituitary gland** — macroadenoma — 1135b  
+**Pituitary fossa** — 1076f
+**Pituitary gland** — macroadenoma — 1135b
 
 > **臨床重點**：Pituitary macroadenoma（腦下垂體巨腺瘤）可壓迫視交叉（optic chiasm）導致雙顳側偏盲（bitemporal hemianopia），為顱內腫瘤的重要定位徵象。
 
-**Pivot joints** — 20  
-**Pivot shift test** — 614–615  
+**Pivot joints** — 20
+**Pivot shift test** — 614–615
 
 ### Plain Radiography
 
-**Plain radiography**  
-&nbsp;&nbsp;&nbsp;&nbsp;attenuation of X-rays — 5  
-&nbsp;&nbsp;&nbsp;&nbsp;contrast agents — 6  
-&nbsp;&nbsp;&nbsp;&nbsp;interpretation of images — 10  
-&nbsp;&nbsp;&nbsp;&nbsp;subtraction angiography — 6  
+**Plain radiography**
+&nbsp;&nbsp;&nbsp;&nbsp;attenuation of X-rays — 5
+&nbsp;&nbsp;&nbsp;&nbsp;contrast agents — 6
+&nbsp;&nbsp;&nbsp;&nbsp;interpretation of images — 10
+&nbsp;&nbsp;&nbsp;&nbsp;subtraction angiography — 6
 
-**Plane joints** — 20  
+**Plane joints** — 20
 
 ### Planes
 
-**Planes**  
-&nbsp;&nbsp;&nbsp;&nbsp;anatomical — 2–4  
-&nbsp;&nbsp;&nbsp;&nbsp;of four-quadrant pattern — 277f  
-&nbsp;&nbsp;&nbsp;&nbsp;L1 (transpyloric) — 271f  
-&nbsp;&nbsp;&nbsp;&nbsp;of nine-region pattern — 275f, 328f  
+**Planes**
+&nbsp;&nbsp;&nbsp;&nbsp;anatomical — 2–4
+&nbsp;&nbsp;&nbsp;&nbsp;of four-quadrant pattern — 277f
+&nbsp;&nbsp;&nbsp;&nbsp;L1 (transpyloric) — 271f
+&nbsp;&nbsp;&nbsp;&nbsp;of nine-region pattern — 275f, 328f
 
-**Plantar aponeurosis** — 648f, 649  
-**Plantar arch** — 657f  
-**Plantar calcaneocuboid ligament** — 644  
-**Plantar calcaneonavicular ligament** — 641f, 643–644, 648f  
-**Plantar interossei muscles** — 656–657  
-**Plantarflexion, ankle** — 539f  
+**Plantar aponeurosis** — 648f, 649
+**Plantar arch** — 657f
+**Plantar calcaneocuboid ligament** — 644
+**Plantar calcaneonavicular ligament** — 641f, 643–644, 648f
+**Plantar interossei muscles** — 656–657
+**Plantarflexion, ankle** — 539f
 
-**Plaque, atheromatous** — 885  
+**Plaque, atheromatous** — 885
 
-**Platysma muscle** — 904f, 910, 1000  
+**Platysma muscle** — 904f, 910, 1000
 
 ### Pleura
 
-**Pleura**  
-&nbsp;&nbsp;&nbsp;&nbsp;parietal — 129f, 151f–152f, 164–166  
-&nbsp;&nbsp;&nbsp;&nbsp;types of — 163  
-&nbsp;&nbsp;&nbsp;&nbsp;visceral — 129f, 151f–152f, 166  
+**Pleura**
+&nbsp;&nbsp;&nbsp;&nbsp;parietal — 129f, 151f–152f, 164–166
+&nbsp;&nbsp;&nbsp;&nbsp;types of — 163
+&nbsp;&nbsp;&nbsp;&nbsp;visceral — 129f, 151f–152f, 166
 
-**Pleural cavities** — 129f, 151f–152f  
-&nbsp;&nbsp;&nbsp;&nbsp;lungs — 167–178  
-&nbsp;&nbsp;&nbsp;&nbsp;pleura — 163–167  
-&nbsp;&nbsp;&nbsp;&nbsp;potential space of — 128  
-&nbsp;&nbsp;&nbsp;&nbsp;surrounding lungs — 162  
-&nbsp;&nbsp;&nbsp;&nbsp;visualizing — 236–238  
+**Pleural cavities** — 129f, 151f–152f
+&nbsp;&nbsp;&nbsp;&nbsp;lungs — 167–178
+&nbsp;&nbsp;&nbsp;&nbsp;pleura — 163–167
+&nbsp;&nbsp;&nbsp;&nbsp;potential space of — 128
+&nbsp;&nbsp;&nbsp;&nbsp;surrounding lungs — 162
+&nbsp;&nbsp;&nbsp;&nbsp;visualizing — 236–238
 
 > **臨床重點**：Pleural effusion（肋膜積液）與 Pneumothorax（氣胸）為胸部影像學常見發現，前者積液呈暗色超聲陰影，後者可見肺組織塌陷。
 
-**Pleural recesses** — 166–167  
-&nbsp;&nbsp;&nbsp;&nbsp;visualizing — 236–238  
+**Pleural recesses** — 166–167
+&nbsp;&nbsp;&nbsp;&nbsp;visualizing — 236–238
 
-**Pneumonia** — 249b  
-**Pneumothorax** — 167b  
+**Pneumonia** — 249b
+**Pneumothorax** — 167b
 
-**Pons** — 879f–880f  
+**Pons** — 879f–880f
 
-**Popliteal artery** — 617, 626–627, 673f  
-&nbsp;&nbsp;&nbsp;&nbsp;aneurysm — 679b  
+**Popliteal artery** — 617, 626–627, 673f
+&nbsp;&nbsp;&nbsp;&nbsp;aneurysm — 679b
 
-**Popliteal fossa** — 537, 583f  
-&nbsp;&nbsp;&nbsp;&nbsp;popliteal artery and vein — 617  
-&nbsp;&nbsp;&nbsp;&nbsp;roof of — 617  
-&nbsp;&nbsp;&nbsp;&nbsp;tibial and common fibular nerves — 617  
-&nbsp;&nbsp;&nbsp;&nbsp;transitional area between thigh and leg — 616–617  
-&nbsp;&nbsp;&nbsp;&nbsp;visualizing contents of — 666  
+**Popliteal fossa** — 537, 583f
+&nbsp;&nbsp;&nbsp;&nbsp;popliteal artery and vein — 617
+&nbsp;&nbsp;&nbsp;&nbsp;roof of — 617
+&nbsp;&nbsp;&nbsp;&nbsp;tibial and common fibular nerves — 617
+&nbsp;&nbsp;&nbsp;&nbsp;transitional area between thigh and leg — 616–617
+&nbsp;&nbsp;&nbsp;&nbsp;visualizing contents of — 666
 
-**Popliteal nodes** — 570f, 571  
+**Popliteal nodes** — 570f, 571
 
-**Popliteal pulse** — 671f  
+**Popliteal pulse** — 671f
 
-**Popliteal tendon** — 607f–608f  
+**Popliteal tendon** — 607f–608f
 
-**Popliteal vein** — 568f, 617  
+**Popliteal vein** — 568f, 617
 
-**Popliteus muscle** — 623–624  
+**Popliteus muscle** — 623–624
 
-**Portacath** — 251  
-**Portacaval anastomoses** — 275  
+**Portacath** — 251
+**Portacaval anastomoses** — 275
 
-**Portal hypertension** — 275  
+**Portal hypertension** — 275
 
-**Portal vein** — 305f, 330f, 348f, 354–356  
-**Portosystemic anastomosis** — 356–357  
+**Portal vein** — 305f, 330f, 348f, 354–356
+**Portosystemic anastomosis** — 356–357
 
-**Positions of appendix** — 321f  
+**Positions of appendix** — 321f
 
-**Positron emission tomography (PET)** — 9–10  
-&nbsp;&nbsp;&nbsp;&nbsp;FDG, showing lung tumor — 179f  
+**Positron emission tomography (PET)** — 9–10
+&nbsp;&nbsp;&nbsp;&nbsp;FDG, showing lung tumor — 179f
 
 ### Posterior Abdominal Region
 
-**Posterior abdominal region** — 366–401  
-**lymphatic system** — 392–393  
-**nervous system in** — 394  
-**posterior abdominal wall**  
-&nbsp;&nbsp;&nbsp;&nbsp;bones — 367–371  
-&nbsp;&nbsp;&nbsp;&nbsp;muscles — 368  
-&nbsp;&nbsp;&nbsp;&nbsp;sympathetic trunks and splanchnic nerves — 394–401  
-**vasculature**  
-&nbsp;&nbsp;&nbsp;&nbsp;abdominal aorta — 387–389  
-&nbsp;&nbsp;&nbsp;&nbsp;inferior vena cava — 390–391  
+**Posterior abdominal region** — 366–401
+**lymphatic system** — 392–393
+**nervous system in** — 394
+**posterior abdominal wall**
+&nbsp;&nbsp;&nbsp;&nbsp;bones — 367–371
+&nbsp;&nbsp;&nbsp;&nbsp;muscles — 368
+&nbsp;&nbsp;&nbsp;&nbsp;sympathetic trunks and splanchnic nerves — 394–401
+**vasculature**
+&nbsp;&nbsp;&nbsp;&nbsp;abdominal aorta — 387–389
+&nbsp;&nbsp;&nbsp;&nbsp;inferior vena cava — 390–391
 
-**viscera**  
-&nbsp;&nbsp;&nbsp;&nbsp;kidneys — 373–378  
-&nbsp;&nbsp;&nbsp;&nbsp;suprarenal glands — 386–387  
-&nbsp;&nbsp;&nbsp;&nbsp;ureters — 379–380  
+**viscera**
+&nbsp;&nbsp;&nbsp;&nbsp;kidneys — 373–378
+&nbsp;&nbsp;&nbsp;&nbsp;suprarenal glands — 386–387
+&nbsp;&nbsp;&nbsp;&nbsp;ureters — 379–380
 
-**Posterior auricular artery** — 1012t, 1013  
-**Posterior auricular muscle** — 905t–906t  
-**Posterior auricular vein** — 926  
+**Posterior auricular artery** — 1012t, 1013
+**Posterior auricular muscle** — 905t–906t
+**Posterior auricular vein** — 926
 
-**Posterior branch of obturator nerve** — 604  
+**Posterior branch of obturator nerve** — 604
 
-**Posterior branches of abdominal aorta**  
-&nbsp;&nbsp;&nbsp;&nbsp;inferior phrenic arteries — 388  
-&nbsp;&nbsp;&nbsp;&nbsp;lumbar arteries — 388–389  
-&nbsp;&nbsp;&nbsp;&nbsp;median sacral artery — 389  
+**Posterior branches of abdominal aorta**
+&nbsp;&nbsp;&nbsp;&nbsp;inferior phrenic arteries — 388
+&nbsp;&nbsp;&nbsp;&nbsp;lumbar arteries — 388–389
+&nbsp;&nbsp;&nbsp;&nbsp;median sacral artery — 389
 
-**Posterior cardiac vein** — 204  
-**Posterior commissure** — 81f  
+**Posterior cardiac vein** — 204
+**Posterior commissure** — 81f
 
 > **臨床重點**：Posterior communicating artery aneurysm（後交通动脉瘤）是顱內動脈瘤常見類型，破裂可致蛛網膜下腔出血（subarachnoid hemorrhage），表現為「雷擊式頭痛」（thunderclap headache）。
 
-**Posterior circumflex humeral artery** — 720f, 721, 735  
+**Posterior circumflex humeral artery** — 720f, 721, 735
 
-**Posterior compartment of arm** — 693f, 750f  
-&nbsp;&nbsp;&nbsp;&nbsp;triceps brachii muscle — 755–756  
+**Posterior compartment of arm** — 693f, 750f
+&nbsp;&nbsp;&nbsp;&nbsp;triceps brachii muscle — 755–756
 
-**Posterior compartment of forearm** — 693f, 771f  
-&nbsp;&nbsp;&nbsp;&nbsp;arteries and veins — 791–792  
-&nbsp;&nbsp;&nbsp;&nbsp;muscles  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep layer — 788–790  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;superficial layer — 785–788  
-&nbsp;&nbsp;&nbsp;&nbsp;nerves — 792  
+**Posterior compartment of forearm** — 693f, 771f
+&nbsp;&nbsp;&nbsp;&nbsp;arteries and veins — 791–792
+&nbsp;&nbsp;&nbsp;&nbsp;muscles
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deep layer — 788–790
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;superficial layer — 785–788
+&nbsp;&nbsp;&nbsp;&nbsp;nerves — 792
 
-**Posterior compartment of leg** — 544f  
-&nbsp;&nbsp;&nbsp;&nbsp;arteries — 626–627  
-&nbsp;&nbsp;&nbsp;&nbsp;muscles — 621–625  
-&nbsp;&nbsp;&nbsp;&nbsp;nerves — 548f, 627–628  
+**Posterior compartment of leg** — 544f
+&nbsp;&nbsp;&nbsp;&nbsp;arteries — 626–627
+&nbsp;&nbsp;&nbsp;&nbsp;muscles — 621–625
+&nbsp;&nbsp;&nbsp;&nbsp;nerves — 548f, 627–628
 
-**Posterior compartment of thigh** — 584, 589, 595f, 601f  
+**Posterior compartment of thigh** — 584, 589, 595f, 601f
 
 # Gray's Anatomy — Head & Neck 區段 39
 
@@ -12264,22 +12056,22 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 - **Bony landmarks and muscles**：819
 - **Gateways**：
-  - **Quadrangular space（四邊空間）**：718
-  - **Suprascapular foramen（岡上孔）**：717-718
-  - **Triangular space（三角形空間）**：719
-  - **Triangular interval（三角間隙）**：719
+ - **Quadrangular space（四邊空間）**：718
+ - **Suprascapular foramen（岡上孔）**：717-718
+ - **Triangular space（三角形空間）**：719
+ - **Triangular interval（三角間隙）**：719
 - **Nerves**：
-  - **Axillary nerve（腋神經）**：719
-  - **Suprascapular nerve（岡上神經）**：719
+ - **Axillary nerve（腋神經）**：719
+ - **Suprascapular nerve（岡上神經）**：719
 - **Arteries**：
-  - **Circumflex scapular artery（旋肩胛動脈）**：721
-  - **Posterior circumflex humeral artery（旋肱後動脈）**：721
-  - **Suprascapular artery（岡上動脈）**：720-721
+ - **Circumflex scapular artery（旋肩胛動脈）**：721
+ - **Posterior circumflex humeral artery（旋肱後動脈）**：721
+ - **Suprascapular artery（岡上動脈）**：720-721
 - **Muscles**：
-  - **Infraspinatus muscle（岡下肌）**：717
-  - **Long head of triceps brachii muscle（肱三頭肌長頭）**：717
-  - **Supraspinatus muscle（岡上肌）**：717
-  - **Teres minor and teres major muscles（小圓肌與大圓肌）**：717
+ - **Infraspinatus muscle（岡下肌）**：717
+ - **Long head of triceps brachii muscle（肱三頭肌長頭）**：717
+ - **Supraspinatus muscle（岡上肌）**：717
+ - **Teres minor and teres major muscles（小圓肌與大圓肌）**：717
 - **Veins**：721
 
 > **臨床重點**：四邊空間症候群（Quadrangular space syndrome）是由於腋神經與旋肱後動靜脈在四邊空間內受壓迫所引起，表現為肩膀後側疼痛與三角肌無力。
@@ -12322,10 +12114,10 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Posterior wall of axilla**：721f-722f, 728-730
 - **Gateways in posterior wall**：730-731
 - **Muscles**：
-  - **Latissimus dorsi muscle（背闊肌）**：728t, 730
-  - **Long head of triceps brachii muscle（肱三頭肌長頭）**：728t, 730
-  - **Subscapularis muscle（肩胛下肌）**：728t, 730
-  - **Teres major muscle（大圓肌）**：728t, 730
+ - **Latissimus dorsi muscle（背闊肌）**：728t, 730
+ - **Long head of triceps brachii muscle（肱三頭肌長頭）**：728t, 730
+ - **Subscapularis muscle（肩胛下肌）**：728t, 730
+ - **Teres major muscle（大圓肌）**：728t, 730
 
 ## Posterior Wall of Inguinal Canal（腹股溝管後壁）
 
@@ -12477,10 +12269,10 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Skeletal framework**：993-994
 - **Gateways**：994
 - **Contents**：
-  - **Maxillary artery（上頷動脈）**：998-999
-  - **Maxillary nerve（上頷神經）**：995-996
-  - **Nerve of pterygoid canal and pterygopalatine ganglion（翼管神經與翼齶神經節）**：997-998
-  - **Veins**：999
+ - **Maxillary artery（上頷動脈）**：998-999
+ - **Maxillary nerve（上頷神經）**：995-996
+ - **Nerve of pterygoid canal and pterygopalatine ganglion（翼管神經與翼齶神經節）**：997-998
+ - **Veins**：999
 
 ## Pterygopalatine Ganglion（翼齶神經節）
 
@@ -12775,13 +12567,13 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 - **Phrenic nerves（膈神經）**：1033-1036
 - **Recurrent laryngeal nerves（喉返神經）**：1034
 - **Subclavian arteries（鎖骨下動脈）**：1031-1033
-  - **Costocervical trunk（肋頸幹）**：1032-1033
-  - **Internal thoracic artery（內乳動脈）**：1032
-  - **Thyrocervical trunk（甲頸幹）**：1032
-  - **Vertebral artery（椎動脈）**：1032
+ - **Costocervical trunk（肋頸幹）**：1032-1033
+ - **Internal thoracic artery（內乳動脈）**：1032
+ - **Thyrocervical trunk（甲頸幹）**：1032
+ - **Vertebral artery（椎動脈）**：1032
 - **Sympathetic nervous system（交感神經系統）**：1034-1036
-  - **Cervical part of sympathetic trunk（交感神經頸段）**：1036
-  - **Ganglia（神經節）**：1036
+ - **Cervical part of sympathetic trunk（交感神經頸段）**：1036
+ - **Ganglia（神經節）**：1036
 - **Vagus nerve（迷走神經）**：1034
 - **Veins**：1033
 
@@ -13160,10 +12952,10 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Anterior compartment muscles
 - **Quadriceps femoris** (股四頭肌), 583-590
-  - **Rectus femoris** (股直肌)
-  - **Vastus lateralis** (股外側肌)
-  - **Vastus medialis** (股內側肌)
-  - **Vastus intermedius** (股中間肌)
+ - **Rectus femoris** (股直肌)
+ - **Vastus lateralis** (股外側肌)
+ - **Vastus medialis** (股內側肌)
+ - **Vastus intermedius** (股中間肌)
 - **Sartorius** (縫匠肌), 591-592
 - **Iliopsoas** (髂腰肌), 592-594
 
@@ -13267,9 +13059,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Thoracic Duct（胸導管）
 - **Thoracic duct**，30f, 158f, 177f, 369f
-  - In posterior mediastinum（後縱隔），227-228
-  - In root of neck（頸根部），1036-1037
-  - In superior mediastinum（上縱隔），222
+ - In posterior mediastinum（後縱隔），227-228
+ - In root of neck（頸根部），1036-1037
+ - In superior mediastinum（上縱隔），222
 
 ### Thoracic Wall & Cavity（胸壁與胸腔）
 - **Thoracic wall** and cavity, 123f
@@ -13278,58 +13070,58 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Thoracic Vertebrae（胸椎）
 - **Thoracic vertebrae**，56f, 64f, 66, 72
-  - Articulation with ribs（與肋骨關節），144
-  - Atypical（不典型），144f
-  - Typical（典型），143f
-  - TVII，305f
-  - Variations in number of（數量變異），76
-  - Zygapophysial joint（椎間關節），78f
+ - Articulation with ribs（與肋骨關節），144
+ - Atypical（不典型），144f
+ - Typical（典型），143f
+ - TVII，305f
+ - Variations in number of（數量變異），76
+ - Zygapophysial joint（椎間關節），78f
 
 ### Thoracolumbar Fascia（胸腰筋膜）
 - **Thoracolumbar fascia**，85f, 91f, 92
 
 ### Thorax（胸廓）
 - **Thorax**。 See also Abdomen; Diaphragm; Mediastinum; Pleural cavities
-  - Component parts（組成部分），124-128
-  - Counting ribs（肋骨計數），231
-  - Description of（描述），123-124
-  - Functions of（功能），124
-  - Pectoral region（胸肌區），139-143
-  - Relationship to abdomen（與腹部的關係），130-131, 263
-  - Relationship to back（與背部的關係），62
-  - Relationship to breast（與乳房的關係），131
-  - Relationship to neck（與頸部的關係），130, 847
-  - Relationship to upper limb（與上肢的關係），130
-  - Surface anatomy（表面解剖），231-238
-  - Sympathetic system（交感神經系統），136
-  - Venous shunts from left to right（左至右靜脈分流），132
-  - Vertebral level TIV/V（椎體水平），132, 232
+ - Component parts（組成部分），124-128
+ - Counting ribs（肋骨計數），231
+ - Description of（描述），123-124
+ - Functions of（功能），124
+ - Pectoral region（胸肌區），139-143
+ - Relationship to abdomen（與腹部的關係），130-131, 263
+ - Relationship to back（與背部的關係），62
+ - Relationship to breast（與乳房的關係），131
+ - Relationship to neck（與頸部的關係），130, 847
+ - Relationship to upper limb（與上肢的關係），130
+ - Surface anatomy（表面解剖），231-238
+ - Sympathetic system（交感神經系統），136
+ - Venous shunts from left to right（左至右靜脈分流），132
+ - Vertebral level TIV/V（椎體水平），132, 232
 
 ### Thrombosis（血栓形成）
 - **Thrombosis**
-  - Chronic, of inferior vena cava（下腔靜脈慢性血栓），410b
-  - Deep vein（深靜脈血栓），391, 569b, 677b
+ - Chronic, of inferior vena cava（下腔靜脈慢性血栓），410b
+ - Deep vein（深靜脈血栓），391, 569b, 677b
 
 ### Thumb（拇指）
 - **Thumb**，691
-  - Hyperextension of（過度伸展），825
-  - Orientation of（方向），701
+ - Hyperextension of（過度伸展），825
+ - Orientation of（方向），701
 
 ### Thymus（胸腺）
 - **Thymus**，210-212
 
 ### Thyroid Gland（甲狀腺）
 - **Thyroid gland**，849f, 1017-1020
-  - In anterior triangle of neck（頸前三角），1017-1020
-  - Development（發育），1020b
-  - How to find（如何定位），1124
-  - **Inferior thyroid artery**（甲狀腺下動脈），1019
-  - **Isthmus of thyroid**（甲狀腺峽部），1123f
-  - Lymphatic drainage（淋巴引流），1020
-  - > **臨床重點**：**Pathology（病理）**，1021b
-  - **Recurrent laryngeal nerves**（喉返神經），1020
-  - **Superior thyroid artery**（甲狀腺上動脈），1019
-  - Venous drainage（靜脈引流），1019-1020
+ - In anterior triangle of neck（頸前三角），1017-1020
+ - Development（發育），1020b
+ - How to find（如何定位），1124
+ - **Inferior thyroid artery**（甲狀腺下動脈），1019
+ - **Isthmus of thyroid**（甲狀腺峽部），1123f
+ - Lymphatic drainage（淋巴引流），1020
+ - > **臨床重點**：**Pathology（病理）**，1021b
+ - **Recurrent laryngeal nerves**（喉返神經），1020
+ - **Superior thyroid artery**（甲狀腺上動脈），1019
+ - Venous drainage（靜脈引流），1019-1020
 
 ### Thyroid Cartilage（甲狀軟骨）
 - **Thyroid cartilage**，848f, 1054
@@ -13339,24 +13131,24 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Tongue（舌頭）
 - **Tongue**
-  - **Arteries**（動脈），1100
-  - Inferior surface（下面），1096
-  - **Innervation**（神經支配）
-    - Facial nerve（顏面神經），1101
-    - **Glossopharyngeal nerve**（舌咽神經），1100-1101
-    - **Hypoglossal nerve**（舌下神經），1101-1102
-    - Lingual nerve（舌神經），1101
-  - Lymphatics（淋巴管），1102
-  - **Muscles**（肌肉），1096-1099
-    - **Extrinsic muscles**（外部肌肉），1097-1099
-    - **Intrinsic muscles**（內部肌肉），1097
-  - Papillae（乳頭），1095
-  - Pharyngeal surface（咽部表面），1096
-  - Veins（靜脈），1100
+ - **Arteries**（動脈），1100
+ - Inferior surface（下面），1096
+ - **Innervation**（神經支配）
+ - Facial nerve（顏面神經），1101
+ - **Glossopharyngeal nerve**（舌咽神經），1100-1101
+ - **Hypoglossal nerve**（舌下神經），1101-1102
+ - Lingual nerve（舌神經），1101
+ - Lymphatics（淋巴管），1102
+ - **Muscles**（肌肉），1096-1099
+ - **Extrinsic muscles**（外部肌肉），1097-1099
+ - **Intrinsic muscles**（內部肌肉），1097
+ - Papillae（乳頭），1095
+ - Pharyngeal surface（咽部表面），1096
+ - Veins（靜脈），1100
 
 ### Trachea（氣管）
 - **Trachea**，126f, 129f, 211f, 218, 310f, 840f, 848f
-  - In anterior triangle of neck（頸前三角），1017
+ - In anterior triangle of neck（頸前三角），1017
 
 ### Tracheostomy（氣管切開術）
 - > **臨床重點**：**氣管切開術**，1065b
@@ -13375,8 +13167,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Transplantation（移植）
 - **Transplantation**
-  - Bone marrow（骨髓移植），15b
-  - **Kidney**（腎臟移植），383b-384b
+ - Bone marrow（骨髓移植），15b
+ - **Kidney**（腎臟移植），383b-384b
 
 ### Transpyloric Plane（幽門平面）
 - **Transpyloric plane**，404f-405f
@@ -13395,8 +13187,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Trapezius Muscle（斜方肌）
 - **Trapezius muscle**，58f, 87, 116f-117f, 692f, 713f, 714, 819f
-  - Associated with posterior triangle of neck（與頸後三角相關），1024t
-  - Innervation of（神經支配），87f
+ - Associated with posterior triangle of neck（與頸後三角相關），1024t
+ - Innervation of（神經支配），87f
 
 ### Trapezoid Ligament（菱形韌帶）
 - **Trapezoid ligament**，706
@@ -13409,18 +13201,18 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Triceps Brachii Muscle（肱三頭肌）
 - **Triceps brachii muscle**，755-756
-  - Long head（長頭），717, 730
-  - Tendon（肌腱），822
+ - Long head（長頭），717, 730
+ - Tendon（肌腱），822
 
 ### Tricuspid Valve（三尖瓣）
 - **Tricuspid valve**，192-193
-  - Auscultation position for（聽診位置），236f
+ - Auscultation position for（聽診位置），236f
 
 ### Trigeminal Nerve (V)（三叉神經）
 - **Trigeminal nerve (V)**，850f, 894t-895t, 898, 901b, 902f
-  - Cutaneous distribution（皮膚分布），915f
-  - Innervation of oral cavity（口腔神經支配），1088
-  - Leaving skull（離開顱骨），914f
+ - Cutaneous distribution（皮膚分布），915f
+ - Innervation of oral cavity（口腔神經支配），1088
+ - Leaving skull（離開顱骨），914f
 - > **臨床重點**：**Trigeminal neuralgia（三叉神經痛）**，921b
 
 ### Trigger Finger（扳機指）
@@ -13428,16 +13220,16 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### True Pelvis（真骨盆）
 - **True pelvis**，423, 432f-433f
-  - Pelvic floor（骨盆底）
-    - Pelvic diaphragm（骨盆膈），454-456
-    - Perineal membrane and deep perineal pouch（會陰膜與深層會陰囊），457-459
-  - Pelvic inlet（骨盆入口），449
-  - Pelvic outlet（骨盆出口），453
-  - Pelvic wall（骨盆壁）
-    - Apertures（孔洞），452-453
-    - Ligaments（韌帶），450
-    - Muscles（肌肉），450-451
-  - **Perineal body**（會陰體），459-460
+ - Pelvic floor（骨盆底）
+ - Pelvic diaphragm（骨盆膈），454-456
+ - Perineal membrane and deep perineal pouch（會陰膜與深層會陰囊），457-459
+ - Pelvic inlet（骨盆入口），449
+ - Pelvic outlet（骨盆出口），453
+ - Pelvic wall（骨盆壁）
+ - Apertures（孔洞），452-453
+ - Ligaments（韌帶），450
+ - Muscles（肌肉），450-451
+ - **Perineal body**（會陰體），459-460
 
 ### True Ribs（真肋）
 - **True ribs**，144, 145f
@@ -13450,19 +13242,19 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Tumors（腫瘤）
 - **Tumors**
-  - Brain（腦腫瘤），878b
-  - Brainstem（腦幹腫瘤），835
-  - At carina（氣管叉腫瘤），178f
-  - In head of pancreas（胰頭腫瘤），417f
-  - Of parotid gland（腮腺腫瘤），913
-  - Of right kidney（右腎腫瘤），381f
-  - Sacral（薦骨腫瘤），120b
-  - Testicular（睪丸腫瘤），470b
-  - Uterine（，子宮腫瘤），531b
+ - Brain（腦腫瘤），878b
+ - Brainstem（腦幹腫瘤），835
+ - At carina（氣管叉腫瘤），178f
+ - In head of pancreas（胰頭腫瘤），417f
+ - Of parotid gland（腮腺腫瘤），913
+ - Of right kidney（右腎腫瘤），381f
+ - Sacral（薦骨腫瘤），120b
+ - Testicular（睪丸腫瘤），470b
+ - Uterine（，子宮腫瘤），531b
 
 ### Tympanic Membrane（鼓膜）
 - **Tympanic membrane**，956-957, 971f
-  - > **臨床重點**：**Perforation（鼓膜穿孔）**，958b
+ - > **臨床重點**：**Perforation（鼓膜穿孔）**，958b
 
 ### Tympanic Nerve（鼓室神經）
 - **Tympanic nerve**，900, 963-964
@@ -13479,8 +13271,8 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Ulna（尺骨）
 - **Ulna**，690f
-  - Proximal end of（近端），752
-  - Shaft and distal end of（骨幹與遠端），773-774
+ - Proximal end of（近端），752
+ - Shaft and distal end of（骨幹與遠端），773-774
 - > **臨床重點**：**Fractures（骨折）**，774b
 
 ### Ulnar Artery（尺動脈）
@@ -13488,11 +13280,11 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Ulnar Nerve（尺神經）
 - **Ulnar nerve**
-  - In arm（臂部），760f, 761, 762f
-  - In forearm（前臂），784-785
-  - In hand（手部），742, 814-816
-  - Innervation of upper limb（上肢神經支配），696f, 698f
-  - Motor function in hand（手部運動功能），826-827
+ - In arm（臂部），760f, 761, 762f
+ - In forearm（前臂），784-785
+ - In hand（手部），742, 814-816
+ - Innervation of upper limb（上肢神經支配），696f, 698f
+ - Motor function in hand（手部運動功能），826-827
 - > **臨床重點**：**Ulnar nerve injury at elbow（肘部尺神經損傷）**，768b
 - > **臨床重點**：**Ulnar nerve injury at wrist（腕部尺神經損傷）**，816b
 
@@ -13504,12 +13296,12 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Ultrasound（超聲波）
 - **Ultrasound**，7
-  - Of abdomen（腹部），334f
-  - Of gallstones（膽結石），341f
-  - Of head（頭部），871
-  - Of inflamed appendix（發炎闌尾），322f
-  - Of thyroid gland（甲狀腺），1018f
-  - Of urinary tract（泌尿道的），385
+ - Of abdomen（腹部），334f
+ - Of gallstones（膽結石），341f
+ - Of head（頭部），871
+ - Of inflamed appendix（發炎闌尾），322f
+ - Of thyroid gland（甲狀腺），1018f
+ - Of urinary tract（泌尿道的），385
 
 ### Umbilical Artery（臍動脈）
 - **Umbilical artery**，496
@@ -13525,22 +13317,22 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Upper Limb（上肢）
 - **Upper limb**。 See also Arm; Axilla; Forearm; Hand; etc.
-  - Anterior view（前視圖），685f
-  - Bones and joints（骨與關節），690-691
-  - Cubital fossa（肘窩），768-770
-  - Elbow joint（肘關節），764-766
-  - Imaging blood supply to（血供應影像），737b
-  - Innervation by cervical and upper thoracic nerves（頸與上胸神經支配），695-699
-  - Muscles（肌肉），692-693
-  - Nerves related to bone（與骨相關的神經），699
-  - Pulse points（脈搏點），827
-  - Relationship to back（與背部的關係），694-695
-  - Relationship to neck（與頸部的關係），693-694, 847
-  - Relationship to thorax（與胸廓的關係），130
-  - Role in positioning hand in space（手部空間定位功能），686-689
-  - Superficial veins（淺靜脈），700
-  - Surface anatomy（表面解剖），819
-  - Trauma to arteries of（動脈創傷），737b
+ - Anterior view（前視圖），685f
+ - Bones and joints（骨與關節），690-691
+ - Cubital fossa（肘窩），768-770
+ - Elbow joint（肘關節），764-766
+ - Imaging blood supply to（血供應影像），737b
+ - Innervation by cervical and upper thoracic nerves（頸與上胸神經支配），695-699
+ - Muscles（肌肉），692-693
+ - Nerves related to bone（與骨相關的神經），699
+ - Pulse points（脈搏點），827
+ - Relationship to back（與背部的關係），694-695
+ - Relationship to neck（與頸部的關係），693-694, 847
+ - Relationship to thorax（與胸廓的關係），130
+ - Role in positioning hand in space（手部空間定位功能），686-689
+ - Superficial veins（淺靜脈），700
+ - Surface anatomy（表面解剖），819
+ - Trauma to arteries of（動脈創傷），737b
 
 ### Ureteric Stone（輸尿管結石）
 - > **臨床重點**：**Ureteric stone**，413b
@@ -13550,36 +13342,36 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Ureters（輸尿管）
 - **Ureters**，366f, 377f, 379-380, 462
-  - Iatrogenic injury（醫源性損傷），530b
-  - Innervation（神經支配），380
-  - Structures crossing, in pelvic cavity（骨盆腔交叉結構），435
-  - Surface projection of（表面投影），409f
-  - Vasculature and lymphatics（血管與淋巴），380
+ - Iatrogenic injury（醫源性損傷），530b
+ - Innervation（神經支配），380
+ - Structures crossing, in pelvic cavity（骨盆腔交叉結構），435
+ - Surface projection of（表面投影），409f
+ - Vasculature and lymphatics（血管與淋巴），380
 
 ### Urethra（尿道）
 - **Urethra**
-  - Catheterization（導尿），469b
-  - Female（女性），466
-  - Gender differences in course of（性別路徑差異），440
-  - Male（男性），467-468
-  - Navicular fossa（舟狀窩），507f
-  - Rupture of（尿道破裂），512b
+ - Catheterization（導尿），469b
+ - Female（女性），466
+ - Gender differences in course of（性別路徑差異），440
+ - Male（男性），467-468
+ - Navicular fossa（舟狀窩），507f
+ - Rupture of（尿道破裂），512b
 
 ### Urethral Artery（尿道動脈）
 - **Urethral artery**，516, 517f
 
 ### Urethral Sphincters（尿道括約肌）
 - **Urethral sphincters**
-  - External（外括約肌），459, 468, 473f
-  - Internal（內括約肌），467
+ - External（外括約肌），459, 468, 473f
+ - Internal（內括約肌），467
 
 ### Urinary Bladder（膀胱）
 - **Urinary bladder**，366f, 379f
-  - Apex of（膀胱頂），463
-  - Base of（膀胱底），463
-  - Contained in pelvis（位於骨盆腔），423-425
-  - Inferolateral surfaces of（外側表面），463
-  - Neck of（膀胱頸），464
+ - Apex of（膀胱頂），463
+ - Base of（膀胱底），463
+ - Contained in pelvis（位於骨盆腔），423-425
+ - Inferolateral surfaces of（外側表面），463
+ - Neck of（膀胱頸），464
 - > **臨床重點**：**Cancer（膀胱癌）**，466b
 - > **臨床重點**：**Infection（膀胱炎）**，469b
 - > **臨床重點**：**Stones（膀胱結石）**，465b
@@ -13587,21 +13379,21 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Urinary Tract（泌尿道）
 - **Urinary tract**
-  - Cancer（泌尿道癌症），381b-382b
-  - Investigation of（檢查），385b
-  - Pelvic parts
-    - Bladder（膀胱），463-464
-    - Ureters（輸尿管），462
-    - Urethra（尿道），466-468
-  - Stones（結石），381b-382b
+ - Cancer（泌尿道癌症），381b-382b
+ - Investigation of（檢查），385b
+ - Pelvic parts
+ - Bladder（膀胱），463-464
+ - Ureters（輸尿管），462
+ - Urethra（尿道），466-468
+ - Stones（結石），381b-382b
 
 ### Urogenital Triangle（泌尿生殖三角）
 - **Urogenital triangle**，430, 434f, 511f
-  - Female, identification of structures in（女性結構辨識），523-524
-  - Male, identification of structures in（男性結構辨識），524-525
-  - Structures in superficial perineal pouch（淺層會陰囊結構），506-510
-  - Superficial fascia（淺層筋膜），512
-  - Superficial features of external genitalia（外生殖器淺層特徵），510-512
+ - Female, identification of structures in（女性結構辨識），523-524
+ - Male, identification of structures in（男性結構辨識），524-525
+ - Structures in superficial perineal pouch（淺層會陰囊結構），506-510
+ - Superficial fascia（淺層筋膜），512
+ - Superficial features of external genitalia（外生殖器淺層特徵），510-512
 
 ### Uterine Artery（、子宮動脈）
 - **Uterine artery**，435f, 498, 499f
@@ -13611,7 +13403,7 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Uterus（，子宮）
 - **Uterus**，435f, 477-478
-  - Position of（位置），436
+ - Position of（位置），436
 - > **臨床重點**：**Fibroids（，子宮肌瘤）**，532b
 - > **臨床重點**：**Tumors（，子宮腫瘤）**，531b
 
@@ -13621,20 +13413,20 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Vagal Trunks（迷走神經幹）
 - **Vagal trunks**
-  - Anterior（前方），224, 276f
-  - Posterior（後方），224, 276f
+ - Anterior（前方），224, 276f
+ - Posterior（後方），224, 276f
 
 ### Vagus Nerve (X)（迷走神經）
 - **Vagus nerve (X)**，214f, 894t-895t, 900, 902f
-  - In abdomen（在腹部），363
-  - In anterior triangle of neck（頸前三角），1014
-  - Cardiac plexus（心臟叢），208f
-  - > **臨床重點**：**Lesions（損傷）**，901b
-  - Pharyngeal branch（咽分支），1051
-  - Pulmonary innervation（肺神經支配），176f
-  - In root of neck（頸根部），1034
-  - Of superior mediastinum（上縱隔），218-221
-  - Through head and neck（穿越頭頸部），850
+ - In abdomen（在腹部），363
+ - In anterior triangle of neck（頸前三角），1014
+ - Cardiac plexus（心臟叢），208f
+ - > **臨床重點**：**Lesions（損傷）**，901b
+ - Pharyngeal branch（咽分支），1051
+ - Pulmonary innervation（肺神經支配），176f
+ - In root of neck（頸根部），1034
+ - Of superior mediastinum（上縱隔），218-221
+ - Through head and neck（穿越頭頸部），850
 
 ### Valleculae（會厭谷）
 - **Valleculae**，1047f
@@ -13650,54 +13442,54 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Veins（靜脈）
 - **Veins**，27
-  - Of anterior triangle of neck（頸前三角），1013
-  - Azygos system of（奇靜脈系統），226-227
-  - Bronchial（支氣管靜脈），174
-  - Cardiac（心臟靜脈），204, 205f
-  - Of face（面部靜脈），919-920
-  - Of lower limb
-    - Deep and superficial（深層與淺層），568
-    - Major superficial（主要淺層），670
-    - Superficial（淺層），550
-  - Of pelvis（骨盆腔靜脈），499-501
-  - Of perineum（會陰靜脈），516-519
-  - Pulmonary（肺靜脈），174
-  - Of spinal cord（脊髓靜脈），102
-  - Of teeth（牙齒靜脈），1116f
-  - Of upper limb, superficial（上肢淺靜脈），700
-  - Venous drainage of
-    - Abdominal viscera（腹部臟器），354-356
-    - Anterolateral abdominal wall（前外側腹壁），291-292
-    - Brain（腦），886-889
-    - Breast（乳房），139
-    - Diaphragm（橫膈），162
-    - Esophagus（食道），223
-    - Eyeball（眼球），948
-    - Larynx（喉部），1067f
-    - Membranous labyrinth（膜性迷路），969
-    - Nasal cavities（鼻腔），1084f
-    - Orbit and eyeball（眼眶與眼球），942f
-    - Palate（顎），1112f
-    - Pharynx（咽），1050f
-    - Scalp（頭皮），926
-    - Spinal cord（脊髓），102
-    - Thoracic wall（胸壁），156
-    - Thyroid gland（甲狀腺），1019-1020
-  - Venous shunt, left to right（左至右靜脈分流），132, 133f, 273-274
+ - Of anterior triangle of neck（頸前三角），1013
+ - Azygos system of（奇靜脈系統），226-227
+ - Bronchial（支氣管靜脈），174
+ - Cardiac（心臟靜脈），204, 205f
+ - Of face（面部靜脈），919-920
+ - Of lower limb
+ - Deep and superficial（深層與淺層），568
+ - Major superficial（主要淺層），670
+ - Superficial（淺層），550
+ - Of pelvis（骨盆腔靜脈），499-501
+ - Of perineum（會陰靜脈），516-519
+ - Pulmonary（肺靜脈），174
+ - Of spinal cord（脊髓靜脈），102
+ - Of teeth（牙齒靜脈），1116f
+ - Of upper limb, superficial（上肢淺靜脈），700
+ - Venous drainage of
+ - Abdominal viscera（腹部臟器），354-356
+ - Anterolateral abdominal wall（前外側腹壁），291-292
+ - Brain（腦），886-889
+ - Breast（乳房），139
+ - Diaphragm（橫膈），162
+ - Esophagus（食道），223
+ - Eyeball（眼球），948
+ - Larynx（喉部），1067f
+ - Membranous labyrinth（膜性迷路），969
+ - Nasal cavities（鼻腔），1084f
+ - Orbit and eyeball（眼眶與眼球），942f
+ - Palate（顎），1112f
+ - Pharynx（咽），1050f
+ - Scalp（頭皮），926
+ - Spinal cord（脊髓），102
+ - Thoracic wall（胸壁），156
+ - Thyroid gland（甲狀腺），1019-1020
+ - Venous shunt, left to right（左至右靜脈分流），132, 133f, 273-274
 
 ### Venipuncture（靜脈穿刺）
 - > **臨床重點**：**Venipuncture**，814b
 
 ### Venous Access（靜脈通路）
 - **Venous access**，251b
-  - Central（中央靜脈），1005b
-  - For central and dialysis lines（中央與透析管路），215b
+ - Central（中央靜脈），1005b
+ - For central and dialysis lines（中央與透析管路），215b
 
 ### Ventricles（心室）
 - **Ventricles**
-  - Cardiac（心室），186f-187f, 192, 193f, 194, 196f, 207f
-  - Cerebral（腦室），31-32
-  - Laryngeal（喉室），1059
+ - Cardiac（心室），186f-187f, 192, 193f, 194, 196f, 207f
+ - Cerebral（腦室），31-32
+ - Laryngeal（喉室），1059
 
 ### Ventriculoperitoneal Shunts（腦室腹腔分流）
 - **Ventriculoperitoneal shunts**，305
@@ -13707,17 +13499,17 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Vertebrae（椎骨）
 - **Vertebrae**，53f, 56f
-  - Cancer and（椎骨與癌症），77b
-  - Development of（發育），67f
-  - Fractures（骨折），82b-83b
-  - Subdivisions of（細分），64-66
-  - Typical（典型），57, 68-69
-  - Thoracic（胸椎），143f
+ - Cancer and（椎骨與癌症），77b
+ - Development of（發育），67f
+ - Fractures（骨折），82b-83b
+ - Subdivisions of（細分），64-66
+ - Typical（典型），57, 68-69
+ - Thoracic（胸椎），143f
 
 ### Vertebral Arch（椎弓）
 - **Vertebral arch**，57, 68
-  - Joints between（椎弓間關節），78
-  - Posterior spaces between（後側間隙），73
+ - Joints between（椎弓間關節），78
+ - Posterior spaces between（後側間隙），73
 
 ### Vertebral Arteries（椎動脈）
 - **Vertebral arteries**，100f-101f, 881f, 882, 1032
@@ -13727,40 +13519,40 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Vertebral Canal（椎管）
 - **Vertebral canal**，59, 68
-  - Arrangement of structures in（內容物排列），104, 105f
-  - Course of spinal nerves in（脊髓神經行徑），108f
+ - Arrangement of structures in（內容物排列），104, 105f
+ - Course of spinal nerves in（脊髓神經行徑），108f
 
 ### Vertebral Column（脊柱）
 - **Vertebral column**，53f
-  - Cervical region（頸椎區），65f
-  - Long, and short spinal cord（長與短脊髓），62
-  - Lumbar region（腰椎區），67f
-  - Thoracic region（胸椎區），66f
+ - Cervical region（頸椎區），65f
+ - Long, and short spinal cord（長與短脊髓），62
+ - Lumbar region（腰椎區），67f
+ - Thoracic region（胸椎區），66f
 
 ### Vertebral Levels（椎體水平）
 - **Vertebral levels**
-  - CV/VI，848
-  - CVI，1121
-  - LII，271, 405
-  - TIV/V，132, 232
+ - CV/VI，848
+ - CVI，1121
+ - LII，271, 405
+ - TIV/V，132, 232
 
 ### Vertebroplasty（椎體成形術）
 - > **臨床重點**：**椎體成形術**，74b
 
 ### Vertex（顱頂）
 - **Vertex**
-  - Innervation of scalp anterior to（前方頭皮神經支配），924
-  - Innervation of scalp posterior to（後方頭皮神經支配），924-925
-  - As major landmark（作為重要標誌），1120f, 1121
+ - Innervation of scalp anterior to（前方頭皮神經支配），924
+ - Innervation of scalp posterior to（後方頭皮神經支配），924-925
+ - As major landmark（作為重要標誌），1120f, 1121
 
 ### Vestibular Nerve（前庭神經）
 - **Vestibular nerve**，969-971
 
 ### Vestibule（前庭）
 - **Vestibule**
-  - Laryngeal（喉前庭），1059
-  - Nasal（鼻腔前庭），1071
-  - Oral（口腔前庭），1087, 1095f
+ - Laryngeal（喉前庭），1059
+ - Nasal（鼻腔前庭），1071
+ - Oral（口腔前庭），1087, 1095f
 
 ### Vestibulocochlear Nerve (VIII)（前庭耳蝸神經）
 - **Vestibulocochlear nerve (VIII)**，894t-895t, 899, 901b, 902f, 965f, 969-971
@@ -13792,24 +13584,24 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### Walls of Middle Ear（中耳壁）
 - **Walls of middle ear**
-  - Anterior wall（前壁），960
-  - Jugular wall（頸靜脈壁），959
-  - Labyrinthine wall（迷路壁），960-961
-  - Mastoid wall（乳突壁），960
-  - Membranous wall（膜性壁），959
-  - Tegmental wall（蓋壁），959
+ - Anterior wall（前壁），960
+ - Jugular wall（頸靜脈壁），959
+ - Labyrinthine wall（迷路壁），960-961
+ - Mastoid wall（乳突壁），960
+ - Membranous wall（膜性壁），959
+ - Tegmental wall（蓋壁），959
 
 ### Wedge Fracture（楔形骨折）
 - **Wedge fracture**，17f
 
 ### Wrist Joint（腕關節）
 - **Wrist joint**，795-796
-  - Articular discs（關節盤），794f-795f
-  - Bones, ossification（骨，骨化），14f
-  - Carpal tunnel and structures at（腕隧道與其結構），798
-  - Movements of hand at（手部運動），689f
-  - MRI，799f
-  - Tendons（肌腱），798
+ - Articular discs（關節盤），794f-795f
+ - Bones, ossification（骨，骨化），14f
+ - Carpal tunnel and structures at（腕隧道與其結構），798
+ - Movements of hand at（手部運動），689f
+ - MRI，799f
+ - Tendons（肌腱），798
 
 ---
 
@@ -13817,9 +13609,9 @@ Kiesselbach's area 不僅有豐富靜脈叢，**动脉供血**亦相當可觀：
 
 ### X-rays（X 光）
 - **X-rays**
-  - Of elbow joint development（肘關節發育），767f
-  - Of head（頭部），871
-  - Production of（X光產生），5f
+ - Of elbow joint development（肘關節發育），767f
+ - Of head（頭部），871
+ - Production of（X光產生），5f
 
 ### Xiphisternal Joints（劍突關節）
 - **Xiphisternal joints**，149f, 150

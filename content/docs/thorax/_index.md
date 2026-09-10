@@ -461,8 +461,7 @@ Subclavius 和 pectoralis minor 都將肩部尖端向下拉。
 > 多發性肋骨骨折（flail chest）可導致胸壁不穩定，嚴重影響呼吸功能，需要積極的臨床處理。
 
 
-## Atypical Ribs 典型肋骨
-
+## Atypical Ribs（典型肋骨）
 ### Rib I
 
 **Rib I** 在水平面上呈扁平狀，具有寬廣的 superior 和 inferior surfaces。從與胸椎 T1 的關節處，向下斜行至胸骨 manubrium 的附著處。**Head** 只與胸椎 T1 的椎體關節，因此只有一個關節面。與其他肋骨相同，**tubercle** 有一個關節面與相關椎骨的 transverse process 關節。**Rib I** 的 superior surface 以明顯的 **scalene tubercle** 為特徵，將穿過 shaft 中段附近的兩個平滑溝槽分開：
@@ -487,8 +486,7 @@ Subclavius 和 pectoralis minor 都將肩部尖端向下拉。
 
 ---
 
-## Sternum 胸骨
-
+## Sternum（胸骨）
 成年人的 **sternum** 由三個主要元素組成：
 - **Manubrium of the sternum** — 寬廣、位於上方
 - **Body of the sternum** — 狹窄、縱向排列
@@ -515,10 +513,8 @@ Xiphoid process 是 sternum 最小的部分，形狀多變：可能寬、薄、�
 
 ---
 
-## Joints of Thoracic Wall 胸壁關節
-
-### Costovertebral Joints 肋椎關節
-
+## Joints of Thoracic Wall（胸壁關節）
+### Costovertebral Joints（肋椎關節）
 典型肋骨與以下結構關節：
 - **Adjacent vertebrae 的椎體** — 形成與 rib head 的關節
 - **相關椎骨的 transverse process** — 形成 **costotransverse joint**
@@ -541,15 +537,13 @@ Costotransverse joints 是 rib tubercle 與相關椎骨 transverse process 之�
 
 第三個韌帶 **superior costotransverse ligament** 附著於 rib neck 的 superior surface 至上方椎骨的 transverse process。Costotransverse joints 僅有輕度滑動運動。
 
-### Sternocostal Joints 胸肋關節
-
+### Sternocostal Joints（胸肋關節）
 Sternocostal joints 是上七個 costal cartilages 與 sternum 之間的關節：
 - **Rib I 與 manubrium** 的關節不是 synovial，而是 fibrocartilaginous connection
 - **第二至第七關節** 為 synovial，有薄囊，由周圍的 sternocostal ligaments 增強
 - **第二 costal cartilage 與 sternum** 的關節被 intra-articular ligament 分隔為兩個 compartments
 
-### Interchondral Joints 軟骨間關節
-
+### Interchondral Joints（軟骨間關節）
 Interchondral joints 發生在相鄰肋骨的 costal cartilages 之间（主要在 Ribs VII–X 之間，亦可能涉及 Ribs V–VI）。提供間接的 sternum 錨定，有助於形成平滑的 inferior costal margin。通常為 synovial，薄纖維囊由 interchondral ligaments 增強。
 
 ### Manubriosternal and Xiphisternal Joints
@@ -566,8 +560,7 @@ Sternal angle 位於穿過胸椎 TIV 和 TV 之间 intervertebral disc 的水平
 
 ---
 
-## Intercostal Spaces 肋間隙
-
+## Intercostal Spaces（肋間隙）
 **Intercostal spaces** 位於相鄰肋骨之間，由 **intercostal muscles** 填充。
 
 ### Neurovascular Structures
@@ -589,8 +582,7 @@ Small collateral branches of major intercostal nerves and vessels 常存在於�
 
 ---
 
-## Muscles of Thoracic Wall 胸壁肌肉
-
+## Muscles of Thoracic Wall（胸壁肌肉）
 胸壁肌肉包括：
 - 填充和支撐 intercostal spaces 的肌肉
 - 在 sternum 和 ribs 之间通過的肌肉
@@ -600,8 +592,7 @@ Small collateral branches of major intercostal nerves and vessels 常存在於�
 
 ---
 
-## Intercostal Muscles 肋間肌
-
+## Intercostal Muscles（肋間肌）
 **Intercostal muscles** 是存在於每個 intercostal space 中的三塊扁平肌肉，在相鄰肋骨之间通過。命名根據其位置：
 - **External intercostal muscles** — 最淺層
 - **Internal intercostal muscles** — 夾在 external 和 innermost muscles 之间
@@ -974,8 +965,7 @@ The **pulmonary arteries** deliver deoxygenated blood to the lungs from the **ri
 
 The right lung is normally a little larger than the left lung because the middle mediastinum, containing the heart, bulges more to the left than to the right.
 
-### 形態學（Morphology）
-
+### Morphology（形態學）
 Each lung has a half-cone shape, with a **base**, **apex**, two **surfaces**, and three **borders** (Fig. 3.39):
 
 - **Base（肺底）**: sits on the **diaphragm**.
@@ -1192,14 +1182,14 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 **Left coronary artery (LCA)** 起源自 **aorta** 的 left coronary sinus，於 **pulmonary trunk** 後方行走很短距離後分為：
 
 - **Anterior interventricular branch (LAD)**：行走於 **anterior interventricular sulcus**，供應：
-  - **Left ventricle**（大部分）
-  - **Anterior 2/3 of interventricular septum**
-  - **Bundle of His**
+ - **Left ventricle**（大部分）
+ - **Anterior 2/3 of interventricular septum**
+ - **Bundle of His**
 
 - **Circumflex branch (LCx)**：行走於 **left coronary sulcus**，供應：
-  - **Left atrium**
-  - **Left ventricle**
-  - **SA node**（約 40% 的人群）
+ - **Left atrium**
+ - **Left ventricle**
+ - **SA node**（約 40% 的人群）
 
 > **臨床重點**：冠狀動脈疾病（Coronary artery disease）是全球主要死因之一。當冠狀動脈因粥狀硬化而狹窄時，會導致心肌缺氧，引起**心絞痛（angina pectoris）**。若血栓完全阻塞，則發生**心肌梗塞（myocardial infarction）**。心電圖（ECG）與心肌酶檢測可確診。
 
@@ -1240,9 +1230,9 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 **交感神經**源於：
 - **T1–T4 spinal cord levels**（頸胸神經節）
 - 節後神經元位於：
-  - **Superior cervical ganglion**
-  - **Middle cervical ganglion**
-  - **Stellate ganglion（ cervicothoracic ganglion）**
+ - **Superior cervical ganglion**
+ - **Middle cervical ganglion**
+ - **Stellate ganglion（ cervicothoracic ganglion）**
 
 **交感神經刺激效果**：
 - ↑ **Heart rate（positive chronotropic effect）**
@@ -1298,9 +1288,9 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 - 彎曲向後上方
 - 跨越**左肺門（left hilum）** 與**氣管叉（carina）**
 - 三大分支：
-  1. **Brachiocephalic trunk（無名動派）**：分支至右側頭頸部與右臂
-  2. **Left common carotid artery（左總頸動派）**：供應左側頭頸部
-  3. **Left subclavian artery（左鎖骨下動派）**：供應左側上肢
+ 1. **Brachiocephalic trunk（無名動派）**：分支至右側頭頸部與右臂
+ 2. **Left common carotid artery（左總頸動派）**：供應左側頭頸部
+ 3. **Left subclavian artery（左鎖骨下動派）**：供應左側上肢
 - 彎曲處下方有**肺總動脈（pulmonary trunk）** 交叉
 
 **Descending aorta（降主動派）**
@@ -1399,8 +1389,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 右心房（Right Atrium）
-
+## Right Atrium（右心房）
 在解剖位置上，心臟的右界由**右心房**形成。右心房也構成了心臟前表面向右的部分。回流至右心房的血液通過三條血管之一進入：
 
 - **上、下腔靜脈（superior and inferior venae cavae）**：共同將血液從身體輸送至心臟；
@@ -1418,12 +1407,10 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 **心房本身（Atrium proper）**：位於竇房結之前，包括右心耳，胚胎學上源自原始心房。壁內覆蓋稱為**梳狀肌（musculi pectinati）**的嵴狀結構，從竇房結呈扇形展開如「梳齒」。這些嵴也見於右心耳——右心耳是覆蓋升主動脈的耳狀錐形肌肉囊。
 
-### 冠狀竇開口（Opening of Coronary Sinus）
-
+### Opening of Coronary Sinus（冠狀竇開口）
 冠狀竇接受大多數心臟靜脈的血液，其開口位於下腔靜脈開口的內側。相關組織有小皺襞，源自胚胎靜脈竇瓣（分別為**冠狀竇瓣**和**下腔靜脈瓣**）。在胚胎發育中，下腔靜脈瓣有助於將含氧血通過**卵圓孔（foramen ovale）**導入左心房。
 
-### 房間隔（Interatrial Septum）
-
+### Interatrial Septum（房間隔）
 分隔左右心房的**房間隔**向前向右傾斜，因為左心房位於右心房的後方及左側。間隔上可見一明顯凹陷，即**卵圓窩（fossa ovalis）**（橢圓窩），其邊緣為**卵圓窩緣（limbus fossa ovalis）**。
 
 > **臨床重點**：卵圓窩標誌著胚胎時期**卵圓孔**的位置，後者是胎兒循環的重要組成部分。卵圓孔允許含氧血從下腔靜脈進入右心房後直接進入左心房，繞過尚未發揮功能的肺部。出生後若卵圓孔未閉合，稱為**卵圓孔未閉（patent foramen ovale, PFO）**，可能與偏頭痛或隱源性中風有關。
@@ -1432,16 +1419,13 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 右心室（Right Ventricle）
-
+## Right Ventricle（右心室）
 在解剖位置上，右心室構成心臟的大部分前表面及膈面。右心房位於右心室右側，右心室則位於右房室口的前方及左側。血液從右心房進入右心室時，呈水平向前方向移動。
 
-### 流出道（Outflow Tract）
-
+### Outflow Tract（流出道）
 右心室流出道通往肺幹，稱為**漏斗部（conus arteriosus / infundibulum）**。此區域壁光滑，源自胚胎的**心球（bulbus cordis）**。
 
-### 肉柱（Trabeculae Carneae）
-
+### Trabeculae Carneae（肉柱）
 右心室流入部的壁上有許多不規則的肌肉結構，稱為**肉柱（trabeculae carneae）**（圖 3.64）。多數肉柱或全程附著於心室壁形成嵴，或兩端附著形成橋樑。部分肉柱（**乳頭肌 papillary muscles**）僅一端附著於心室表面，另一端為腱狀纖維索（**腱索 chordae tendineae**）的附著點，連接至三尖瓣葉的遊離緣。
 
 **右心室的三個乳頭肌**：
@@ -1454,8 +1438,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 三尖瓣（Tricuspid Valve）
-
+## Tricuspid Valve（三尖瓣）
 右心室收縮時，**三尖瓣（right atrioventricular valve）**關閉右心室開口。三尖瓣通常由三個尖瓣/小葉組成（圖 3.64）。每個小葉的底部固定於環繞房室口的纖維環，維持開口的形狀。小葉基部相連處稱為**連合（commissures）**。
 
 三個小葉分別命名為**前側、隔側、後側小葉**，根據其在右心室內的相對位置。遊離緣通過腱索與乳頭肌尖端相連。
@@ -1464,16 +1447,14 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 肺動脈瓣（Pulmonary Valve）
-
+## Pulmonary Valve（肺動脈瓣）
 漏斗部頂端、右心室流出道通往肺幹的開口，由**肺動脈瓣（pulmonary valve）**關閉（圖 3.64）。肺動脈瓣由三個半月瓣組成，遊離緣向上突入肺幹管腔。每個小葉的遊離上緣有中部增厚的**小结節（nodule of semilunar cusp）**及薄的側部**半月瓣小葉（lunule）**（圖 3.65）。
 
 三個小葉分別命名為**左、右、前半月瓣**，在心室流出道旋轉完成前的胚胎位置命名。每個小葉形成囊狀竇（圖 3.65）——肺幹起始部的壁性膨大。心室收縮後，血液反彈充盈肺竇，將小葉壓閉，防止肺幹血液回流右心室。
 
 ---
 
-## 左心房（Left Atrium）
-
+## Left Atrium（左心房）
 左心房構成心臟底部（後表面）的大部分。
 
 左心房的胚胎學來源同樣為兩個結構：
@@ -1487,8 +1468,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 左心室（Left Ventricle）
-
+## Left Ventricle（左心室）
 左心室位於左心房前方，構成心臟前表面、膈面及左肺面的大部分，並形成**心尖（apex）**。
 
 血液通過**左心室開口**進入，流向前至心尖。腔室呈錐形，比右心室更長，心肌層也最厚。流出道（**主動脈前庭 aortic vestibule**）位於右心室漏斗部後方，壁光滑，源自胚胎心球。
@@ -1510,8 +1490,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 主動脈瓣（Aortic Valve）
-
+## Aortic Valve（主動脈瓣）
 左心室流出道（主動脈前庭）向上與升主動脈延續。血液從左心室進入主動脈的開口由**主動脈瓣（aortic valve）**關閉。結構與肺動脈瓣相似，由三個半月瓣組成，遊離緣向上突入升主動脈管腔（圖 3.68）。
 
 半月瓣與升主脈壁之間為囊狀竇——**右、左、後主動脈竇**。右、左冠狀动脉分别源自右、左主動脈竇，因此後主動脈竇/瓣有時被稱為**無冠竇/瓣（noncoronary sinus/cusp）**。
@@ -1520,8 +1499,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 臨床案例：瓣膜疾病（Valve Disease）
-
+## Valve Disease（臨床案例：瓣膜疾病）
 > **臨床重點**：瓣膜問題主要分為兩類：
 >
 > - **閉鎖不全/逆流（incompetence/insufficiency）**：瓣膜功能不良所致；
@@ -1540,8 +1518,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 心臟骨骼（Cardiac Skeleton）
-
+## Cardiac Skeleton（心臟骨骼）
 **心臟骨骼**是緻密纖維結締組織的集合，由四個環及連接區域組成，位於心房與心室之間的平面。四個環圍繞兩個房室口、主動脈口及肺幹開口，統稱為**纖維環（anulus fibrosus）**。連接區域包括：
 
 - **右纖維三角（Right fibrous trigone）**：主動脈環與右房室環之間的結締組織增厚區；
@@ -1553,14 +1530,12 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 ---
 
-## 冠狀血管（Coronary Vasculature）
-
+## Coronary Vasculature（冠狀血管）
 兩條冠狀动脉起源於升主動脈起始部的主動脈竇，供應心肌及心臟其他組織。它們在**冠狀溝（coronary sulcus）**中環繞心臟行走，邊緣支及室間支位於室間溝中，向心尖匯聚（圖 3.70）。
 
 靜脈血通過心臟靜脈回流，大部分注入位於心臟後表面、左心房與左心室之間冠狀溝內的**冠狀竇（coronary sinus）**。冠狀竇注入右心房，位於下腔靜脈與右心室開口之間。
 
-### 右冠狀动脉（Right Coronary Artery）
-
+### Right Coronary Artery（右冠狀动脉）
 右冠狀动脉起源於升主動脈的**右主動脈竇**。向前行走後在冠狀溝中垂直下行，介於右心房與右心室之間（圖 3.71A）。到達心臟下緣（鈍緣）時轉向後，沿膈面及心底繼續在溝中行走。其分支包括：
 
 - **早期心房支**：介於右心耳與升主動脈之間的溝中行走，發出**竇房結支（sinu-atrial nodal branch）**（圖 3.71A），繞上腔靜脈後行走，供應竇房結；
@@ -1569,8 +1544,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 右冠狀动脉供應：右心房、右心室、竇房結與房室結、房間隔、部分左心房、室間隔的後下1/3，及左心室後壁的一部分。
 
-### 左冠狀动脉（Left Coronary Artery）
-
+### Left Coronary Artery（左冠狀动脉）
 左冠狀动脉起源於升主動脈的**左主動脈竇**，在肺幹與左心耳之間穿行後進入冠狀溝。從肺幹後方出現後，分為兩條終支——**前室間支**與**迴旋支（circumflex）**（圖 3.71A）：
 
 - **前室間支（前室間分支 / 左前降支 LAD）**（圖 3.71A,C）：繞肺幹左側，斜向前下，在前室間溝中向心尖行走（圖 3.71A,C）。過程中可能發出一至兩條大的**對角支**，斜跨左心室前表面；
@@ -1578,8 +1552,7 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 
 左冠狀动脉的分布範圍包括：大部分左心房、左心室、大部分室間隔（含房室束及其分支）。
 
-### 冠狀动脉分布的變異（Variations in Coronary Artery Distribution）
-
+### Variations in Coronary Artery Distribution（冠狀动脉分布的變異）
 > **臨床重點**：冠狀动脉的基本分布模式存在數種主要變異：
 >
 > - **右冠狀动脉優勢型（右優勢）**：後室間支起源於右冠狀动脉（最常見）。右冠狀动脉供應左心室後壁的大部分，迴旋支相對較小；
@@ -1618,16 +1591,16 @@ Superficial (subpleural) and deep lymphatics of the lung drain into lymph nodes 
 **冠狀動脈系統**（Coronary Arterial System）供應心臟肌肉血流。主要分為左右兩條冠狀動脈：
 
 - **Right coronary artery（RCA）**——右冠狀動脈
-  - **Sinu-atrial nodal branch**——竇房結支
-  - **Right marginal branch**——右緣支
-  - **Posterior interventricular branch**——後室間支（亦稱 PDA, Posterior Descending Artery）
+ - **Sinu-atrial nodal branch**——竇房結支
+ - **Right marginal branch**——右緣支
+ - **Posterior interventricular branch**——後室間支（亦稱 PDA, Posterior Descending Artery）
 
 - **Left coronary artery（LCA）**——左冠狀動脈
-  - **Left auricle**——左心耳
-  - **Circumflex branch**——迴旋支
-  - **Left marginal branch**——左緣支
-  - **Anterior interventricular branch**——前室間支（亦稱 LAD, Left Anterior Descending Artery）
-  - **Diagonal branch**——對角支
+ - **Left auricle**——左心耳
+ - **Circumflex branch**——迴旋支
+ - **Left marginal branch**——左緣支
+ - **Anterior interventricular branch**——前室間支（亦稱 LAD, Left Anterior Descending Artery）
+ - **Diagonal branch**——對角支
 
 ### Left Dominant Coronary Artery（ 左優勢冠狀動脈 ）
 

@@ -2,10 +2,8 @@
 
 ---
 
-## 骨盆腔靜脈 (Pelvic Veins)
-
-### Internal Iliac Vein 分支
-
+## Pelvic Veins（骨盆腔靜脈）
+### Internal Iliac Vein（分支）
 **Internal iliac vein** 的主要分支包括：
 - **Median sacral vein** — 平行於 median sacral artery
 - **Internal pudendal vein** — 收集會陰部血液
@@ -13,8 +11,7 @@
 
 > **臨床重點**：骨盆腔靜脈引流至兩個系統：腔靜脈系統（caval system）與肝門靜脈系統（hepatic portal system）。直腸靜脈叢（rectal venous plexus）為肝門系統與腔靜脈系統之間的側支循環重要樞紐。
 
-### Hemorrhoids 臨床分類
-
+### Hemorrhoids（臨床分類）
 **Internal hemorrhoids**（內痔）起源於肛門齒狀線（pectinate line）以上，由結腸黏膜覆蓋，來自上直腸靜脈叢。
 
 **External hemorrhoids**（外痔）位於肛門外括約肌周圍的皮下靜脈叢，來自下直腸靜脈叢。
@@ -30,10 +27,8 @@
 
 ---
 
-## 骨盆腔淋巴 (Pelvic Lymphatics)
-
-### Lymph Node 分布
-
+## Pelvic Lymphatics（骨盆腔淋巴）
+### Lymph Node（分布）
 大多數骨盆腔臟器的淋巴引流至沿 **internal iliac artery** 與 **external iliac artery** 分布的淋巴結，再進入 common iliac artery 相關淋巴結，最終注入 lateral aortic（lumbar）nodes。
 
 Lateral aortic nodes 匯入 **lumbar trunks**，繼續上行至胸導管（thoracic duct），約在胸椎 TXII レベル。
@@ -46,8 +41,7 @@ Lateral aortic nodes 匯入 **lumbar trunks**，繼續上行至胸導管（thora
 
 ---
 
-## 會陰 (Perineum)
-
+## Perineum（會陰）
 ### 邊界與結構
 
 **Perineum** 是位於 pelvic floor 下方、雙腿之間的菱形區域。
@@ -123,8 +117,7 @@ External anal sphincter 由 **pudendal nerve**（S2-S4）的 inferior rectal bra
 
 ---
 
-## 痔瘡 (Hemorrhoids)
-
+## Hemorrhoids（痔瘡）
 > **臨床重點**：痔瘡是肛門括約肌內外靜脈叢的靜脈充血擴張。美國盛行率約 4%，具有輕微遺傳傾向；用力排便、肥胖與久坐生活方式均為危險因子。
 
 ### 分類
@@ -162,8 +155,7 @@ External anal sphincter 由 **pudendal nerve**（S2-S4）的 inferior rectal bra
 
 ---
 
-## 勃起組織 (Erectile Tissues)
-
+## Erectile Tissues（勃起組織）
 ### 結構組成
 
 兩組勃起結構共同形成陰莖與陰蒂。
@@ -191,8 +183,7 @@ External anal sphincter 由 **pudendal nerve**（S2-S4）的 inferior rectal bra
 
 ---
 
-## 陰蒂 (Clitoris)
-
+## Clitoris（陰蒂）
 **Clitoris** 由兩個 corpora cavernosa 與 glans clitoris 組成，分為附著部（root）與游離部（body）：
 
 - **Root**：僅由兩個 crura 組成（與陰莖不同）
@@ -204,8 +195,7 @@ Glans clitoris 附著於 body 遠端，經由勃起組織小帶與前庭球連�
 
 ---
 
-## 陰莖 (Penis)
-
+## Penis（陰莖）
 **Penis** 主要由兩個 corpora cavernosa 與包含尿道的單一 corpus spongiosum 組成，亦分為 root 與 body：
 
 - **Root**：包括兩個 corpora cavernosa 的近端部分（crura，附著於 pubic arch）與 **bulb of penis**（corpus spongiosum 的近端部分，附著於 perineal membrane）
@@ -219,8 +209,7 @@ Body 基部由兩個韌帶支撐：
 
 ---
 
-## 勃起 (Erection)
-
+## Erection（勃起）
 **Erection** 是由副交感神經纖維引起的血管事件。
 
 - 這些纖維經由 **pelvic splanchnic nerves**（S2-S4 前支）攜帶
@@ -247,8 +236,7 @@ Body 基部由兩個韌帶支撐：
 
 ---
 
-## 會陰肌 (Muscles of Perineum)
-
+## Muscles of Perineum（會陰肌）
 Superficial perineal pouch 包含三對肌肉：
 
 | 肌肉 | 功能 |
@@ -281,8 +269,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 會陰部膿瘡 (Abscesses in Ischio-anal Fossae)
-
+## Abscesses in Ischio-anal Fossae（會陰部膿瘡）
 > **臨床重點**：肛門黏膜特別容易受傷，可能被硬糞便輕易撕裂。患者偶爾會發生肛門管炎症與感染（竇道或隱窩）。此感染可於括約肌之間擴散，產生括約肌間瘻管（intersphincteric fistulas）。感染可向上蔓延進入骨盆腔或向側方進入 ischio-anal fossae 形成膿瘡。
 # Gray's Anatomy - Lower Limb Segment 2
 
@@ -290,38 +277,31 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 淺層會陰肌（Superficial Perineal Muscles）
-
-### 淺層會陰肌（Superficial Perineal Pouch Muscles）
-
+## Superficial Perineal Muscles（淺層會陰肌）
+### Superficial Perineal Pouch Muscles（淺層會陰肌）
 | Muscle | Origin | Insertion | Innervation | Function |
 |--------|--------|-----------|-------------|----------|
 | **Ischiocavernosus muscle** | Ischial tuberosity and ramus | Crus of penis and clitoris | Pudendal nerve (S2-S4) | 將血液從腳板移入勃起陰莖和陰蒂體部 |
 | **Bulbospongiosus muscle** | In women: perineal body; In men: perineal body, midline raphe | In women: bulb of vestibule, perineal membrane, body of clitoris, corpus cavernosum; In men: bulbospongiosus, perineal membrane, corpus cavernosum | Pudendal nerve (S2-S4) | 壓迫附著部位的海綿體，將血液驅入遠端區域（主要是龜頭）；男性：排尿後排空尿液；射精時節律性排放精液 |
 | **Superficial transverse perineal muscle** | Ischial tuberosity and ramus | Perineal body | Pudendal nerve (S2-S4) | 穩定會陰體 |
 
-### 坐骨海綿體肌（Ischiocavernosus Muscle）
-
+### Ischiocavernosus Muscle（坐骨海綿體肌）
 坐骨海綿體肌覆蓋腳板（crus）的外表面。肌肉從坐骨支和坐骨粗隆起始，附著於腳板的背面和內表面。收縮時，肌肉將血液從腳板驅入陰莖或陰蒂體部。
 
-### 球海綿體肌（Bulbospongiosus Muscle）
-
+### Bulbospongiosus Muscle（球海綿體肌）
 球海綿體肌在男性和女性中有所不同。在男性，肌肉起始於會陰體和中線縫（midline raphe），纖維環繞陰莖球並附著於會陰膜和球部結締組織。其他纖維向前外側延伸，與腳板相連並向前附著於坐骨海綿體肌。
 
 在男性和女性，球海綿體肌收縮時都會壓迫附著的勃起海綿體和前庭球，將血液驅入更遠端區域，主要是龜頭。男性球海綿體肌還有兩個額外功能：
 - 促進排尿後尿道球部的排空（排尿）
 - 射精時的反射性收縮，負責精液從陰莖的節律性排放
 
-### 淺層橫會陰肌（Superficial Transverse Perineal Muscle）
-
+### Superficial Transverse Perineal Muscle（淺層橫會陰肌）
 成對的淺層橫會陰肌與會陰膜下表面的後緣平行。這些扁平的帶狀肌肉附著於坐骨粗隆和坐骨支，向內延伸至中線的會陰體，穩定會陰體。
 
 ---
 
-## 外部生殖器淺層特徵（Superficial Features of the External Genitalia）
-
-### 女性（In Women）
-
+## Superficial Features of the External Genitalia（外部生殖器淺層特徵）
+### In Women（女性）
 女性中，陰蒂和前庭裝置與皮膚和組織褶皺一起形成外陰（vulva）。中線兩側有兩層薄褶皺，稱為小陰唇（labia minora）。包圍它們之間的區域是前庭（vestibule），尿道和陰道開口於此。前方，小陰唇各自分支，形成內側褶和外側褶。內側褶會合形成陰蒂繫帶（frenulum of clitoris），連接陰蒂頭。外側褶在腹側會合於陰蒂頭和陰蒂體上方，形成陰蒂包皮（prepuce of clitoris, hood）。陰蒂體從陰蒂頭向前延伸，在包皮和相關皮膚深側可觸及。前庭後方，小陰唇會合形成小橫向褶皺，稱為小陰唇繫帶（fourchette）。
 
 前庭內，陰道口不同程度地被膜樣環狀褶皺（處女膜，hymen）包圍，可能有小的中央孔或完全封閉陰道口。處女膜破裂後（初次性交或損傷後），不規則的殘餘邊緣環繞陰道口。
@@ -331,8 +311,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 大陰唇（labia majora）位於小陰唇外側，為寬闊的褶皺，在前方會合形成陰阜（mons pubis）。陰阜覆蓋恥骨聯合的下表面，位於前庭和陰蒂前方。後方，大陰唇不會合，被稱為後連合（posterior commissure）的凹陷分開，覆蓋會陰體的位置。
 
-### 男性（In Men）
-
+### In Men（男性）
 男性生殖器官淺層包括陰囊和陰莖。陰囊是女性大陰唇的同源結構。在胎兒時期，陰唇陰囊褶皺越過中線融合，形成單一陰囊，睪丸及其相關的肌膜覆蓋層、血管、神經、淋巴管和引流導管從腹部下降至陰囊。陰唇陰囊褶皺融合線的殘餘在陰囊皮膚上可見，為從肛門越過陰囊囊至陰莖下表面的縱向中線縫（raphe）。
 
 陰莖由根部和陰莖體組成。陰莖根部在陰囊後方的尿生殖三角可觸及。陰莖體為懸垂部分，完全被皮膚覆蓋，末端被龜頭覆蓋。
@@ -341,8 +320,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 尿生殖三角淺層筋膜（Superficial Fascia of the Urogenital Triangle）
-
+## Superficial Fascia of the Urogenital Triangle（尿生殖三角淺層筋膜）
 尿生殖三角的淺層筋膜與前腹壁的相似筋膜延續。與腹壁淺層筋膜一樣，會陰筋膜在其深面有一層膜性層（Colles' fascia）。這層膜性層附著於：
 - 後方附著於會陰膜，因此不延伸至肛門三角
 - 附著於形成尿生殖三角外側邊界的坐骨恥骨支，因此不延伸至大腿
@@ -353,10 +331,8 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 會陰部神經（Somatic Nerves）
-
-### 陰部神經（Pudendal Nerve）
-
+## Somatic Nerves（會陰部神經）
+### Pudendal Nerve（陰部神經）
 會陰部主要的身體神經是**陰部神經**。此神經起源於骶神經叢，攜帶來自脊髓 S2 至 S4 的纖維。它離開骨盆，穿過坐骨大孔（低於梨狀肌），繞過坐骨棘，然後穿過坐骨小孔進入肛門三角。當它進入並穿過會陰部時，沿著坐骨肛門窩外側壁的陰部神經管（pudendal canal）走行，陰部神經管是閉孔內肌筋膜覆蓋層中形成的管狀間隔。陰部神經管也包含內陰部动脉和伴行靜脈。
 
 陰部神經有三個主要終末分支：
@@ -364,22 +340,18 @@ Superficial perineal pouch 包含三對肌肉：
 - **會陰神經（Perineal nerve）**：進入尿生殖三角，發出運動支和皮支。運動支支配淺層和深層會陰囊的骨骼肌。最大的感覺分支是男性的**陰囊後神經**和女性的**陰唇後神經**。
 - **陰莖/陰蒂背神經（Dorsal nerve of penis/clitoris）**：進入深層會陰囊，沿囊的外側緣走行，然後穿過會陰膜，位於恥骨聯合下方，與陰蒂或陰莖體會合。它沿陰莖體的背表面走行至龜頭。背神經對陰莖和陰蒂感覺，尤其是龜頭。
 
-### 其他身體神經（Other Somatic Nerves）
-
+### Other Somatic Nerves（其他身體神經）
 進入會陰部的其他身體神經主要是感覺神經，包括髂腹股溝神經、生殖股神經、股後皮神經和肛尾神經的分支。
 
-### 內臟神經（Visceral Nerves）
-
+### Visceral Nerves（內臟神經）
 內臟神經通過兩條途徑進入會陰部：
 - 分布於皮膚的神經，主要由節後交感纖維組成，通過連接骨盆交感神經幹與骶神經前支的灰交通支，沿陰部神經進入該區域。
 - 分布於勃起組織的神經，主要通過深層會陰囊從骨盆腔的下腹神經叢進入。刺激勃起的纖維是副交感神經纖維，經由來自 S2 至 S4 脊髓水平的盆腔內臟神經進入下腹神經叢。
 
 ---
 
-## 會陰部血管（Blood Vessels）
-
-### 动脉（Arteries）
-
+## Blood Vessels（會陰部血管）
+### Arteries（动脉）
 會陰部最重要的动脉是**內陰部动脉**。其他進入該區域的动脉包括外陰部动脉、睪丸动脉和提睪肌动脉。
 
 #### 內陰部动脉（Internal Pudendal Artery）
@@ -411,14 +383,12 @@ Superficial perineal pouch 包含三對肌肉：
 
 男性中，睪丸动脉起源於腹主动脉，通過腹股溝管下降進入陰囊，供应睪丸。提睪肌动脉起源於髂外动脉的腹壁下分支，伴隨精索進入陰囊。女性中，小的提睪肌动脉隨圓韌帶通過腹股溝管。
 
-### 靜脈（Veins）
-
+### Veins（靜脈）
 會陰部靜脈通常伴隨动脉，連接連接骨盆腔內髂靜脈的內陰部靜脈。例外是陰莖或陰蒂的**背深靜脈**，主要引流龜頭和海綿體。背深靜脈沿陰莖背側兩側的背动脉之間中線走行，穿過恥骨下韌帶和深層會陰囊之間的間隙，連接男性前列腺周圍或女性膀胱周圍的靜脈叢。外陰部靜脈引流陰唇或陰囊和陰莖前側部分，與大腿的股靜脈連接。陰莖或陰蒂的淺背靜脈是外陰部靜脈的支流，引流皮膚。
 
 ---
 
-## 會陰部淋巴管（Lymphatics）
-
+## Lymphatics（會陰部淋巴管）
 會陰深層部分的淋巴管伴隨內陰部血管，主要引流至盆腔內的髂內淋巴結。
 
 > **臨床重點**：
@@ -746,8 +716,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 行走步態的決定因素（Gait Determinants）
-
+## Gait Determinants（行走步態的決定因素）
 行走週期（gait cycle）中，身體重心需盡可能保持平穩移動，以減少能量消耗。以下為步態的幾個主要決定因素：
 
 ### 重心的垂直位移
@@ -791,8 +760,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 足部骨骼（Bones of the Foot）
-
+## Bones of the Foot（足部骨骼）
 ### 組成
 
 足部骨骼由以下三部分構成：
@@ -807,33 +775,27 @@ Superficial perineal pouch 包含三對肌肉：
 - **外翻（Eversion）**：將足底轉向外側。
 內翻與外翻發生於**蹠骨間關節（intertarsal joints）**。
 
-### 蹠蹠關節（Tarsometatarsal Joints）
-
+### Tarsometatarsal Joints（蹠蹠關節）
 蹠骨與蹠骨以**蹠蹠關節**相連，僅允許有限的滑動運動。
 
-### 蹠趾關節（Metatarsophalangeal Joints, MTPJs）
-
+### Metatarsophalangeal Joints, MTPJs（蹠趾關節）
 - 每隻腳有 5 個蹠趾關節。
 - **Deep transverse metatarsal ligaments（深層蹠骨橫韌帶）**連接各蹠骨頭，限制獨立活動。
 - 允許屈曲、伸展、外展及內收，但活動範圍較手部受限。
 
-### 趾間關節（Interphalangeal Joints）
-
+### Interphalangeal Joints（趾間關節）
 為**hinge joints（屈戌關節）**，僅允許屈曲與伸展。
 
 ---
 
-## 足部弓形結構（Arches of the Foot）
-
+## Arches of the Foot（足部弓形結構）
 足部骨骼並非平面排列，而是形成縱弓與橫弓：
 
-### 縱弓（Longitudinal Arch）
-
+### Longitudinal Arch（縱弓）
 - **內側縱弓（Medial longitudinal arch）**較高，由**calcaneus（跟骨）、talus（距骨）、navicular（舟骨）**及內側蹠骨構成。
 - 由**plantar calcaneonavicular ligament（蹠跟舟韌帶，又稱 spring ligament）**支撐。
 
-### 橫弓（Transverse Arch）
-
+### Transverse Arch（橫弓）
 - 由蹠骨與蹠骨共同構成，分布於蹠骨頭水平。
 
 ### 臨床意義
@@ -846,8 +808,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 臀區肌肉（Muscles of the Gluteal Region）
-
+## Muscles of the Gluteal Region（臀區肌肉）
 臀區肌肉主要為**髖關節的伸肌、旋轉肌與外展肌**：
 
 ### 主要肌肉群
@@ -870,8 +831,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 髖關節主要屈肌（Major Flexor Muscles of the Hip）
-
+## Major Flexor Muscles of the Hip（髖關節主要屈肌）
 **髂腰肌（Iliopsoas）**為髖關節最重要的屈肌，由以下兩部分構成：
 
 - **Psoas major（腰大肌）**：附著於腰椎後外側。
@@ -881,8 +841,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 大腿與小腿的肌肉筋膜室（Muscle Compartments）
-
+## Muscle Compartments（大腿與小腿的肌肉筋膜室）
 大腿與小腿的肌肉由**筋膜、骨骼與韌帶**分隔為不同的筋膜室。
 
 ### 大腿的三個筋膜室
@@ -901,8 +860,7 @@ Superficial perineal pouch 包含三對肌肉：
 | **前側筋膜室（Anterior compartment）** | **足部背屈（Dorsiflexion）**、伸趾 |
 | **後側筋膜室（Posterior compartment）** | **足部蹠屈（Plantarflexion）**、屈趾（部分肌肉可屈膝） |
 
-### 足部固有肌肉（Intrinsic Muscles）
-
+### Intrinsic Muscles（足部固有肌肉）
 - 修改從小腿進入足部的肌腱所產生的力。
 - 在行走時，特別是**toe-off（前足離地）**階段，為縱弓提供動態支撐。
 
@@ -910,8 +868,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 與其他區域的解剖關聯（Relationship to Other Regions）
-
+## Relationship to Other Regions（與其他區域的解剖關聯）
 下肢與**腹部、骨盆及會陰**之間有四個主要通道：
 
 1. **腹股溝韌帶與骨盆骨之間的間隙**
@@ -967,8 +924,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 皮節（Dermatomes）
-
+## Dermatomes（皮節）
 下肢皮節分布如下（具有最小重疊的自主區）：
 
 | 皮節 | 測試區域 |
@@ -987,8 +943,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 肌節（Myotomes）
-
+## Myotomes（肌節）
 | 運動 | 主要控制的肌節 |
 |------|----------------|
 | **髖關節屈曲（Hip flexion）** | L1, L2 |
@@ -1006,8 +961,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 下肢主要神經（Major Nerves of the Lower Limb）
-
+## Major Nerves of the Lower Limb（下肢主要神經）
 ### 神經來源與分布
 
 | 神經 | 主要支配區域 |
@@ -1032,8 +986,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 骨骼相關神經（Nerves Related to Bone）
-
+## Nerves Related to Bone（骨骼相關神經）
 **Common fibular nerve（腓總神經）**在離開膕窩（popliteal fossa）進入小腿時，繞過**腓骨頸（neck of fibula）**外側。
 
 - 神經可在**Biceps femoris**附著於腓骨頭遠端處滾動觸及。
@@ -1043,8 +996,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 淺層靜脈（Superficial Veins）
-
+## Superficial Veins（淺層靜脈）
 下肢淺層筋膜中的大靜脈常見**靜脈曲張（varicose veins）**，但也可作為**血管移植**的來源。
 
 ### 主要淺層靜脈
@@ -1060,8 +1012,7 @@ Superficial perineal pouch 包含三對肌肉：
 
 ---
 
-## 局部解剖：骨盆骨骼（Regional Anatomy: Bony Pelvis）
-
+## Regional Anatomy: Bony Pelvis（局部解剖：骨盆骨骼）
 ### 骨盆骨的組成
 
 每塊**pelvic bone（骨盆骨）**由三塊骨頭在童年期融合而成：
@@ -1094,8 +1045,7 @@ Superficial perineal pouch 包含三對肌肉：
 - **Iliopubic eminence（髂恥隆起）**為髂骨與恥骨的過渡區域。
 - **Posterior gluteal line（前臀線）**、**Inferior gluteal line（下臀線）**等標誌為臀區肌肉附著處。
 
-### 髖關節（Hip Joint）
-
+### Hip Joint（髖關節）
 - **股骨頭（Head of femur）**與**髖臼（Acetabulum）**構成。
 - 為典型的**ball-and-socket joint（杵臼關節）**，具有三個運動軸。
 
@@ -1113,8 +1063,8 @@ Superficial perineal pouch 包含三對肌肉：
 - 由**脛骨遠端、腓骨遠端與距骨（Talus）**構成。
 - 為** hinge joint（屈戌關節）**，主要允許**背屈（Dorsiflexion）**與**蹠屈（Plantarflexion）**。
 - 穩定性由以下結構維持：
-  - **Medial collateral ligament（內側副韌帶 / Deltoid ligament）**
-  - **Lateral collateral ligament（外側副韌帶）**：包括 Anterior talofibular ligament、Calcaneofibular ligament、Posterior talofibular ligament
+ - **Medial collateral ligament（內側副韌帶 / Deltoid ligament）**
+ - **Lateral collateral ligament（外側副韌帶）**：包括 Anterior talofibular ligament、Calcaneofibular ligament、Posterior talofibular ligament
 
 ### 足部關節
 
@@ -1131,9 +1081,9 @@ Superficial perineal pouch 包含三對肌肉：
 
 - 為足底厚实的纤维结缔组织，从**跟骨结节（calcaneal tuberosity）**向前延伸至**蹠骨頭（metatarsal heads）**。
 - 功能：
-  - 維持**內側縱弓（medial longitudinal arch）**
-  - 行走時提供**推進力（windlass mechanism）**
-  - 保護足底結構
+ - 維持**內側縱弓（medial longitudinal arch）**
+ - 行走時提供**推進力（windlass mechanism）**
+ - 保護足底結構
 
 > **臨床重點**：
 > - **蹠筋膜炎症（Plantar fasciitis）**：常見於需要長期站立或跑步的人群，表現為足跟疼痛，尤其在早晨第一步時最為劇烈。
@@ -1462,17 +1412,17 @@ The **superficial veins** are in the subcutaneous connective tissue and are inte
 - The **small saphenous vein** originates from the **lateral side** of the dorsal venous arch, ascends up the posterior surface of the leg, and then penetrates deep fascia to join the **popliteal vein** posterior to the knee; proximal to the knee, the popliteal vein becomes the femoral vein.
 
 > **臨床重點：靜脈曲張（Varicose Veins）**
-> 
+>
 > 下肢血液正常回流路徑：皮膚和皮下組織 → 淺層靜脈 → 穿透靜脈（perforating veins）→ 深層靜脈 → 髂靜脈 → 下腔靜脈。靜脈系統的正常血流依賴**正常的靜脈瓣膜**防止逆流。肌肉收縮時會像幫浦一樣將血液推向心臟。當靜脈瓣膜功能不全時，會對更遠端的瓣膜造成額外壓力，導致**曲張靜脈（varicose veins）**，常見於**大隱靜脈系統**和**小隱靜脈系統**。
-> 
+>
 > 靜脈曲張在女性中比男性更常見，懷孕常使症狀加重，部分患者有遺傳傾向。深層靜脈血栓形成時，血栓可能破壞瓣膜使其功能不全。慢性靜脈功能不全會導致皮膚褐色色素沉著、靜脈濕疹，嚴重時皮膚潰爛，需長時間住院治療。治療方式包括結紮瓣膜、**靜脈剝離術（stripping）**，以及瓣膜重建手術。
 
 > **臨床重點：深層靜脈血栓（Deep Vein Thrombosis, DVT）**
-> 
+>
 > 深層靜脈血栓可發生在下肢深層靜脈和骨盆腔靜脈。病因可用 **Virchow 三要素** 解釋：**靜脈瘀滯（venous stasis）**、**血管壁損傷（injury to vessel wall）**、以及**高凝狀態（hypercoagulable states）**。
-> 
+>
 > 腓腸肌靜脈的 DVT 可能蔓延至股靜脈。血栓可能脫落並經心臟進入肺循環，導致**肺栓塞（pulmonary embolism）**、心肺驟停甚至死亡。多數手術患者有發生 DVT 的風險，因此術後常規給予預防性抗凝治療（抗凝針劑及漸進式彈性襪）。
-> 
+>
 > 診斷靠**雙功能都卜勒超聲（duplex Doppler sonography）**或**上行性靜脈造影（ascending venography）**。確診後給予靜脈及口服抗凝治療以防止血栓擴展。
 # Lower Limb — Segment 8
 
@@ -1555,7 +1505,7 @@ In the femoral triangle, the **femoral artery** and **vein** and the associated 
 
 ---
 
-## GLUTEAL REGION
+## Gluteal Region
 
 The **gluteal region** lies posterolateral to the bony pelvis and proximal end of the **femur** (Fig. 6.43). Muscles in the region mainly **abduct**, **extend**, and **laterally rotate** the femur relative to the pelvic bone.
 

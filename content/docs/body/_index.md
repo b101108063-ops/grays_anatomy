@@ -456,10 +456,8 @@ CT 掃描的最大優勢在於能夠擴展和壓縮灰階，以顯示**骨骼（
 - **恥骨聯合（Symphyses）**
 
 
-## 骨骼系統（Skeletal System）
-
-### 軟骨性關節（Solid Joints）
-
+## Skeletal System（骨骼系統）
+### Solid Joints（軟骨性關節）
 | 關節類型 | 結構特點 |
 |---|---|
 | **Sutures（縫合關節）** | 骨縫韌帶連接 |
@@ -504,10 +502,8 @@ Symphyses 發生於兩塊獨立骨骼以軟骨相互連接的部位。此類關�
 
 ---
 
-## 皮膚與筋膜（Skin and Fascia）
-
-### 皮膚（Skin）
-
+## Skin and Fascia（皮膚與筋膜）
+### Skin（皮膚）
 **皮膚（skin）** 是人體最大的器官，由**表皮（epidermis）**及**真皮（dermis）**組成。表皮是外層細胞性複層鱗狀上皮，無血管，厚度各處不同。真皮則是富含血管的緻密結締組織層。
 
 **皮膚功能：**
@@ -516,8 +512,7 @@ Symphyses 發生於兩塊獨立骨骼以軟骨相互連接的部位。此類關�
 - 感覺與體溫調節器官
 - 可引發初級免疫反應
 
-### 筋膜（Fascia）
-
+### Fascia（筋膜）
 **筋膜（fascia）** 是含不同程度脂肪的結締組織，其功能包括：分離、支撐及互聯器官與結構；允許結構間相對運動；允許血管與神經由一區域穿越至另一區域。筋膜分為兩大類：
 
 #### Superficial Fascia（淺層筋膜）
@@ -548,8 +543,7 @@ Symphyses 發生於兩塊獨立骨骼以軟骨相互連接的部位。此類關�
 
 ---
 
-## 肌肉系統（Muscular System）
-
+## Muscular System（肌肉系統）
 肌肉系統通常被認為由人體中的一種肌肉——**骨骼肌（skeletal muscle）**所構成。然而人體中還有另外兩種肌肉組織：**平滑肌（smooth muscle）**及**心肌（cardiac muscle）**，是其他系統的重要組成部分。這三種肌肉可依以下特徵區分：是否受意識控制、是否有橫紋（條紋）或平滑外觀、以及是否與體壁（軀體性）或器官及血管（臟器性）相關。
 
 ### Skeletal Muscle（骨骼肌）
@@ -601,8 +595,7 @@ Symphyses 發生於兩塊獨立骨骼以軟骨相互連接的部位。此類關�
 
 ---
 
-## 心血管系統（Cardiovascular System）
-
+## Cardiovascular System（心血管系統）
 心血管系統由**心臟（heart）**（將血液泵送至全身）及**血管（blood vessels）**（封閉的管網絡，運輸血液）所組成。血管分為三類：
 
 - **Arteries（ arteries）**：將血液離開心臟運輸
@@ -619,8 +612,7 @@ Symphyses 發生於兩塊獨立骨骼以軟骨相互連接的部位。此類關�
 | 中膜 | **Tunica media** | 中層平滑肌層（中等及大 arteries 另含彈性纖維） |
 | 內膜 | **Tunica intima** | 內層內皮襯裡 |
 
-### Arteries 分類
-
+### Arteries（分類）
 Arteries 依平滑肌及彈性纖維含量（決定 tunica media 厚度）、整體管徑大小及功能，可進一步分為三類：
 
 #### 大彈性 arteries（Large Elastic Arteries）
@@ -635,8 +627,7 @@ Tunica media 主要由平滑肌纖維組成，可調節管徑並控制不同身�
 
 控制毛細血管的充盈程度，並直接影響血管系統的 arterial 壓力。
 
-### Veins 分類
-
+### Veins（分類）
 Veins 同樣分為三類：
 
 #### 大靜脈（Large Veins）
@@ -698,10 +689,8 @@ Tunica media 含些許平滑肌，但最厚的層次是 tunica externa。例子�
 
 ---
 
-## 淋巴系統（Lymphatic System）
-
-### 淋巴管（Lymphatic Vessels）
-
+## Lymphatic System（淋巴系統）
+### Lymphatic Vessels（淋巴管）
 淋巴管形成廣泛且複雜的互聯通道網絡，起始於身體組織中「多孔」的盲端**淋巴毛細管（lymphatic capillaries）**，逐漸匯聚成較大的淋巴管，最終在頸根處與大靜脈連接。
 
 淋巴管主要收集血管毛細血管床在營養交換過程中流失的液體，並將其送回靜脈系統。此外，間質液中還包含：病原體、淋巴系統細胞、細胞產物（如激素）及細胞碎片。
@@ -1126,10 +1115,10 @@ III、VII、IX 的副交感纖維與四個獨立神經節連接，這些神經�
 
 - **Extrinsic muscles（外在肌）**：移動上肢與肋骨。
 - **Intrinsic muscles（內在肌）**：維持姿勢並移動 vertebral column；這些運動包括：
-  - **Flexion（前屈）**：向前彎曲
-  - **Extension（後伸）**
-  - **Lateral flexion（側屈）**
-  - **Rotation（旋轉）**（圖 2.3）
+ - **Flexion（前屈）**：向前彎曲
+ - **Extension（後伸）**
+ - **Lateral flexion（側屈）**
+ - **Rotation（旋轉）**（圖 2.3）
 
 > **臨床重點**：雖然任意兩個 vertebrae之間的運動幅度有限，但沿脊柱累積起來的效果相當可觀。胸椎區域的活動度與後伸幅度受限，相對於腰椎部分更為明顯。前側肌肉收縮時可使 vertebral column 前屈。
 

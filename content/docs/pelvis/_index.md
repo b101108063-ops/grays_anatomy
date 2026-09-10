@@ -36,8 +36,7 @@ Each of the vertebral levels in the abdomen is related to the origin of major bl
 
 ---
 
-## Surface Anatomy — 表面解剖
-
+## Surface Anatomy（表面解剖）
 ### Using Abdominal Quadrants to Locate Major Viscera
 
 The abdomen can be divided into quadrants by a vertical median plane and a horizontal **transumbilical plane**, which passes through the **umbilicus** (Fig. 4.168):
@@ -104,8 +103,7 @@ The spleen follows the contour of rib X and extends from the superior pole of th
 
 ---
 
-## Clinical Cases — 臨床案例
-
+## Clinical Cases（臨床案例）
 ### Case 1: TRAUMATIC RUPTURE OF THE DIAPHRAGM
 
 A 45-year-old man had mild epigastric pain, and a diagnosis of esophageal reflux was made. He was given appropriate medication, which worked well. However, at the time of the initial consultation, the family practitioner requested a chest radiograph, which demonstrated a prominent hump on the left side of the diaphragm and old rib fractures.
@@ -358,8 +356,7 @@ An emergency **transjugular intrahepatic portosystemic shunt (TIPS)** was create
 
 ## Case 9
 
-## 胰頭癌 (Carcinoma of the Head of the Pancreas)
-
+## Carcinoma of the Head of the Pancreas（胰頭癌）
 一位52歲女性因持續疲倦及嘔吐就診。醫師檢查發現，與先前就診時相比，患者體重明顯下降，並出現**黃疸 (jaundice)**。腹部觸診時，在右季肋部肝緣下方可觸及一個边界清楚、直徑約10公分的圓形腫塊（圖4.176）。
 
 **臨床診斷：胰頭癌**
@@ -380,8 +377,7 @@ An emergency **transjugular intrahepatic portosystemic shunt (TIPS)** was create
 
 嘔吐和體重減輕（**惡病質 (cachexia)**）在惡性腫瘤患者中並不少見。**胰頭 (head of pancreas)** 位於**十二指腸 (duodenum)** 曲內，主要緊鄰**十二指腸降部 (descending part of the duodenum)**。胰頭的任何腫塊都可能增大並包繞或侵犯十二指腸。不幸的是，此患者的腫瘤確實發生了這種情況，造成幾乎完全的腸道阻塞。進一步詢問患者後發現，她每餐飯後不久就會嘔吐未消化的食物。
 
-### CT 掃描顯示的進一步併發症
-
+### CT（掃描顯示的進一步併發症）
 胰頭及胰頸區域有複雜的解剖結構，可能受到惡性疾病的侵犯。CT 掃描確認胰頭處有腫塊，侵犯了**十二指腸降部**。腫塊延伸至**胰頸 (neck of pancreas)**，阻塞了**膽總管**和**胰管 (pancreatic duct)**。在後方，腫瘤直接侵犯了**脾靜脈 (splenic vein)** 和**腸繫膜上靜脈 (superior mesenteric vein)** 匯合成的**門靜脈 (portal venous confluence)**，形成了一系列**胃靜脈曲張 (gastric varices)**、**脾靜脈曲張 (splenic varices)** 和**小腸靜脈曲張 (small bowel varices)**。
 
 此患者接受了緩解性化學治療，但在7個月後去世。
@@ -390,8 +386,7 @@ An emergency **transjugular intrahepatic portosystemic shunt (TIPS)** was create
 
 ## Case 10
 
-## 下腔靜脈阻塞 (Caval Obstruction)
-
+## Caval Obstruction（下腔靜脈阻塞）
 一位62歲男性因雙腿腫脹及大型左側**精索靜脈曲張 (varicocele)**（左側睪丸周圍及左側**蔓狀靜脈叢 (pampiniform plexus)** 靜脈擴大紆曲）至急診就診。
 
 該患者已知患有**左側腎細胞癌 (left renal cell carcinoma)**，預定於隔週進行手術治療。
@@ -416,8 +411,7 @@ An emergency **transjugular intrahepatic portosystemic shunt (TIPS)** was create
 
 ## Case 11
 
-## 憩室疾病 (Diverticular Disease)
-
+## Diverticular Disease（憩室疾病）
 一位65歲男性商人因嚴重的下腹部疼痛至急診就診，疼痛主要位於中線及左側。他同時有疼痛放射至左側腰背部，並注意到排尿時有排氣和糞便殘渣。
 
 對其腹部和骨盆進行了CT掃描（圖4.177）。
@@ -446,8 +440,7 @@ CT掃描顯示左側**髂窩 (iliac fossa)** 有液體聚積（可能為**骨盆
 
 ## Case 12
 
-## 腹主動脈瘤血管內修復後的內漏 (Endoleak after Endovascular Repair of Abdominal Aortic Aneurysm)
-
+## Endoleak after Endovascular Repair of Abdominal Aortic Aneurysm（腹主動脈瘤血管內修復後的內漏）
 一位72歲男性因**腹主動脈瘤 (abdominal aortic aneurysm)**（腎下腹主動脈擴張）被送至急診。**主動脈瘤**直徑達10公分，經與患者討論後安排修復手術。
 
 **腹主動脈瘤的治療**多年來一直是手術方法，切除擴張的主動脈並植入**人工血管移植片 (graft)**。現代的替代方案是從血管內放置移植片襯附於瘤壁（**血管內動脈瘤修復術 (endovascular aneurysm repair)**）。此技術中，外科醫師游離**股總動脈 (femoral artery)** 並做一小切口。移植片被壓縮在**導管 (catheter)** 內，導管經股動脈、髂動脈系統進入遠端腹主動脈。移植片可在主動脈內釋放，有效地襯附主動脈壁，防止主動脈瘤進一步擴張。
@@ -474,8 +467,7 @@ CT掃描顯示左側**髂窩 (iliac fossa)** 有液體聚積（可能為**骨盆
 
 ## Case 13
 
-## 肝臟轉移性病灶 (Metastatic Lesions in the Liver)
-
+## Metastatic Lesions in the Liver（肝臟轉移性病灶）
 一位44歲女性因腳趾發現**黑色素瘤 (melanoma)**，接受了系列檢查。
 
 **黑色素瘤**（正式名稱為**惡性黑色素瘤 (malignant melanoma)**）是一種侵襲性強的皮膚癌，可轉移至淋巴結和體內多個器官。其惡性潛能取決於細胞結構和**皮膚穿透深度**。
@@ -581,8 +573,8 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 - Interactive Surface Anatomy — 互動表面解剖動畫
 - Medical Clinical Case Studies — 臨床病例研究
 - Free Online Self-Study Course: Anatomy and Embryology
-  - Anatomy modules 18–22
-  - Embryology modules 68–70
+ - Anatomy modules 18–22
+ - Embryology modules 68–70
 
 ---
 
@@ -621,8 +613,7 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 
 ---
 
-## Perineum 會陰
-
+## Perineum（會陰）
 ### 會陰 Perineum — 概念性總覽
 
 **Perineum** 位於** pelvic floor** 下方、** lower limbs** 之間。其邊界由** pelvic outlet** 形成。**Ischial tuberosities**之間的假想線將會陰分為兩個三角區域：
@@ -634,10 +625,8 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 
 ---
 
-## Pelvic Floor 骨盆底
-
-### Pelvic Floor — 概念性總覽
-
+## Pelvic Floor（骨盆底）
+### Pelvic Floor（概念性總覽）
 **Pelvic floor** 由肌肉和筋膜構成，分隔** pelvic cavity** 與** perineum**。
 
 兩側** levator ani muscles** 附著於** pelvic walls**，於中線以結締組織縫隙相連。它們是構成盆狀或漏斗狀結構 **pelvic diaphragm** 的最大部分，後方由** coccygeus muscles** 完成。
@@ -661,10 +650,8 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 
 ---
 
-## Pelvic Cavity 骨盆腔
-
-### Pelvic Cavity — 概念性總覽
-
+## Pelvic Cavity（骨盆腔）
+### Pelvic Cavity（概念性總覽）
 **Pelvic cavity** 襯有** peritoneum**，與腹腔** peritoneum** 相延續，包覆** pelvic viscera** 的上方，但在大多數區域未達** pelvic floor**。
 
 **Pelvic viscera** 位於** pelvic cavity** 中線：
@@ -679,14 +666,12 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 
 ## 組成部分 Component Parts
 
-### Pelvic Inlet 骨盆入口
-
+### Pelvic Inlet（骨盆入口）
 **Pelvic inlet** 呈心形，完全由骨骼環繞。後方以** SI vertebra** 的** body** 為界，突入 inlet 形成** sacral promontory**。椎骨兩側的翼狀橫突稱為** alae**（wings），構成 inlet 邊緣。外側，** pelvic bone** 上的突出邊緣延續邊界向前至** pubic symphysis**（兩側** pelvic bones** 於中線相連之處）。
 
 > **臨床重點**：**Pelvic inlet** 的徑線在分娩過程中至關重要。胎兒需通過** pelvic inlet** 從腹腔進入** pelvic outlet**。
 
-### Pelvic Walls 骨盆壁
-
+### Pelvic Walls（骨盆壁）
 **True pelvis** 的壁主要由骨骼、肌肉和韌帶構成，**sacrum**、**coccyx** 和** pelvic bones** 的下半部構成其大部分。
 
 兩條韌帶——**sacrospinous ligament** 和** sacrotuberous ligament**——是壁的重要建築元素，連接每側** pelvic bone** 至** sacrum** 和** coccyx**。這些韌帶也將** pelvic bones** 上的兩個切跡——**greater** 和** lesser sciatic notches**——轉換為** lateral pelvic walls** 上的** foramina**。
@@ -695,8 +680,7 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 
 > **臨床重點**：**Sacrospinous ligament** 和** sacrotuberous ligament** 在維持骨盆穩定性中扮演關鍵角色，並可作為微創手術的定位標誌。
 
-### Pelvic Outlet 骨盆出口
-
+### Pelvic Outlet（骨盆出口）
 菱形的** pelvic outlet** 由骨骼和韌帶共同構成。前方以中線的** pubic symphysis** 為界。
 
 每側，** pelvic bone** 的下緣從** pubic symphysis** 向後外側延伸，終止於明顯的** ischial tuberosity**。這些結構共同構成** pubic arch**，形成** pelvic outlet** 前半的邊緣。
@@ -707,8 +691,7 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 
 > **臨床重點**：**Ischial tuberosities** 的觸診常用於評估會陰解剖，並在某些婦科手術中作為定位標誌。
 
-### Pelvic Floor 骨盆底
-
+### Pelvic Floor（骨盆底）
 **Pelvic floor** 分隔** pelvic cavity** 與** perineum**，由肌肉和筋膜構成。
 
 兩側** levator ani muscles** 周邊附著於** pelvic walls**，於中線以結締組織縫隙相連。它們是構成盆狀或漏斗狀結構** pelvic diaphragm** 的最大部分，後方由** coccygeus muscles** 完成。這些肌肉覆於** sacrospinous ligaments** 之上，介於** sacrum** 和** coccyx** 的邊緣與** pelvic bone** 上的明顯** ischial spine** 之間。
@@ -728,13 +711,12 @@ CT掃描顯示病灶位於**肝臟第V和第VI段**（圖4.178）。
 
 **Vagina** 和** urethra** 穿過** pelvic floor**，從** pelvic cavity** 進入** perineum**。
 
-### Perineum 會陰
-
+### Perineum（會陰）
 **Perineum** 位於** pelvic floor** 下方、** lower limbs** 之間。其邊界由** pelvic outlet** 形成。**Ischial tuberosities** 之間的假想線將會陰分為兩個三角區域：
 
 - **Urogenital triangle**（泌尿生殖三角）位於前方，包含：
-  - 女性：**clitoris** 根部、**urethra** 和** vagina** 開口（圖 5.9A）
-  - 男性：**penis** 根部，**urethra** 末端被勃起組織包圍，開口於**penis** 末端（圖 5.9B）
+ - 女性：**clitoris** 根部、**urethra** 和** vagina** 開口（圖 5.9A）
+ - 男性：**penis** 根部，**urethra** 末端被勃起組織包圍，開口於**penis** 末端（圖 5.9B）
 - **Anal triangle**（肛門三角）位於後方，包含** anal aperture**
 
 ---
@@ -1282,8 +1264,8 @@ Within the deep perineal pouch, a sheet of skeletal muscle functions as a sphinc
 
 - **Anteriorly**, a group of muscle fibers surround the urethra and collectively form the **external urethral sphincter**（尿道外括約肌）。
 - **Two additional groups of muscle fibers** are associated with the urethra and vagina in women:
-  - One group forms the **sphincter urethrovaginalis**（尿道陰道括約肌），which surrounds the urethra and vagina as a unit.
-  - The second group forms the **compressor urethrae**（尿道壓迫肌），on each side，which originate from the **ischiopubic rami** and meet anterior to the urethra. Together with the external urethral sphincter, the sphincter urethrovaginalis and compressor urethrae facilitate closing of the urethra.
+ - One group forms the **sphincter urethrovaginalis**（尿道陰道括約肌），which surrounds the urethra and vagina as a unit.
+ - The second group forms the **compressor urethrae**（尿道壓迫肌），on each side，which originate from the **ischiopubic rami** and meet anterior to the urethra. Together with the external urethral sphincter, the sphincter urethrovaginalis and compressor urethrae facilitate closing of the urethra.
 - In both men and women, a **deep transverse perineal muscle** on each side parallels the free margin of the perineal membrane and joins with its partner at the midline. These muscles are thought to stabilize the position of the **perineal body**（會陰體）。
 
 #### Table 5.3 — Muscles Within the Deep Perineal Pouch
@@ -1879,8 +1861,7 @@ Mesovarium 的腹膜與卵巢表面緊密附著，成為卵巢的**表面上皮�
 
 **Internal iliac artery** 是骨盆腔與會陰的主要动脉（Fig. 5.63）。除了供應大多數骨盆腔內臟、骨盆腔壁與地板，以及會陰結構（包括陰蒂與陰莖的勃起組織）外，該动脉還發出分支伴随神經進入下肢的臀區。起源於腹腔、並參與骨盆腔結構供應的其他血管包括 **median sacral artery**（正中骶动脉）以及女性身上的 **ovarian arteries**（卵巢动脉）。
 
-### Posterior Trunk 分支
-
+### Posterior Trunk（分支）
 #### Iliolumbar Artery（髂腰动脉）
 
 #### Lateral Sacral Arteries（骶外側动脉）
@@ -1926,8 +1907,8 @@ Mesovarium 的腹膜與卵巢表面緊密附著，成為卵巢的**表面上皮�
 - 在 **piriformis muscle** 前方形成
 - 經 greater sciatic foramen（piriformis 下方）離開骨盆腔
 - 在大腿分为：
-  - **Common fibular nerve**（腓總神經）/ Common peroneal nerve：攜帶 L4, L5, S1, S2 的背側分支
-  - **Tibial nerve**（脛神經）：攜帶 L4, L5, S1, S2, S3 的腹側分支
+ - **Common fibular nerve**（腓總神經）/ Common peroneal nerve：攜帶 L4, L5, S1, S2 的背側分支
+ - **Tibial nerve**（脛神經）：攜帶 L4, L5, S1, S2, S3 的腹側分支
 - 支配大腿後側腔室所有肌肉（小腿二頭肌短頭除外）
 - 支配小腿與足部肌肉
 - 感覺纖維來自足部與小腿外側皮膚
@@ -2037,10 +2018,10 @@ Mesovarium 的腹膜與卵巢表面緊密附著，成為卵巢的**表面上皮�
 - 由腹下神經與 **pelvic splanchnic nerves**（S2-S4 副交感）會合形成
 - 每側各一，沿骨盆腔壁下行
 - 發出以下附屬神經叢：
-  - **Rectal plexus**（直腸神經叢）
-  - **Uterovaginal plexus**（子宫陰道神經叢）
-  - **Prostatic plexus**（前列腺神經叢）
-  - **Vesical plexus**（膀胱神經叢）
+ - **Rectal plexus**（直腸神經叢）
+ - **Uterovaginal plexus**（子宫陰道神經叢）
+ - **Prostatic plexus**（前列腺神經叢）
+ - **Vesical plexus**（膀胱神經叢）
 
 #### 終末分支
 
@@ -2054,20 +2035,20 @@ Mesovarium 的腹膜與卵巢表面緊密附著，成為卵巢的**表面上皮�
 
 - 來源：主要來自 **T10 至 T12** 的節前纖維（經腹下神經與 sacral splanchnic nerves）
 - 功能：
-  - 支配血管平滑肌
-  - 引起男性**內尿道括約肌**及男女**內肛門括約肌**收縮
-  - 引起生殖道及附屬腺體平滑肌收縮
-  - 射精時，將附睪及相關腺體分泌物排入尿道形成精液
+ - 支配血管平滑肌
+ - 引起男性**內尿道括約肌**及男女**內肛門括約肌**收縮
+ - 引起生殖道及附屬腺體平滑肌收縮
+ - 射精時，將附睪及相關腺體分泌物排入尿道形成精液
 
 ### Parasympathetic Fibers（副交感纖維）
 
 - 來源：**S2 至 S4** 的 pelvic splanchnic nerves
 - 功能：
-  - 血管舒張
-  - 刺激膀胱收縮
-  - 刺激勃起
-  - 調節結腸（左 colic flexure 以遠）的腸神經系統活動
-  - 部分纖維向上進入腹部 inferior mesenteric plexus
+ - 血管舒張
+ - 刺激膀胱收縮
+ - 刺激勃起
+ - 調節結腸（左 colic flexure 以遠）的腸神經系統活動
+ - 部分纖維向上進入腹部 inferior mesenteric plexus
 
 ### Visceral Afferent Fibers（內臟感覺纖維）
 

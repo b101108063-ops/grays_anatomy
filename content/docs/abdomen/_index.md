@@ -225,8 +225,7 @@ date: 2026-09-09
 
 正常的腹部內臟位置，源自於腸道管腔所經歷的一系列複雜旋轉，以及腹腔隨發育中器官大小變化而進行的擴展（見第 265-268 頁）。在腸道發育期間可能發生多種發育異常，其中許多在新生兒或嬰兒時期即會出現，有些甚至需要緊急手術處理。偶爾這類疾病僅在成人階段才被診斷出來。
 
-### 腸道旋轉不良與中腸扭轉（Malrotation and Midgut Volvulus）
-
+### Malrotation and Midgut Volvulus（腸道旋轉不良與中腸扭轉）
 **Malrotation**（旋轉不良）是指中腸離開臍囊、回到腹腔後，旋轉與固定不完全的狀態（圖 4.87 與 4.88）。
 
 > **臨床重點**：小腸腸繫膜的近端附著處從 **suspensory muscle of duodenum**（十二指腸懸韌帶，又稱 **ligament of Treitz**）開始，此結構決定了 **duodenojejunal junction**（十二指腸空腸交界處）的位置。小腸腸繫膜的終點位於右腰部的 **ileocecal junction**（迴腸盲腸交界處）。這條長軸的固定線可防止腸道意外扭轉。
@@ -237,8 +236,7 @@ date: 2026-09-09
 
 ---
 
-## 腸道阻塞（Bowel Obstruction）
-
+## Bowel Obstruction（腸道阻塞）
 腸道阻塞可分為功能性或機械性。**Mechanical obstruction**（機械性阻塞）由腔內、壁內或外在腫塊引起，可能源於異物、腸壁腫瘤，或來自黏連、胚胎期黏帶的外在壓迫（圖 4.89）。
 
 **Functional obstruction**（功能性阻塞）通常因腸道無法蠕動所致，常見於術後過度操作腸道所引起。其他原因包括電解質異常（例如鈉、鉀失衡），導致腸道麻痺，纠正後可恢復。
@@ -253,8 +251,7 @@ date: 2026-09-09
 
 ---
 
-## 憩室疾病（Diverticular Disease）
-
+## Diverticular Disease（憩室疾病）
 **Diverticular disease**（憩室疾病）是指結腸出現多個憩室的狀態，主要分布在**sigmoid colon**（乙狀結腸），但也可能影響整段結腸（圖 4.91）。乙狀結腸是結腸中最細的部位，因此腔內壓力潛在最高。飲食纖維攝取不足與肥胖也與憩室疾病相關。
 
 > **臨床重點**：多個憩室的存在並不一定需要治療，許多患者沒有其他症狀。當憩室頸部被糞便堵塞並感染時，才會產生症狀。炎症可能沿腸壁擴散，引起腹痛。一旦乙狀結腸發炎（**diverticulitis**，憩室炎），便會出現腹痛與發燒。
@@ -265,38 +262,31 @@ date: 2026-09-09
 
 ---
 
-## 腸造口術（Ostomies）
-
+## Ostomies（腸造口術）
 偶爾需要以手術方式將腸道外置於前腹壁。這些異常解剖繞道手術運用了我們的解剖學知識，在許多情況下可挽救生命。
 
-### 胃造口術（Gastrostomy）
-
+### Gastrostomy（胃造口術）
 **Gastrostomy**（胃造口術）是將胃固定於前腹壁，並經皮膚插入導管的手術。通常用於無法經口進食與液體的患者（例如複雜的頭頸部癌症）。可經外科手術或直接在前腹壁進行穿刺注射Sedation後完成。
 
-### 空腸造口術（Jejunostomy）
-
+### Jejunostomy（空腸造口術）
 同理，**jejunum**（空腸）被拉至前腹壁並固定。**Jejunostomy**（空腸造口術）作為餵食管的位置，導管經前腹壁進入近端輸出小腸。
 
-### 迴腸造口術（Ileostomy）
-
+### Ileostomy（迴腸造口術）
 **Ileostomy**（迴腸造口術）在需要將小腸內容物分流至遠端腸道時進行，常用於保護遠端手術吻合口，例如讓結腸在術後癒合。
 
-### 結腸造口術（Colostomy）
-
+### Colostomy（結腸造口術）
 有多種情況可能需要**colostomy**（結腸造口術）。許多情況是用於術後保護遠端大腸。另一適應症包括即將穿孔的大腸阻塞，此時結腸造口術可引流腸道內容物，是一項安全且暫時性的措施，在患者狀況不佳無法接受大手術時尤為適用。
 
 > **臨床重點**：當患者接受直腸與肛門的手術切除（通常為癌症）後，需要**end colostomy**（末端結腸造口）。
 
-### 迴腸導管（Ileal Conduit）
-
+### Ileal Conduit（迴腸導管）
 **Ileal conduit**（迴腸導管）是一種異常解剖繞道手術，在膀胱切除術後（通常為腫瘤）進行。取一段短的小腸段，遊離出約 20 公分帶有自己的腸繫膜。這段隔離的腸段作為導管使用，將近端與輸尿管吻合，遠端與前腹壁吻合。因此尿液從腎臟經輸尿管、通過這段小腸排出至前腹壁。
 
 > **臨床重點**：接受 ileostomy、colostomy 或 ileal conduit 的患者需要在前腹壁黏貼集液袋。這些袋子大多數患者都能良好適應，可讓患者過著接近正常與健康的生活。
 
 ---
 
-## 肝臟（Liver）
-
+## Liver（肝臟）
 **肝臟**是人體最大的內臟器官，主要位於**右季肋區（right hypochondrium）**與**上腹部區（epigastric region）**，並延伸至左季肋區（圖 4.92）。
 
 肝臟的** surfaces（表面）**包括：
@@ -304,8 +294,7 @@ date: 2026-09-09
 - **Diaphragmatic surface**（膈面）：朝向前、上、後方向；
 - **Visceral surface**（臟面）：朝向下方向（圖 4.93）。
 
-### 膈面（Diaphragmatic Surface）
-
+### Diaphragmatic Surface（膈面）
 肝臟的膈面光滑呈圓頂狀，位於**橫膈（diaphragm）**下方（圖 4.94）。與其相關的結構包括**subphrenic recess**（膈下間隙）與**hepatorenal recess**（肝腎隱窩）（圖 4.93）：
 
 > **臨床重點**：
@@ -313,8 +302,7 @@ date: 2026-09-09
 > - **Hepatorenal recess**（肝腎隱窩）是右側肝臟與右腎、右腎上腺之間的腹膜腔部分。
 > - 膈下間隙與肝腎隱窩在前方是相通的。
 
-### 臟面（Visceral Surface）
-
+### Visceral Surface（臟面）
 肝臟的臟面除了**gallbladder fossa**（膽囊窩）與**porta hepatis**（肝門）外，均由臟層腹膜覆蓋（圖 4.95）。與其相鄰的結構包括：
 
 - **Esophagus**（食道）
@@ -329,8 +317,7 @@ date: 2026-09-09
 
 **Porta hepatis**（肝門）是**hepatic arteries**（肝动脉）與**portal vein**（門靜脈）進入肝臟的入口，也是**hepatic ducts**（肝管）離開的出口（圖 4.95）。
 
-### 相關韌帶（Associated Ligaments）
-
+### Associated Ligaments（相關韌帶）
 肝臟透過**falciform ligament**（鐮狀韌帶）附著於前腹壁，除了與橫膈相連的一小區域（**bare area**，裸露區）外，肝臟幾乎完全被臟層腹膜包圍（圖 4.96）。
 
 其他連接肝臟與胃（**hepatogastric ligament**，肝胃韌帶）、十二指腸（**hepatoduodenal ligament**，肝十二指腸韌帶）及橫膈（左右**triangular ligaments**，三角韌帶，以及前後**coronary ligaments**，冠狀韌帶）的腹膜褶皺也連接肝臟。
@@ -342,8 +329,7 @@ date: 2026-09-09
 > - 後界由腹膜反折形成的**posterior coronary ligament**（後冠狀韌帶）標示。
 > - 冠狀韌帶在兩側會合，形成左右**triangular ligaments**（三角韌帶）。
 
-### 肝臟分葉（Lobes）
-
+### Lobes（肝臟分葉）
 肝臟以**膽囊窩**與**下腔靜脈溝**為界，分為左右兩葉（圖 4.95）。**Right lobe**（右葉）是最大的葉，**left lobe**（左葉）較小。**Quadrate lobe**（方葉）與**caudate lobe**（尾狀葉）臨床上被視為從右葉衍生，但功能上各自獨立：
 
 - **Quadrate lobe**（方葉）在肝臟臟面可見，左側以**ligamentum teres 溝**為界，右側以**膽囊窩**為界。功能上與左葉相關。
@@ -354,8 +340,7 @@ date: 2026-09-09
 - **Right hepatic artery**（右肝动脉）——來自**proper hepatic artery**（肝固有动脉），為**common hepatic artery**（肝總动脉）的分支（起源於**celiac trunk**，腹腔幹）；
 - **Left hepatic artery**（左肝动脉）——同樣來自肝固有动脉，肝總动脉的分支。
 
-### 膽囊（Gallbladder）
-
+### Gallbladder（膽囊）
 **Gallbladder**（膽囊）是一個梨形的囊狀結構，位於肝臟右葉臟面的膽囊窩中，介於右葉與方葉之間（圖 4.95）。膽囊包括：
 
 - **Fundus of gallbladder**（膽囊底）：圓形的末端，可能從肝臟下緣突出；
@@ -368,8 +353,7 @@ date: 2026-09-09
 
 ---
 
-## 胰臟（Pancreas）
-
+## Pancreas（胰臟）
 **Pancreas**（胰臟）大部分位於**stomach**（胃）的後方（圖 4.98 與 4.99）。它橫跨後腹壁，從右側的**duodenum**（十二指腸）延伸至左側的**spleen**（脾臟）。
 
 > **臨床重點**：胰臟除了小部分尾部外，屬於**secondary retroperitoneal organ**（次發性腹膜後器官），由**head**（頭部）、**uncinate process**（鉤狀突）、**neck**（頸部）、**body**（體部）與**tail**（尾部）組成。
@@ -380,16 +364,14 @@ date: 2026-09-09
 - **Body of pancreas**（胰體）：狹長，從胰頸延伸至胰尾。
 - **Tail of pancreas**（胰尾）：穿過脾腎韌帶的兩層之間。
 
-### 胰管系統（Pancreatic Duct System）
-
+### Pancreatic Duct System（胰管系統）
 **Pancreatic duct**（胰管）從胰尾開始（圖 4.100），向右穿過胰體，進入胰頭後轉向下。在胰頭下部，胰管與**bile duct**（膽管）會合，形成**hepatopancreatic ampulla**（肝胰壺腹，又稱 **ampulla of Vater**），在十二指腸降部（第二部分）的**major duodenal papilla**（十二指腸大乳頭）處進入十二指腸。壺腹周圍有**sphincter of ampulla**（壺腹括約肌，又稱 **sphincter of Oddi**），為平滑肌集合。
 
 **Accessory pancreatic duct**（副胰管）在十二指腸大乳頭上方約 2 公分處的**minor duodenal papilla**（十二指腸小乳頭）進入十二指腸（圖 4.100）。
 
 > **臨床重點**：主胰管與副胰管通常相互連通。這兩條胰管的存在反映了胰臟胚胎時期從**foregut**（前腸）的背側與腹側芽體發育而來。
 
-### 胰臟的動脈供應（Arterial Supply to the Pancreas）
-
+### Arterial Supply to the Pancreas（胰臟的動脈供應）
 胰臟的**arterial supply（動脈供應）**包括（圖 4.101）：
 
 - **Gastroduodenal artery**（胃十二指腸动脉）——來自**common hepatic artery**（肝總动脉），為**celiac trunk**（腹腔幹）的分支
@@ -404,14 +386,12 @@ date: 2026-09-09
 
 ## 臨床附錄：胰臟相關疾病
 
-### 環狀胰臟（Annular Pancreas）
-
+### Annular Pancreas（環狀胰臟）
 > **臨床重點**：胰臟由前腸的腹側與背側芽體發育而來。背側芽體形成胰頭、胰頸與胰體的大部分。腹側芽體繞著膽管旋轉，形成胰頭部分與鉤狀突。若腹側芽體分裂（成為雙叉狀），兩段可能環繞十二指腸，導致十二指腸狹窄，甚至在出生時因發育問題而閉塞。出生後，嬰兒可能發育不良並因胃排空不良而嘔吐。
 >
 > 環狀胰臟有時可在產前超聲檢查中診斷出來。十二指腸阻塞可能阻止胎兒吞嚥足夠的羊水，導致羊水量增加（**polyhydramnios**，羊水過多）。
 
-### 胰臟癌（Pancreatic Cancer）
-
+### Pancreatic Cancer（胰臟癌）
 > **臨床重點**：胰臟癌佔死亡總數的相當比例，常被稱為「無聲殺手」。胰臟惡性腫瘤可發生在胰臟任何部位，但最常見於胰頭與胰頸。患者可能出現非特異性症狀，包括上腹痛、食慾不振及體重減輕。根據腫瘤的确切位置，可能造成膽管阻塞，導致**obstructive jaundice**（阻塞性黃疸）。
 >
 > 儘管在可能根治的患者中會建議手術治療，但大多數確診的癌症已經局部蔓延，侵犯門靜脈與上腸繫膜血管，並可能延伸至肝門。淋巴結轉移也很常見，這些因素通常已無法進行根治性手術。
@@ -692,8 +672,7 @@ date: 2026-09-09
 
 ---
 
-### 門靜脈 (Portal Vein)
-
+### Portal Vein（門靜脈）
 **門靜脈**是將**脾臟、胰臟、膽囊及腹膜內胃腸道**的靜脈血液匯集送往肝臟的最終共同通道。
 
 **形成：** 由**脾靜脈 (Splenic Vein)** 與**上腸繫膜靜脈 (Superior Mesenteric Vein)** 在**胰臟頸部 (Neck of Pancreas)** 後方會合形成，約在**第二腰椎 (LII)** 高度。
@@ -710,8 +689,7 @@ date: 2026-09-09
 
 ---
 
-### 脾靜脈 (Splenic Vein)
-
+### Splenic Vein（脾靜脈）
 **形成：** 由多條離開**脾門 (Hilum of Spleen)** 的小血管會合而成。
 
 **行徑：** 脾靜脈向右走行，通過**脾胃韌帶 (Splenorenal Ligament)** 時與**脾動脈**及**胰臟尾部 (Tail of Pancreas)** 相伴。繼續向右，大而直的脾靜脈沿**胰臟體部 (Body of Pancreas)** 表面，橫過**後腹壁 (Posterior Abdominal Wall)**。在**胰臟頸部**後方，脾靜脈會合**上腸繫膜靜脈**形成**門靜脈**。
@@ -739,8 +717,7 @@ date: 2026-09-09
 
 ---
 
-### 上腸繫膜靜脈 (Superior Mesenteric Vein)
-
+### Superior Mesenteric Vein（上腸繫膜靜脈）
 **引流範圍：** **小腸 (Small Intestine)**、**盲腸 (Cecum)**、**升結腸 (Ascending Colon)** 及**橫結腸 (Transverse Colon)** 的血液。
 
 **起始：** 在**右髂窩 (Right Iliac Fossa)** 處，由引流**末段迴腸 (Terminal Ileum)**、**盲腸**及**闌尾 (Appendix)** 的靜脈會合而成。上升經過**腸繫膜 (Mesentery)** 時，位於**上腸繫膜動脈 (Superior Mesenteric Artery)** 右側。
@@ -762,8 +739,7 @@ date: 2026-09-09
 
 ---
 
-### 下腸繫膜靜脈 (Inferior Mesenteric Vein)
-
+### Inferior Mesenteric Vein（下腸繫膜靜脈）
 **引流範圍：** **直腸 (Rectum)**、**乙狀結腸 (Sigmoid Colon)**、**降結腸 (Descending Colon)** 及**脾彎 (Splenic Flexure)** 的血液。
 
 **起始：** 由**上直腸靜脈 (Superior Rectal Vein)** 開始，向上接收**乙狀結腸靜脈 (Sigmoid Veins)** 及**左結腸靜脈 (Left Colic Vein)** 的屬支。這些靜脈皆與同名動脈伴行。
@@ -772,8 +748,7 @@ date: 2026-09-09
 
 ---
 
-### 門體側支循環 (Portosystemic Anastomoses)
-
+### Portosystemic Anastomoses（門體側支循環）
 肝門系統將腹部內臟的血液引流至肝臟。正常情況下，**100% 的門靜脈血液**可經肝靜脈回流；而在門靜脈壓力升高的患者（如肝硬化）中，流入肝臟的血液大幅減少，其餘血液進入側支通道，在特定部位流入**全身循環 (Systemic Circulation)**。
 
 這些**最大的側支循環**發生於：
@@ -806,8 +781,7 @@ date: 2026-09-09
 
 ---
 
-## Lymphatics 淋巴系統
-
+## Lymphatics（淋巴系統）
 腹膜內胃腸道（至直腸下方）、**脾臟、胰臟、膽囊及肝臟**的淋巴引流，經由淋巴管及淋巴結，最終注入**主動脈前淋巴結 (Pre-aortic Lymph Nodes)** 在**腹部主動脈三條前分支起點**處的大集合群。這些淋巴結群依其相應的动脉分支命名為：
 
 - **腹腔淋巴結群 (Celiac Group)**
@@ -822,8 +796,7 @@ date: 2026-09-09
 
 ---
 
-## Innervation 神經支配
-
+## Innervation（神經支配）
 腹膜內臟由**外源性 (Extrinsic)** 及**內源性 (Intrinsic)** 兩大神經系統成分支配：
 
 - **外源性神經支配**：接收來自**中樞神經系統 (CNS)** 的運動衝動，並向 CNS 發送感覺資訊
@@ -844,8 +817,7 @@ date: 2026-09-09
 
 ---
 
-### 交感幹 (Sympathetic Trunks)
-
+### Sympathetic Trunks（交感幹）
 **交感幹**是兩條平行神經索，沿**椎柱**兩側延伸，從**顱底**至**尾骨**。
 
 **行徑：**
@@ -870,8 +842,7 @@ date: 2026-09-09
 
 ---
 
-### 內臟神經 (Splanchnic Nerves)
-
+### Splanchnic Nerves（內臟神經）
 **內臟神經**是腹膜內臟神經支配的重要組成部分。從**交感幹**或其相關**交感神經節**，穿行至**椎前叢**及位於**腹部主動脈前方的神經節**。
 
 **兩類不同的內臟神經：**
@@ -933,10 +904,8 @@ date: 2026-09-09
 
 ---
 
-## 內臟神經支配（Visceral Innervation）
-
-### 胸臟神經（Thoracic Splanchnic Nerves）
-
+## Visceral Innervation（內臟神經支配）
+### Thoracic Splanchnic Nerves（胸臟神經）
 Greater splanchnic nerve 起源於 **T5–T9** 或 **T6–T10** thoracic ganglia，穿過 **crura of the diaphragm** 進入 **celiac ganglion**。
 
 > **臨床重點**：Greater splanchnic nerve 携带節前交感纖維至 celiac ganglion，控制大部分腹部臟器的交感神經支配。
@@ -945,14 +914,12 @@ Greater splanchnic nerve 起源於 **T5–T9** 或 **T6–T10** thoracic ganglia
 
 **Least splanchnic nerve**（若存在）起源於第十二胸神經節，分布至 **renal plexus**。
 
-### 腰部與薦臟神經（Lumbar and Sacral Splanchnic Nerves）
-
+### Lumbar and Sacral Splanchnic Nerves（腰部與薦臟神經）
 通常有 2–4 條 **lumbar splanchnic nerves**，從 **sympathetic trunk** 或相關神經節發出，進入 **prevertebral plexus**。
 
 同樣地，**sacral splanchnic nerves** 從薦部發出，進入 **inferior hypogastric plexus**（prevertebral plexus 向骨盆腔的延伸）。
 
-### 盆腔臟神經（Pelvic Splanchnic Nerves）
-
+### Pelvic Splanchnic Nerves（盆腔臟神經）
 **Pelvic splanchnic nerves**（副交感根）為特有結構，為唯一携带副交感纖維的臟神經。它們**非**起源於交感幹，而是直接起源於 **S2–S4** 的前支。
 
 節前副交感纖維自骶髓發出，經 S2–S4 脊神經至 **inferior hypogastric plexus**。部分纖維向上進入腹部 prevertebral plexus，隨动脉分布至 **hindgut**。
@@ -963,8 +930,7 @@ Greater splanchnic nerve 起源於 **T5–T9** 或 **T6–T10** thoracic ganglia
 
 ## 腹部 Prevertebral Plexus 與神經節
 
-### 構成（Composition）
-
+### Composition（構成）
 **Abdominal prevertebral plexus** 為圍繞 **abdominal aorta** 並延續至其主要分支的神經纖維集合。叢內散在有節後交感纖維的細胞體，部分聚集成明確的神經節。
 
 三大主要 division：
@@ -975,8 +941,7 @@ Greater splanchnic nerve 起源於 **T5–T9** 或 **T6–T10** thoracic ganglia
 | **Aortic plexus** | **Inferior mesenteric ganglion**（於 **Inferior mesenteric artery** 根部） | 腹主動脈前外側面 |
 | **Superior hypogastric plexus** | 數目众多小神經節 | 進入骨盆腔前之分界 |
 
-### 二次叢（Secondary Plexuses）
-
+### Secondary Plexuses（二次叢）
 各主要叢發出多個次級叢，通常以相關血管命名：
 
 - **Celiac plexus** → **Superior mesenteric plexus**、**Renal plexus**
@@ -984,16 +949,14 @@ Greater splanchnic nerve 起源於 **T5–T9** 或 **T6–T10** thoracic ganglia
 
 **Superior hypogastric plexus** 向下分為 **hypogastric nerves**，進入骨盆腔形成 **inferior hypogastric plexus**。
 
-### Prevertebral Plexus 的輸入來源
-
+### Prevertebral Plexus（的輸入來源）
 - **Vagus nerves [X]** — 節前副交感纖維與內臟感覺纖維
 - **Thoracic 與 lumbar splanchnic nerves** — 節前交感纖維與內臟感覺纖維
 - **Pelvic splanchnic nerves** — 節前副交感纖維
 
 ---
 
-## 副交感神經支配（Parasympathetic Innervation）
-
+## Parasympathetic Innervation（副交感神經支配）
 ### Vagus Nerves [X]
 
 Vagus nerves [X] 隨 **esophagus** 穿過橫膈膜進入腹腔（圖 4.127），分為 **anterior** 與 **posterior vagal trunks**，分支進入 abdominal prevertebral plexus。
@@ -1006,19 +969,16 @@ Vagus nerves [X] 隨 **esophagus** 穿過橫膈膜進入腹腔（圖 4.127），
 
 ---
 
-## 腸道神經系統（Enteric System）
-
+## Enteric System（腸道神經系統）
 **Enteric system** 為內臟神經系統的 division，為胃腸道壁內的局部神經迴路。
 
-### 結構（Structure）
-
+### Structure（結構）
 由運動與感覺神經元組成，分布於兩層互聯神經叢：
 
 - **Myenteric plexus（Auerbach's plexus）**：位於 Longitudinal muscle 與 Circular muscle 之間
 - **Submucosal plexus（Meissner's plexus）**：位於黏膜肌肉層（Mucosal muscle）與黏膜之間
 
-### 功能（Function）
-
+### Function（功能）
 Enteric system 調節與協調多項胃腸道活動，包括：
 
 - Gastric secretory activity（胃分泌活動）
@@ -1029,8 +989,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 胃的交感神經支配（Sympathetic Innervation of the Stomach）
-
+## Sympathetic Innervation of the Stomach（胃的交感神經支配）
 路徑（以 **T6** 水平說明）：
 
 1. **節前交感纖維**起源於 **T6** 脊髓
@@ -1046,8 +1005,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 臨床應用：減重手術（Obesity Surgery）
-
+## Obesity Surgery（臨床應用：減重手術）
 > **臨床重點**：減重手術（又稱 bariatric surgery）已日益普及，主要適用於無法透過飲食與運動減重的患者。手術患者面臨 1–5% 的死亡率及顯著併發症風險。
 
 ### 手術類型
@@ -1060,10 +1018,8 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 後腹膜腔（Posterior Abdominal Region）
-
-### 界限（Boundaries）
-
+## Posterior Abdominal Region（後腹膜腔）
+### Boundaries（界限）
 後腹膜腔位於胃腸道、脾臟與胰臟的後方（圖 4.129）。此區域以骨頭與肌肉構成後腹壁，包含諸多重要結構：
 
 - **Abdominal aorta** 及其相關神經叢
@@ -1075,10 +1031,8 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 後腹壁骨骼（Bones of the Posterior Abdominal Wall）
-
-### 腰椎與薦骨（Lumbar Vertebrae and Sacrum）
-
+## Bones of the Posterior Abdominal Wall（後腹壁骨骼）
+### Lumbar Vertebrae and Sacrum（腰椎與薦骨）
 五塊 **lumbar vertebrae** 的椎體構成後腹壁中線的突出結構，源於腰椎的**前凸曲度**。
 
 腰椎特徵：
@@ -1092,12 +1046,10 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 荐骨（**Sacrum**）由五塊荐椎融合而成，楔形結構，上寬下窄。
 
-### 骨盆骨（Pelvic Bones）
-
+### Pelvic Bones（骨盆骨）
 **Ilium**（髂骨）構成骨盆骨的一部分，經 **sacroiliac joints** 連接於 sacrum 外側。髂骨的 **iliac fossa** 為後腹壁的組成部分。
 
-### 肋骨（Ribs）
-
+### Ribs（肋骨）
 **Rib XI 與 Rib XII** 完成後腹壁的骨性框架。此二肋骨特點：
 
 - 不與胸骨或其他肋骨相連
@@ -1108,8 +1060,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 後腹壁肌肉（Muscles of the Posterior Abdominal Wall）
-
+## Muscles of the Posterior Abdominal Wall（後腹壁肌肉）
 | 肌肉 | 起源 | 附著 | 神經支配 | 功能 |
 |---|---|---|---|---|
 | **Psoas major** | T12–L5 椎體側面、橫突、椎間盤 | 股骨 **lesser trochanter** | L1–L3 前支 | 屈髖；仰臥時屈軀幹 |
@@ -1150,8 +1101,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 通過橫膈膜的結構（Structures Passing Through or Around the Diaphragm）
-
+## Structures Passing Through or Around the Diaphragm（通過橫膈膜的結構）
 | 結構 | 位置 | 通過處 |
 |---|---|---|
 | **Aorta** | T12 水平，兩 crura 之间，median arcuate ligament 後方 | **Aortic hiatus**（偏左） |
@@ -1170,8 +1120,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 橫膈膜圓頂（Domes of the Diaphragm）
-
+## Domes of the Diaphragm（橫膈膜圓頂）
 右、左圓頂為腹部內容物向上推擠及心包纖維膜中央附著所致。
 
 | 圓頂 | 產生內容物 | 平靜呼氣位置 |
@@ -1185,8 +1134,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ## 橫膈膜的血液供應與神經支配
 
-### 血液供應（Blood Supply）
-
+### Blood Supply（血液供應）
 | 表面 | 供應血管 |
 |---|---|
 | **上面** | **Musculophrenic artery**、**Pericardiaco-phrenic artery**（internal thoracic artery 分支）、**Superior phrenic artery**（胸主動脈分支） |
@@ -1194,8 +1142,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 靜脈引流：隨同名動脈的伴行靜脈。
 
-### 神經支配（Innervation）
-
+### Innervation（神經支配）
 主要為 **Phrenic nerves**（**C3–C5**）：
 - 供應所有運動神經支配
 - 感覺纖維分布至**中央部**
@@ -1221,8 +1168,7 @@ Enteric system 調節與協調多項胃腸道活動，包括：
 
 ---
 
-## 重要解剖術語彙整（Key Anatomical Terms）
-
+## Key Anatomical Terms（重要解剖術語彙整）
 - **Celiac ganglion / plexus**：腹腔神經節/叢
 - **Superior mesenteric artery / ganglion**：腸繫膜上動脈/神經節
 - **Inferior mesenteric artery / ganglion**：腸繫膜下動脈/神經節
@@ -1550,8 +1496,7 @@ The **ureter** is easily tunneled obliquely through the **bladder wall** with a 
 
 ## 臨床案例
 
-### 泌尿道的檢查（Investigation of the Urinary Tract）
-
+### Investigation of the Urinary Tract（泌尿道的檢查）
 > **臨床重點**：在詳盡的病史詢問及身體檢查（包括男性的 digital rectal examination 以評估攝護腺）之後，需要進行特殊的檢查。
 
 #### 靜脈注射尿路造影（IVU, Intravenous Uurogram）
@@ -1848,8 +1793,8 @@ Throughout its course, it also supplies branches to the **abdominal musculature*
 The **genitofemoral nerve** arises from the **anterior rami of nerves L1 and L2**. It passes downward in the substance of the **psoas major muscle** until it emerges on the anterior surface of the psoas major. It then descends on the surface of the muscle in a retroperitoneal position, passing posterior to the **ureter**, and eventually divides into **genital** and **femoral branches**.
 
 - **Genital branch** — continues downward and enters the inguinal canal through the **deep inguinal ring**:
-  - In men: innervates the **cremasteric muscle** and terminates on the skin of the **upper anterior scrotum**.
-  - In women: accompanies the **round ligament of the uterus** and terminates on the skin of the **mons pubis** and **labium majus**.
+ - In men: innervates the **cremasteric muscle** and terminates on the skin of the **upper anterior scrotum**.
+ - In women: accompanies the **round ligament of the uterus** and terminates on the skin of the **mons pubis** and **labium majus**.
 
 - **Femoral branch** — descends on the lateral side of the **external iliac artery**, passes posterior to the **inguinal ligament**, enters the **femoral sheath** lateral to the **femoral artery**, pierces the anterior layer of the femoral sheath and the **fascia lata** to supply the **skin of the upper anterior thigh**.
 

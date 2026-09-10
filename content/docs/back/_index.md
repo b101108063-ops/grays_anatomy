@@ -69,10 +69,10 @@ date: 2026-09-09
 - 各椎骨的 **vertebral arches**（椎弓）對齊形成 **vertebral canal**（椎管）的側壁和後壁，此管道從第一頸椎（CI）延伸至最後骶椎（SV），容納 **spinal cord**（脊髓）及其保護膜、血管、結締組織、脂肪以及脊神經的近端部分。
 
 - **椎弓的典型突觸**：
-  - **Spinous process（棘突）**——從椎弓屋頂向後且通常向下突出。
-  - **Transverse process（橫突）**——從椎板與椎根交界處向兩側延伸。
-  - **Superior articular process（上關節突）** 和 **Inferior articular process（下關節突）**——與相鄰椎骨的相應突觸形成關節。
-  - **Costal elements（肋骨要素）**——在胸椎區域形成 ribs（肋骨），與椎體和橫突形成關節；在其他區域則較小，融入橫突。
+ - **Spinous process（棘突）**——從椎弓屋頂向後且通常向下突出。
+ - **Transverse process（橫突）**——從椎板與椎根交界處向兩側延伸。
+ - **Superior articular process（上關節突）** 和 **Inferior articular process（下關節突）**——與相鄰椎骨的相應突觸形成關節。
+ - **Costal elements（肋骨要素）**——在胸椎區域形成 ribs（肋骨），與椎體和橫突形成關節；在其他區域則較小，融入橫突。
 
 > **臨床重點**：任何減少 **intervertebral foramen**（椎間孔）大小的病變，如骨質流失、**椎間盤突出**（intervertebral disc herniation）或 **zygapophysial joint**（關節突關節）脫位，都可能影響相應脊神經的功能。
 
@@ -81,8 +81,8 @@ date: 2026-09-09
 背部的肌肉可根據其胚胎來源和神經支配類型分為**外在肌（extrinsic）**和**內在肌（intrinsic）**（圖 2.7）：
 
 - ** Extrinsic muscles（外在肌）** 與上肢和胸壁的運動有關，通常由脊神經的 **anterior rami**（前支）支配。
-  - **淺層組**：與上肢相關
-  - **中層組**：與胸壁相關
+ - **淺層組**：與上肢相關
+ - **中層組**：與胸壁相關
 
 - ** Intrinsic muscles（內在肌）** 位於深層，由脊神經的 **posterior rami**（後支）支配，支撐和運動脊柱，並參與頭部運動。其中一群內在肌還能使肋骨相對於脊柱移動。
 
@@ -197,13 +197,13 @@ date: 2026-09-09
 - **椎弓** 形成椎孔的側壁和後壁。所有椎骨的 **vertebral foramina**（椎孔）共同形成 **vertebral canal**（椎管），容納並保護 **spinal cord**（脊髓）。上方，椎管通過顱骨的 **foramen magnum**（枕骨大孔）與顱腔相延續。
 
 - **椎弓的組成**：
-  - 兩個 **pedicles**（椎根）是骨性支柱，將椎弓附著於椎體。
-  - 兩個 **laminae**（椎板）是扁平骨片，從每個椎根延伸至中線會合，形成椎弓的屋頂。
+ - 兩個 **pedicles**（椎根）是骨性支柱，將椎弓附著於椎體。
+ - 兩個 **laminae**（椎板）是扁平骨片，從每個椎根延伸至中線會合，形成椎弓的屋頂。
 
 - **突觸**：
-  - **Spinous process（棘突）**——從兩塊椎板交界處向後下突出，是肌肉和韌帶附著處。
-  - **Transverse process（橫突）**——從每側椎根與椎板交界處向後外側延伸，在胸椎區域與肋骨形成關節。
-  - **Superior articular process（上關節突）** 和 **Inferior articular process（下關節突）**——從椎根與椎板交界處突出，分別與相鄰椎骨的下關節突和上關節突形成關節。
+ - **Spinous process（棘突）**——從兩塊椎板交界處向後下突出，是肌肉和韌帶附著處。
+ - **Transverse process（橫突）**——從每側椎根與椎板交界處向後外側延伸，在胸椎區域與肋骨形成關節。
+ - **Superior articular process（上關節突）** 和 **Inferior articular process（下關節突）**——從椎根與椎板交界處突出，分別與相鄰椎骨的下關節突和上關節突形成關節。
 
 - **椎根切跡**：在椎體與關節突起點之間，每個椎根的上下表面都有切跡。這些 **superior** 和 **inferior vertebral notches**（上下椎根切跡）參與形成 **intervertebral foramina**（椎間孔）。
 
@@ -893,9 +893,9 @@ Cord 內部有一個小的 **central canal**，周圍被 **gray matter** 和 **w
 
 1. **縱向血管**：起源於 **cervical portion of the cord** 上方，沿 **spinal cord** 表面下行。
 2. **Feeder arteries**：通過每個椎體 level 的 **intervertebral foramina** 進入 **vertebral canal**——這些 feeder vessels 或 **segmental spinal arteries** 主要起源於：
-   - 頸部：**Vertebral arteries** 和 **deep cervical arteries**
-   - 胸部：**Posterior intercostal arteries**
-   - 腹部：**Lumbar arteries**
+ - 頸部：**Vertebral arteries** 和 **deep cervical arteries**
+ - 胸部：**Posterior intercostal arteries**
+ - 腹部：**Lumbar arteries**
 
 進入 **intervertebral foramen** 後，**segmental spinal arteries** 發出 **anterior** 和 **posterior radicular arteries**（圖 2.49）。這發生在每個椎體 level。**Radicular arteries** 沿行並支配 **anterior** 和 **posterior roots**。在各種椎體 level，**segmental spinal arteries** 也發出 **segmental medullary arteries**（圖 2.49）。這些血管直接穿向縱向血管，加強其血液供應。
 
