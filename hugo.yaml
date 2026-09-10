@@ -5,6 +5,7 @@ enableEmoji: true
 hasCJKLanguage: true
 enableRobotsTXT: true
 disableFastRender: true
+theme: []
 
 markup:
   goldmark:
