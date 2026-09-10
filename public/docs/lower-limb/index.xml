@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gray's Anatomy for Students - 3rd Edition</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/</link><description>Recent content on Gray's Anatomy for Students - 3rd Edition</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><atom:link href="https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/index.xml" rel="self" type="application/rss+xml"/><item><title>髖關節與大腿（Hip Joint &amp; Thigh）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/01-hip-thigh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/01-hip-thigh/</guid><description>📌 本章重點 髖關節是球窩關節（ball-and-socket joint），人體最穩定的關節 股骨頭由旋股內側动脉（medial circumflex femoral artery）</description></item><item><title>膝關節（Knee Joint）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/02-knee/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/02-knee/</guid><description>📌 本章重點 膝關節由脛股關節（tibiofemoral joint）與髕股關節（patellofemoral joint）組成 前十字韌帶（ACL）</description></item><item><title>小腿與踝關節（Leg &amp; Ankle Joint）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/03-leg-ankle/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/03-leg-ankle/</guid><description>📌 本章重點 小腿肌肉分為前側間隔（前室）、外側間隔（外室）、後側間隔（後室）三群 腓腸肌（gastrocnemius）與比目魚肌（soleus）</description></item><item><title>足部（Foot）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/04-foot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/04-foot/</guid><description>📌 本章重點 足部骨骼包括7塊跗骨（tarsal bones）、5塊蹠骨（metatarsals）、14節趾骨（phalanges） 足部形成三個足</description></item><item><title>下肢主要神經（Major Nerves of Lower Limb）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/05-major-nerves/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/05-major-nerves/</guid><description>📌 本章重點 股神經（L2-L4）支配股四頭肌，損傷導致伸膝無力 閉孔神經（L2-L4）支配內收肌群 坐骨神經（L4-S3）是全身最大的神經，在梨狀</description></item><item><title>下肢血管與淋巴（Vessels &amp; Lymphatics of Lower Limb）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/06-vessels-lymphatics/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/06-vessels-lymphatics/</guid><description>📌 本章重點 下肢动脉主軸：髂外动脉→股动脉→膕动脉→脛前/脛後动脉→足背/足底动脉 大隱靜脈（great saphenous vein）為下肢最長的淺靜脈 腹股溝淋巴</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gray&#39;s Anatomy for Students - 3rd Edition</title>
+    <link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/</link>
+    <description>Recent content on Gray&#39;s Anatomy for Students - 3rd Edition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <atom:link href="https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>髖關節與大腿（Hip Joint &amp; Thigh）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/01-hip-thigh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/01-hip-thigh/</guid>
+      <description>📌 本章重點 髖關節是球窩關節（ball-and-socket joint），人體最穩定的關節 股骨頭由旋股內側动脉（medial circumflex femoral artery）</description>
+    </item>
+    <item>
+      <title>膝關節（Knee Joint）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/02-knee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/02-knee/</guid>
+      <description>📌 本章重點 膝關節由脛股關節（tibiofemoral joint）與髕股關節（patellofemoral joint）組成 前十字韌帶（ACL）</description>
+    </item>
+    <item>
+      <title>小腿與踝關節（Leg &amp; Ankle Joint）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/03-leg-ankle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/03-leg-ankle/</guid>
+      <description>📌 本章重點 小腿肌肉分為前側間隔（前室）、外側間隔（外室）、後側間隔（後室）三群 腓腸肌（gastrocnemius）與比目魚肌（soleus）</description>
+    </item>
+    <item>
+      <title>足部（Foot）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/04-foot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/04-foot/</guid>
+      <description>📌 本章重點 足部骨骼包括7塊跗骨（tarsal bones）、5塊蹠骨（metatarsals）、14節趾骨（phalanges） 足部形成三個足</description>
+    </item>
+    <item>
+      <title>下肢主要神經（Major Nerves of Lower Limb）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/05-major-nerves/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/05-major-nerves/</guid>
+      <description>📌 本章重點 股神經（L2-L4）支配股四頭肌，損傷導致伸膝無力 閉孔神經（L2-L4）支配內收肌群 坐骨神經（L4-S3）是全身最大的神經，在梨狀</description>
+    </item>
+    <item>
+      <title>下肢血管與淋巴（Vessels &amp; Lymphatics of Lower Limb）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/06-vessels-lymphatics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/lower-limb/06-vessels-lymphatics/</guid>
+      <description>📌 本章重點 下肢动脉主軸：髂外动脉→股动脉→膕动脉→脛前/脛後动脉→足背/足底动脉 大隱靜脈（great saphenous vein）為下肢最長的淺靜脈 腹股溝淋巴</description>
+    </item>
+  </channel>
+</rss>

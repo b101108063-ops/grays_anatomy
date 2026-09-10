@@ -1,4 +1,198 @@
-<!doctype html><html lang=zh-tw><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>附錄 - Appendix</title><style>body{font-family:-apple-system,BlinkMacSystemFont,segoe ui,Helvetica,Arial,sans-serif;line-height:1.6;max-width:800px;margin:0 auto;padding:20px;background:#1a1a1a;color:#e0e0e0}h1{color:#fff;border-bottom:2px solid #58a6ff;padding-bottom:10px}h2{color:#e6edf3;margin-top:40px;border-bottom:1px solid #30363d;padding-bottom:8px}h3{color:#e6edf3;margin-top:30px}p{margin-bottom:16px}strong{color:#79c0ff}blockquote{background:#0d1f0d;border-left:4px solid #2ea043;padding:12px 16px;margin:16px 0}blockquote p{margin-bottom:8px;color:#b0d4a8}a{color:#58a6ff}.clinical{background:#0d1f0d;border:1px solid #2ea043;border-radius:6px;padding:16px;margin:20px 0}</style></head><body><article><h1 id=附錄>附錄</h1><h2 id=appendix>Appendix</h2><hr><h2 id=附錄內容說明>附錄內容說明</h2><p>Gray&rsquo;s Anatomy for Students 的附錄包含以下重要參考資料：</p><ul><li><strong>表面解剖總複習（Surface Anatomy）</strong>：全身各區域表面標誌的整合性複習</li><li><strong>影像學（Imaging）</strong>：X光、CT、MRI、超聲、核醫在全身各部位的應用</li><li><strong>軀幹（Trunk）</strong>：脊椎、胸廓、腹部的扼要複習表格</li><li><strong>四肢（Limbs）</strong>：上肢和下肢神經、血管、肌肉的快速參照表</li></ul><hr><h2 id=快速參照>快速參照</h2><h3 id=全身主要神經支配速查>全身主要神經支配速查</h3><table><thead><tr><th>區域</th><th>神經</th><th>來源</th></tr></thead><tbody><tr><td>上肢外側</td><td>正中神經</td><td>臂叢（內側+外側束）</td></tr><tr><td>上肢內側</td><td>尺神經</td><td>臂叢（內側束）</td></tr><tr><td>上肢後側</td><td>橈神經</td><td>臂叢（後束）</td></tr><tr><td>下肢前側</td><td>股神經</td><td>腰叢（L2-L4）</td></tr><tr><td>下肢內側</td><td>閉孔神經</td><td>腰叢（L2-L4）</td></tr><tr><td>下肢後側</td><td>坐骨神經</td><td>骶叢（L4-S3）</td></tr></tbody></table><h3 id=顱神經快速記憶>顱神經快速記憶</h3><pre tabindex=0><code>Ⅰ 嗅 — 感（嗅覺）
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>附錄 - Appendix</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --sidebar-bg: #161b22;
+      --card-border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --accent-green: #3fb950;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    .site-header {
+      background: linear-gradient(135deg, #1a2332 0%, #0d1117 100%);
+      border-bottom: 1px solid var(--card-border);
+      padding: 20px 24px 16px;
+      text-align: center;
+    }
+    .site-header .back-link {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      display: inline-block;
+      margin-bottom: 6px;
+    }
+    .site-header .back-link:hover { color: var(--accent); }
+    .site-header h1 { font-size: 1.25rem; font-weight: 700; color: #fff; }
+
+    .layout { display: flex; max-width: 1200px; margin: 0 auto; min-height: calc(100vh - 75px); }
+
+    .sidebar {
+      width: 230px;
+      flex-shrink: 0;
+      background: var(--sidebar-bg);
+      border-right: 1px solid var(--card-border);
+      padding: 18px 0;
+      position: sticky;
+      top: 0;
+      max-height: 100vh;
+      overflow-y: auto;
+    }
+    .sidebar::-webkit-scrollbar { width: 4px; }
+    .sidebar::-webkit-scrollbar-thumb { background: var(--card-border); border-radius: 2px; }
+    .sidebar-title {
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      padding: 0 16px 10px;
+      border-bottom: 1px solid var(--card-border);
+      margin-bottom: 6px;
+    }
+    .toc { padding: 8px 10px 12px; }
+    .toc-list { list-style: none; margin: 0; padding: 0; }
+    .toc-item { display: block; }
+    .toc-item > a {
+      display: block;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      padding: 4px 8px 4px 10px;
+      border-left: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s, background 0.15s;
+      line-height: 1.4;
+    }
+    .toc-item > a:hover {
+      color: var(--accent);
+      border-left-color: var(--accent);
+      background: rgba(88,166,255,0.06);
+    }
+    .toc-item.active > a {
+      color: var(--accent);
+      border-left-color: var(--accent);
+      background: rgba(88,166,255,0.1);
+      font-weight: 600;
+    }
+    .toc-item.level-h3 > a { padding-left: 22px; font-size: 0.76rem; }
+    .toc-item.level-h4 > a { padding-left: 34px; font-size: 0.72rem; }
+    .toc-empty { font-size: 0.78rem; color: var(--text-muted); padding: 8px 16px; font-style: italic; }
+
+    .main-content { flex: 1; min-width: 0; padding: 26px 40px 60px; }
+    .main-content h1 { color: #fff; font-size: 1.6rem; margin-bottom: 12px; border-bottom: 2px solid var(--accent); padding-bottom: 10px; }
+    .main-content h2 { color: #e6edf3; margin-top: 32px; margin-bottom: 10px; border-bottom: 1px solid var(--card-border); padding-bottom: 7px; font-size: 1.18rem; }
+    .main-content h3 { color: #e6edf3; margin-top: 20px; margin-bottom: 7px; font-size: 1rem; }
+    .main-content h4 { color: #c9d1d9; margin-top: 14px; margin-bottom: 5px; }
+    .main-content p { margin-bottom: 13px; color: #c9d1d9; }
+    .main-content strong { color: #79c0ff; }
+    .main-content a { color: var(--accent); text-decoration: none; }
+    .main-content a:hover { text-decoration: underline; }
+    .main-content blockquote { background: #0d1f0d; border-left: 4px solid var(--accent-green); padding: 11px 15px; margin: 14px 0; border-radius: 0 6px 6px 0; }
+    .main-content blockquote p { margin-bottom: 7px; color: #b0d4a8; }
+    .main-content blockquote p:last-child { margin-bottom: 0; }
+    .main-content ul, .main-content ol { margin: 11px 0 13px 20px; color: #c9d1d9; }
+    .main-content li { margin-bottom: 5px; }
+    .main-content table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 0.87rem; }
+    .main-content th { background: #1c2128; color: #e6edf3; padding: 7px 11px; text-align: left; border: 1px solid var(--card-border); }
+    .main-content td { padding: 7px 11px; border: 1px solid var(--card-border); color: #c9d1d9; }
+    .main-content tr:nth-child(even) td { background: #161b22; }
+    .main-content hr { border: none; border-top: 1px solid var(--card-border); margin: 22px 0; }
+    .main-content code { background: #2d333b; padding: 2px 6px; border-radius: 4px; font-size: 0.88em; }
+    .main-content pre { background: #161b22; border: 1px solid var(--card-border); padding: 15px; border-radius: 8px; overflow-x: auto; margin: 14px 0; }
+    .main-content pre code { background: none; padding: 0; }
+
+    @media (max-width: 860px) { .sidebar { display: none; } .main-content { padding: 24px 18px 48px; } }
+    @media (max-width: 500px) { .site-header h1 { font-size: 1rem; } }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="/grays_anatomy/" class="back-link">← 回首頁</a>
+    <h1>附錄 - Appendix</h1>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-title">本章目錄</div>
+      <nav class="toc" id="toc-nav">
+        <ul class="toc-list" id="toc-list"></ul>
+      </nav>
+    </aside>
+
+    <main class="main-content" id="main-content">
+      <h1 id="附錄">附錄</h1>
+<h2 id="appendix">Appendix</h2>
+<hr>
+<h2 id="附錄內容說明">附錄內容說明</h2>
+<p>Gray&rsquo;s Anatomy for Students 的附錄包含以下重要參考資料：</p>
+<ul>
+<li><strong>表面解剖總複習（Surface Anatomy）</strong>：全身各區域表面標誌的整合性複習</li>
+<li><strong>影像學（Imaging）</strong>：X光、CT、MRI、超聲、核醫在全身各部位的應用</li>
+<li><strong>軀幹（Trunk）</strong>：脊椎、胸廓、腹部的扼要複習表格</li>
+<li><strong>四肢（Limbs）</strong>：上肢和下肢神經、血管、肌肉的快速參照表</li>
+</ul>
+<hr>
+<h2 id="快速參照">快速參照</h2>
+<h3 id="全身主要神經支配速查">全身主要神經支配速查</h3>
+<table>
+<thead>
+<tr>
+<th>區域</th>
+<th>神經</th>
+<th>來源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>上肢外側</td>
+<td>正中神經</td>
+<td>臂叢（內側+外側束）</td>
+</tr>
+<tr>
+<td>上肢內側</td>
+<td>尺神經</td>
+<td>臂叢（內側束）</td>
+</tr>
+<tr>
+<td>上肢後側</td>
+<td>橈神經</td>
+<td>臂叢（後束）</td>
+</tr>
+<tr>
+<td>下肢前側</td>
+<td>股神經</td>
+<td>腰叢（L2-L4）</td>
+</tr>
+<tr>
+<td>下肢內側</td>
+<td>閉孔神經</td>
+<td>腰叢（L2-L4）</td>
+</tr>
+<tr>
+<td>下肢後側</td>
+<td>坐骨神經</td>
+<td>骶叢（L4-S3）</td>
+</tr>
+</tbody>
+</table>
+<h3 id="顱神經快速記憶">顱神經快速記憶</h3>
+<pre tabindex="0"><code>Ⅰ 嗅 — 感（嗅覺）
 Ⅱ 視 — 感（視覺）
 Ⅲ 動眼神經 — 動（眼球運動 + 瞳孔）
 Ⅳ 滑車神經 — 動（眼球運動）
@@ -10,4 +204,126 @@
 Ⅹ 迷走神經 — 動（副交感）
 Ⅺ 副神經 — 動（斜方肌 + 胸鎖乳突肌）
 Ⅻ 舌下神經 — 動（舌頭運動）
-</code></pre><hr><h2 id=實用臨床速查>實用臨床速查</h2><h3 id=脊髓節段與椎骨平面的對應關係>脊髓節段與椎骨平面的對應關係</h3><table><thead><tr><th>脊髓節段</th><th>對應椎骨平面（成人）</th></tr></thead><tbody><tr><td>C1-C4</td><td>C1-C4</td></tr><tr><td>C5-T4</td><td>C5-T1（每下降一個節段，平面 + 1）</td></tr><tr><td>T5-T8</td><td>T4-T6</td></tr><tr><td>T9-T12</td><td>T7-T9</td></tr><tr><td>L1-L5</td><td>T10-T11</td></tr><tr><td>脊髓圓錐</td><td>T12-L1</td></tr><tr><td>馬尾</td><td>L2 以下</td></tr></tbody></table><h3 id=四肢主要止血點>四肢主要止血點</h3><table><thead><tr><th>位置</th><th>止血血管</th></tr></thead><tbody><tr><td>頭頸部</td><td>頸總動脉（SCM中內側）</td></tr><tr><td>上肢</td><td>肱動脉（臂內側）</td></tr><tr><td>下肢</td><td>股動脉（腹股溝韌帶中點）</td></tr></tbody></table><hr><h2 id=返回主章節>返回主章節</h2><p><a href=/grays_anatomy/docs/head-neck/>回頭頸部</a></p><p><a href=/grays_anatomy/docs/>回全書首頁</a></p></article></body></html>
+</code></pre><hr>
+<h2 id="實用臨床速查">實用臨床速查</h2>
+<h3 id="脊髓節段與椎骨平面的對應關係">脊髓節段與椎骨平面的對應關係</h3>
+<table>
+<thead>
+<tr>
+<th>脊髓節段</th>
+<th>對應椎骨平面（成人）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C1-C4</td>
+<td>C1-C4</td>
+</tr>
+<tr>
+<td>C5-T4</td>
+<td>C5-T1（每下降一個節段，平面 + 1）</td>
+</tr>
+<tr>
+<td>T5-T8</td>
+<td>T4-T6</td>
+</tr>
+<tr>
+<td>T9-T12</td>
+<td>T7-T9</td>
+</tr>
+<tr>
+<td>L1-L5</td>
+<td>T10-T11</td>
+</tr>
+<tr>
+<td>脊髓圓錐</td>
+<td>T12-L1</td>
+</tr>
+<tr>
+<td>馬尾</td>
+<td>L2 以下</td>
+</tr>
+</tbody>
+</table>
+<h3 id="四肢主要止血點">四肢主要止血點</h3>
+<table>
+<thead>
+<tr>
+<th>位置</th>
+<th>止血血管</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>頭頸部</td>
+<td>頸總動脉（SCM中內側）</td>
+</tr>
+<tr>
+<td>上肢</td>
+<td>肱動脉（臂內側）</td>
+</tr>
+<tr>
+<td>下肢</td>
+<td>股動脉（腹股溝韌帶中點）</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="返回主章節">返回主章節</h2>
+<p><a href="/grays_anatomy/docs/head-neck/">回頭頸部</a></p>
+<p><a href="/grays_anatomy/docs/">回全書首頁</a></p>
+
+    </main>
+  </div>
+
+  <script>
+    (function () {
+      var content = document.getElementById('main-content');
+      var tocList = document.getElementById('toc-list');
+      if (!content || !tocList) return;
+
+      var headings = content.querySelectorAll('h2, h3, h4');
+      if (headings.length === 0) {
+        tocList.outerHTML = '<p class="toc-empty">本頁尚無目錄</p>';
+        return;
+      }
+
+      headings.forEach(function (h, i) {
+        if (!h.id) h.id = 'section-' + i;
+      });
+
+      var html = '';
+      headings.forEach(function (h) {
+        var level = parseInt(h.tagName.slice(1)) - 1;
+        var lvlClass = 'level-h' + (level + 1);
+        var text = h.textContent.replace(/<[^>]+>/g, '').trim();
+        var id = h.id;
+        html += '<li class="toc-item ' + lvlClass + '"><a href="#' + id + '">' + text + '</a></li>\n';
+      });
+      tocList.innerHTML = html;
+
+      var tocLinks = tocList.querySelectorAll('a');
+      var obs = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) {
+            tocList.querySelectorAll('.toc-item').forEach(function (li) { li.classList.remove('active'); });
+            var link = tocList.querySelector('a[href="#' + e.target.id + '"]');
+            if (link) link.closest('.toc-item').classList.add('active');
+          }
+        });
+      }, { rootMargin: '-50px 0px -75% 0px' });
+
+      headings.forEach(function (h) { if (h.id) obs.observe(h); });
+
+      tocLinks.forEach(function (link) {
+        link.addEventListener('click', function (e) {
+          e.preventDefault();
+          var id = link.getAttribute('href').slice(1);
+          document.getElementById(id).scrollIntoView({ behavior: 'smooth', block: 'start' });
+          history.pushState(null, '', '#' + id);
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

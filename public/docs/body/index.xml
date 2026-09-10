@@ -1,1 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第一章：身體概觀 Chapter 1: The Body on Gray's Anatomy for Students - 3rd Edition</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/body/</link><description>Recent content in 第一章：身體概觀 Chapter 1: The Body on Gray's Anatomy for Students - 3rd Edition</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://b101108063-ops.github.io/grays_anatomy/docs/body/index.xml" rel="self" type="application/rss+xml"/><item><title>解剖學術語（Anatomical Terminology）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/body/01-anatomical-terminology/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/01-anatomical-terminology/</guid><description>::: {.content-box .key-points} 本章重點 熟悉解剖學方位術語是理解人體結構的基礎 掌握三大身體平面及其在臨床影像中的應用 理解運動術語以描述關節活動 了解解剖學對應術語的歷史</description></item><item><title>身體系統（Body Systems）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/body/02-body-systems/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/02-body-systems/</guid><description>::: {.content-box .key-points} 本章重點 人體由多個相互依存的系統組成，共同維持生命功能 骨骼系統提供結構支撐與保護 心血管與呼吸系統共同完成氣體交換 神經系統整合與協調各系</description></item><item><title>胚胎學概述（Embryology Overview）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/body/03-embryology/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/03-embryology/</guid><description>::: {.content-box .key-points} 本章重點 三胚層的形成是胚胎發育的基礎 外胚層形成神經系統和皮膚 中胚層形成肌肉、骨骼和心血管系統 內胚層形成消化道和呼吸道上皮 胎兒循環在出生</description></item><item><title>影像學（Medical Imaging）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/body/04-imaging/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/04-imaging/</guid><description>::: {.content-box .key-points} 本章重點 各種影像學方法有不同的原理和適用範圍 X光是首選篩檢工具，但軟組織對比差 CT適用於創傷和緊急情況，提供快速横断面影像 MRI軟組織</description></item><item><title>表面解剖總複習（Surface Anatomy Review）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/body/05-surface-anatomy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/05-surface-anatomy/</guid><description>::: {.content-box .key-points} 本章重點 表面解剖標誌是定位深層結構的參考點 頭頸部的眶上孔、眶下孔、頦孔是三叉神經麻醉的常見部位 腹部九分法有助於定位內臟和描述腹痛位置 脊</description></item><item><title>組織學基礎（Histology Basics）</title><link>https://b101108063-ops.github.io/grays_anatomy/docs/body/06-histology/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/06-histology/</guid><description>::: {.content-box .key-points} 本章重點 上皮組織依細胞層數和形狀分為多種類型 結締組織是最多樣化的組織類型 三種肌肉組織各有獨特的顯微特徵 神經組織由神經元和神經膠質細胞組</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>第一章：身體概觀 Chapter 1: The Body on Gray&#39;s Anatomy for Students - 3rd Edition</title>
+    <link>https://b101108063-ops.github.io/grays_anatomy/docs/body/</link>
+    <description>Recent content in 第一章：身體概觀 Chapter 1: The Body on Gray&#39;s Anatomy for Students - 3rd Edition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://b101108063-ops.github.io/grays_anatomy/docs/body/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>解剖學術語（Anatomical Terminology）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/body/01-anatomical-terminology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/01-anatomical-terminology/</guid>
+      <description>::: {.content-box .key-points} 本章重點 熟悉解剖學方位術語是理解人體結構的基礎 掌握三大身體平面及其在臨床影像中的應用 理解運動術語以描述關節活動 了解解剖學對應術語的歷史</description>
+    </item>
+    <item>
+      <title>身體系統（Body Systems）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/body/02-body-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/02-body-systems/</guid>
+      <description>::: {.content-box .key-points} 本章重點 人體由多個相互依存的系統組成，共同維持生命功能 骨骼系統提供結構支撐與保護 心血管與呼吸系統共同完成氣體交換 神經系統整合與協調各系</description>
+    </item>
+    <item>
+      <title>胚胎學概述（Embryology Overview）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/body/03-embryology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/03-embryology/</guid>
+      <description>::: {.content-box .key-points} 本章重點 三胚層的形成是胚胎發育的基礎 外胚層形成神經系統和皮膚 中胚層形成肌肉、骨骼和心血管系統 內胚層形成消化道和呼吸道上皮 胎兒循環在出生</description>
+    </item>
+    <item>
+      <title>影像學（Medical Imaging）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/body/04-imaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/04-imaging/</guid>
+      <description>::: {.content-box .key-points} 本章重點 各種影像學方法有不同的原理和適用範圍 X光是首選篩檢工具，但軟組織對比差 CT適用於創傷和緊急情況，提供快速横断面影像 MRI軟組織</description>
+    </item>
+    <item>
+      <title>表面解剖總複習（Surface Anatomy Review）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/body/05-surface-anatomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/05-surface-anatomy/</guid>
+      <description>::: {.content-box .key-points} 本章重點 表面解剖標誌是定位深層結構的參考點 頭頸部的眶上孔、眶下孔、頦孔是三叉神經麻醉的常見部位 腹部九分法有助於定位內臟和描述腹痛位置 脊</description>
+    </item>
+    <item>
+      <title>組織學基礎（Histology Basics）</title>
+      <link>https://b101108063-ops.github.io/grays_anatomy/docs/body/06-histology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://b101108063-ops.github.io/grays_anatomy/docs/body/06-histology/</guid>
+      <description>::: {.content-box .key-points} 本章重點 上皮組織依細胞層數和形狀分為多種類型 結締組織是最多樣化的組織類型 三種肌肉組織各有獨特的顯微特徵 神經組織由神經元和神經膠質細胞組</description>
+    </item>
+  </channel>
+</rss>
