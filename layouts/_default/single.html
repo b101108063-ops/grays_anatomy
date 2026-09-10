@@ -5,27 +5,266 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ .Title }}</title>
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; background: #1a1a1a; color: #e0e0e0; }
-    h1 { color: #fff; border-bottom: 2px solid #58a6ff; padding-bottom: 10px; }
-    h2 { color: #e6edf3; margin-top: 40px; border-bottom: 1px solid #30363d; padding-bottom: 8px; }
-    h3 { color: #e6edf3; margin-top: 30px; }
-    p { margin-bottom: 16px; }
-    strong { color: #79c0ff; }
-    blockquote { background: #0d1f0d; border-left: 4px solid #2ea043; padding: 12px 16px; margin: 16px 0; }
-    blockquote p { margin-bottom: 8px; color: #b0d4a8; }
-    code { background: #2d333b; padding: 2px 6px; border-radius: 4px; }
-    pre { background: #2d333b; padding: 16px; border-radius: 8px; overflow-x: auto; }
-    table { border-collapse: collapse; width: 100%; margin: 16px 0; }
-    th, td { border: 1px solid #30363d; padding: 8px 12px; text-align: left; }
-    th { background: #21262d; }
-    a { color: #58a6ff; }
-    .clinical { background: #0d1f0d; border: 1px solid #2ea043; border-radius: 6px; padding: 16px; margin: 20px 0; }
-    .clinical-title { color: #2ea043; font-weight: bold; text-transform: uppercase; margin-bottom: 12px; }
+    :root {
+      --bg: #0d1117;
+      --sidebar-bg: #161b22;
+      --card-border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --accent-green: #3fb950;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    .site-header {
+      background: linear-gradient(135deg, #1a2332 0%, #0d1117 100%);
+      border-bottom: 1px solid var(--card-border);
+      padding: 22px 24px 18px;
+      text-align: center;
+    }
+    .site-header .back-link {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+    .site-header .back-link:hover { color: var(--accent); }
+    .site-header h1 { font-size: 1.3rem; font-weight: 700; color: #fff; }
+
+    .layout { display: flex; max-width: 1200px; margin: 0 auto; min-height: calc(100vh - 80px); }
+
+    .sidebar {
+      width: 230px;
+      flex-shrink: 0;
+      background: var(--sidebar-bg);
+      border-right: 1px solid var(--card-border);
+      padding: 20px 0;
+      position: sticky;
+      top: 0;
+      max-height: 100vh;
+      overflow-y: auto;
+    }
+    .sidebar::-webkit-scrollbar { width: 4px; }
+    .sidebar::-webkit-scrollbar-thumb { background: var(--card-border); border-radius: 2px; }
+
+    .sidebar-title {
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      padding: 0 18px 10px;
+      border-bottom: 1px solid var(--card-border);
+      margin-bottom: 6px;
+    }
+
+    .toc { padding: 8px 10px 12px; }
+    .toc-list { list-style: none; margin: 0; padding: 0; }
+    .toc-list li { margin: 0; }
+
+    .toc-item { display: block; }
+    .toc-item > a {
+      display: block;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      padding: 4px 8px 4px 10px;
+      border-left: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s, background 0.15s;
+      line-height: 1.4;
+    }
+    .toc-item > a:hover {
+      color: var(--accent);
+      border-left-color: var(--accent);
+      background: rgba(88,166,255,0.06);
+    }
+    .toc-item.active > a {
+      color: var(--accent);
+      border-left-color: var(--accent);
+      background: rgba(88,166,255,0.1);
+      font-weight: 600;
+    }
+    .toc-item.level-h3 > a { padding-left: 22px; font-size: 0.76rem; }
+    .toc-item.level-h4 > a { padding-left: 34px; font-size: 0.72rem; }
+    .toc-sub { list-style: none; margin: 0; padding: 0; }
+
+    .toc-empty {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      padding: 8px 18px;
+      font-style: italic;
+    }
+
+    .main-content { flex: 1; min-width: 0; padding: 28px 40px 60px; }
+    .main-content h1 { color: #fff; font-size: 1.65rem; margin-bottom: 12px; border-bottom: 2px solid var(--accent); padding-bottom: 10px; }
+    .main-content h2 { color: #e6edf3; margin-top: 34px; margin-bottom: 10px; border-bottom: 1px solid var(--card-border); padding-bottom: 7px; font-size: 1.2rem; }
+    .main-content h3 { color: #e6edf3; margin-top: 22px; margin-bottom: 7px; font-size: 1.02rem; }
+    .main-content h4 { color: #c9d1d9; margin-top: 16px; margin-bottom: 5px; }
+    .main-content p { margin-bottom: 13px; color: #c9d1d9; }
+    .main-content strong { color: #79c0ff; }
+    .main-content a { color: var(--accent); text-decoration: none; }
+    .main-content a:hover { text-decoration: underline; }
+    .main-content blockquote { background: #0d1f0d; border-left: 4px solid var(--accent-green); padding: 11px 15px; margin: 14px 0; border-radius: 0 6px 6px 0; }
+    .main-content blockquote p { margin-bottom: 7px; color: #b0d4a8; }
+    .main-content blockquote p:last-child { margin-bottom: 0; }
+    .main-content ul, .main-content ol { margin: 11px 0 13px 20px; color: #c9d1d9; }
+    .main-content li { margin-bottom: 5px; }
+    .main-content table { width: 100%; border-collapse: collapse; margin: 14px 0; font-size: 0.87rem; }
+    .main-content th { background: #1c2128; color: #e6edf3; padding: 7px 11px; text-align: left; border: 1px solid var(--card-border); }
+    .main-content td { padding: 7px 11px; border: 1px solid var(--card-border); color: #c9d1d9; }
+    .main-content tr:nth-child(even) td { background: #161b22; }
+    .main-content hr { border: none; border-top: 1px solid var(--card-border); margin: 22px 0; }
+    .main-content code { background: #2d333b; padding: 2px 6px; border-radius: 4px; font-size: 0.88em; }
+    .main-content pre { background: #161b22; border: 1px solid var(--card-border); padding: 15px; border-radius: 8px; overflow-x: auto; margin: 14px 0; }
+    .main-content pre code { background: none; padding: 0; }
+
+    @media (max-width: 860px) { .sidebar { display: none; } .main-content { padding: 24px 18px 48px; } }
+    @media (max-width: 500px) { .site-header h1 { font-size: 1rem; } }
   </style>
 </head>
 <body>
-  <article>
-    {{ .Content }}
-  </article>
+
+  <header class="site-header">
+    <a href="/grays_anatomy/" class="back-link">← 回首頁</a>
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-title">本章目錄</div>
+      <nav class="toc" id="toc-nav">
+        <ul class="toc-list" id="toc-list"></ul>
+      </nav>
+    </aside>
+
+    <main class="main-content" id="main-content">
+      {{ .Content }}
+    </main>
+  </div>
+
+  <script>
+    (function () {
+      var content = document.getElementById('main-content');
+      var tocList = document.getElementById('toc-list');
+      if (!content || !tocList) return;
+
+      // Find all headings
+      var headings = content.querySelectorAll('h2, h3, h4');
+      if (headings.length === 0) {
+        tocList.insertAdjacentHTML('afterend', '<p class="toc-empty">本頁尚無目錄</p>');
+        return;
+      }
+
+      var items = [];
+      headings.forEach(function (h, i) {
+        // Ensure heading has an ID
+        if (!h.id) {
+          h.id = 'section-' + i;
+        }
+        items.push({
+          tag: h.tagName.toLowerCase(),
+          text: h.textContent.replace(/<[^>]+>/g, '').trim(),
+          id: h.id,
+          level: parseInt(h.tagName.slice(1)) - 1  // h2=1, h3=2, h4=3
+        });
+      });
+
+      // Build nested HTML
+      function buildList(items) {
+        var html = '';
+        var lastByLevel = [];
+        items.forEach(function (item) {
+          var lvl = item.level;
+          var li = '<li class="toc-item level-h' + (lvl + 1) + '"><a href="#' + item.id + '">' + item.text + '</a>';
+          // close deeper items
+          for (var l = lvl + 1; l <= 4; l++) {
+            if (lastByLevel[l]) {
+              html += '</ul></li>';
+              lastByLevel[l] = false;
+            }
+          }
+          // open sub list if needed
+          if (lvl > 1) {
+            var parentLvl = lvl - 1;
+            // find parent
+            for (var p = items.indexOf(item) - 1; p >= 0; p--) {
+              if (items[p].level === parentLvl) {
+                // ensure parent has ul
+                var parentId = items[p].id;
+                // we'll handle nesting via simple indentation approach
+                break;
+              }
+            }
+          }
+          html += li;
+          lastByLevel[lvl] = true;
+          if (item.level < 3) {
+            html += '</li>';
+            lastByLevel[lvl] = false;
+          }
+        });
+        // close remaining
+        for (var l = 1; l <= 4; l++) {
+          if (lastByLevel[l]) html += '</ul></li>';
+        }
+        return html;
+      }
+
+      // Simple flat list with proper nesting
+      var nestedHtml = '';
+      var stack = [{ level: 0, end: '</ul></li>' }];
+
+      items.forEach(function (item) {
+        var lvl = item.level;
+        // close items deeper or equal
+        while (stack.length > 1 && stack[stack.length - 1].level >= lvl) {
+          nestedHtml += stack.pop().end;
+        }
+        // open new item
+        var tag = '<li class="toc-item level-h' + (lvl + 1) + '"><a href="#' + item.id + '">' + item.text + '</a>';
+        if (lvl < 3) {
+          nestedHtml += tag + '</li>\n';
+        } else {
+          nestedHtml += tag + '\n<ul class="toc-sub">\n';
+          stack.push({ level: lvl, end: '</ul></li>' });
+        }
+      });
+      while (stack.length > 1) nestedHtml += stack.pop().end;
+
+      tocList.innerHTML = nestedHtml;
+
+      // Scroll spy
+      var tocLinks = tocList.querySelectorAll('a');
+      var obs = new IntersectionObserver(function (entries) {
+        entries.forEach(function (e) {
+          if (e.isIntersecting) {
+            tocList.querySelectorAll('.toc-item').forEach(function (li) { li.classList.remove('active'); });
+            var link = tocList.querySelector('a[href="#' + e.target.id + '"]');
+            if (link) link.closest('.toc-item').classList.add('active');
+          }
+        });
+      }, { rootMargin: '-50px 0px -75% 0px' });
+
+      headings.forEach(function (h) { if (h.id) obs.observe(h); });
+
+      tocLinks.forEach(function (link) {
+        link.addEventListener('click', function (e) {
+          e.preventDefault();
+          var id = link.getAttribute('href').slice(1);
+          document.getElementById(id).scrollIntoView({ behavior: 'smooth', block: 'start' });
+          history.pushState(null, '', '#' + id);
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

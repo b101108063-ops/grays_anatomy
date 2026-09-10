@@ -10,6 +10,9 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+  heading Anchors:
+    idPrefix: "heading-"
+    class: "heading-anchor"
 
 params:
   BookSection: "docs"
